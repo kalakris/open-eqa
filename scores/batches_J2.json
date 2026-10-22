@@ -274,5 +274,45 @@
     "rows": 1636,
     "cost_usd": 1.1449160000000032,
     "parse_errors": 0
+  },
+  "F_f50": {
+    "batch_id": "batch_6ada3424ef6c819090c80b6c3fbd1ecd",
+    "file_id": "file-U1QQRX2N7qbEH3MJCScnUq",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T16:04:53+00:00"
+  },
+  "K_sonnet55": {
+    "batch_id": "batch_6ada3426aae08190956c7a9b17e30a65",
+    "file_id": "file-AT4RE3ckjWB8Aj6JUh1oTw",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T16:04:54+00:00"
+  },
+  "L_haiku55": {
+    "batch_id": "batch_6ada342875e48190bfce24a992fa67eb",
+    "file_id": "file-RqSH1ZW3H4cvz7FTxJ1foW",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T16:04:56+00:00"
+  },
+  "K_sonnet55_f50": {
+    "batch_id": "batch_6ada34296fbc8190aa1354dbabe768fe",
+    "file_id": "file-8qBFi5toDZGvmFXKYXs9hj",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T16:04:57+00:00"
+  },
+  "L_haiku55_f50": {
+    "batch_id": "batch_6ada342aa5548190a727c02f3aa26574",
+    "file_id": "file-N2qWqVNivdACJjaUd5DUAA",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T16:04:58+00:00"
   }
 }

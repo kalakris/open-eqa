@@ -51,6 +51,8 @@ def main():
     ap.add_argument("--num-frames", type=int, default=15)
     ap.add_argument("--image-size", type=int, default=512)
     ap.add_argument("--max-output-tokens", type=int, default=4000)
+    ap.add_argument("--effort", help="reasoning.effort; omit for the model default (medium on gpt-6-astra)")
+    ap.add_argument("--mode", help="reasoning.mode: standard (default) or pro")
     ap.add_argument("-j", "--workers", type=int, default=8, help="episodes in parallel")
     ap.add_argument("--limit", type=int)
     args = ap.parse_args()
@@ -73,6 +75,9 @@ def main():
     p = PRICES[args.model]
     settings = {"max_output_tokens": args.max_output_tokens, "num_frames": args.num_frames,
                 "image_size": args.image_size, "cache_breakpoint": "after last frame, ttl 30m"}
+    reasoning = {k: v for k, v in (("effort", args.effort), ("mode", args.mode)) if v}
+    extra = {"reasoning": reasoning} if reasoning else {}
+    settings["reasoning"] = reasoning or "model default"
     state = {"spent": spent_so_far(), "stop": False}
 
     def ask(item, paths):
@@ -81,7 +86,7 @@ def main():
                 return client.responses.create(
                     model=args.model,
                     input=build_input(prefix, suffix, item["question"], paths, args.image_size),
-                    max_output_tokens=args.max_output_tokens)
+                    max_output_tokens=args.max_output_tokens, **extra)
             except Exception as e:
                 if not _retryable(e) or attempt == 7:
                     raise

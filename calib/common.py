@@ -25,7 +25,7 @@ PRICES = {
 # gpt-4-turbo shut down (account balance $150), then -> $160 after another $50 top-up
 # (balance $200), for J0p on the Sonnet/Haiku sets, then -> $212 after $20 more (balance $220)
 # for astra at 50 frames.
-BUDGET_USD = 212.0
+BUDGET_USD = 216.0
 
 
 def load_env():
