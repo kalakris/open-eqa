@@ -36,6 +36,8 @@ from openeqa.utils.prompt_utils import load_prompt
 PRICES = {
     "claude-opus-5-5": (4.0, 5.0, 0.20, 20.0),
     "claude-fable-5-1": (10.0, 12.5, 0.25, 50.0),
+    "claude-sonnet-5-5": (2.0, 2.5, 0.20, 10.0),
+    "claude-haiku-5-5": (0.10, 0.125, 0.01, 0.50),
 }
 
 

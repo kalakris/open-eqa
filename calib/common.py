@@ -22,8 +22,10 @@ PRICES = {
 
 # Hard stop across all runs. Raised with approval on 2026-10-22: $70 -> $95 when the account
 # held $100, then -> $140 after a $50 top-up, then -> $145 to finish the last J0p rows before
-# gpt-4-turbo shut down (account balance $150).
-BUDGET_USD = 145.0
+# gpt-4-turbo shut down (account balance $150), then -> $160 after another $50 top-up
+# (balance $200), for J0p on the Sonnet/Haiku sets, then -> $212 after $20 more (balance $220)
+# for astra at 50 frames.
+BUDGET_USD = 212.0
 
 
 def load_env():
