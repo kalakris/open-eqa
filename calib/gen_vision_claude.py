@@ -39,6 +39,15 @@ PRICES = {
 }
 
 
+def build_content_files(prefix, suffix, question, keys, manifest):
+    """Same layout as build_content, but frames are Files API references (see upload_frames_claude)."""
+    content = [{"type": "text", "text": prefix}]
+    content += [{"type": "image", "source": {"type": "file", "file_id": manifest[k]}} for k in keys]
+    content[-1]["cache_control"] = {"type": "ephemeral"}
+    content.append({"type": "text", "text": "User Query:" + suffix.format(question=question)})
+    return content
+
+
 def build_content(prefix, suffix, question, paths, image_size):
     msgs = prepare_openai_vision_messages(
         prefix=prefix, suffix="User Query:" + suffix.format(question=question),
@@ -76,7 +85,9 @@ def main():
     ap.add_argument("--max-tokens", type=int, default=8000, help="covers thinking + answer")
     ap.add_argument("-j", "--workers", type=int, default=6, help="episodes in parallel")
     ap.add_argument("--limit", type=int)
+    ap.add_argument("--files-manifest", help="use uploaded frames (calib/upload_frames_claude.py)")
     args = ap.parse_args()
+    manifest = json.load(open(args.files_manifest)) if args.files_manifest else None
 
     load_env()
     client = anthropic.Anthropic(api_key=os.environ["CLAUDE_API_KEY"], timeout=600, max_retries=0)
@@ -97,7 +108,8 @@ def main():
     pin, pwrite, pread, pout = PRICES[args.model]
     settings = {"effort": args.effort, "thinking": "adaptive (always on)", "max_tokens": args.max_tokens,
                 "num_frames": args.num_frames, "image_size": args.image_size,
-                "cache": "ephemeral 5m after last frame", "fallbacks": "none"}
+                "cache": "ephemeral 5m after last frame", "fallbacks": "none",
+                "frames_via": "files api" if manifest else "base64"}
     state = {"spent": spent_so_far("anthropic"), "stop": False}
 
     def ask(content):
@@ -123,7 +135,12 @@ def main():
             if state["stop"]:
                 break
             t = time.time()
-            r = ask(build_content(prefix, suffix, item["question"], paths, args.image_size))
+            if manifest:
+                keys = [f"{ep}/{Path(p).name}" for p in paths]
+                content = build_content_files(prefix, suffix, item["question"], keys, manifest)
+            else:
+                content = build_content(prefix, suffix, item["question"], paths, args.image_size)
+            r = ask(content)
             text = "".join(b.text for b in r.content if b.type == "text").strip()
             u = r.usage
             write = u.cache_creation_input_tokens or 0
