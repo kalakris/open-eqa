@@ -214,5 +214,65 @@
     "rows": 557,
     "cost_usd": 0.3237800000000002,
     "parse_errors": 0
+  },
+  "F#2": {
+    "batch_id": "batch_6ada1a188e1c819090359c32935d17aa",
+    "file_id": "file-2ppD3KqvikUre212gcU5Ue",
+    "requests": 1079,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T14:13:45+00:00",
+    "collected": "2026-10-22T14:17:47+00:00",
+    "rows": 1079,
+    "cost_usd": 0.6195960000000005,
+    "parse_errors": 0
+  },
+  "H_opus55": {
+    "batch_id": "batch_6ada1a1a488081908f59a2598180e3e7",
+    "file_id": "file-884D5bkBVJbvAfeWAU4CS5",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T14:13:46+00:00",
+    "collected": "2026-10-22T14:20:07+00:00",
+    "rows": 1636,
+    "cost_usd": 1.1768700000000016,
+    "parse_errors": 0
+  },
+  "I_fable51": {
+    "batch_id": "batch_6ada1a1b2ebc81908bb849aba6ab87ab",
+    "file_id": "file-Qkxu8ug73RrryXCkaQ8gMT",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T14:13:47+00:00",
+    "collected": "2026-10-22T14:18:34+00:00",
+    "rows": 1636,
+    "cost_usd": 1.1380459999999983,
+    "parse_errors": 0
+  },
+  "H_opus55_f50": {
+    "batch_id": "batch_6ada1a1c109081909eb13c8b083344f8",
+    "file_id": "file-RtG3RW52sNxU47gyEFo74y",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T14:13:48+00:00",
+    "collected": "2026-10-22T14:18:35+00:00",
+    "rows": 1636,
+    "cost_usd": 1.1768479999999995,
+    "parse_errors": 0
+  },
+  "I_fable51_f50": {
+    "batch_id": "batch_6ada1a1d4eac81909acd1d59ff0290d3",
+    "file_id": "file-TfG39LXcju46Srin5etSMx",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T14:13:49+00:00",
+    "collected": "2026-10-22T14:17:00+00:00",
+    "rows": 1636,
+    "cost_usd": 1.1449160000000032,
+    "parse_errors": 0
   }
 }
