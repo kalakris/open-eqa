@@ -83,13 +83,22 @@ def cost(model: str, usage) -> float:
     return (usage.prompt_tokens * pin + usage.completion_tokens * pout) / 1e6
 
 
-def spent_so_far() -> float:
-    """Sum of cost_usd over every raw log, so the budget holds across separate runs."""
+# Anthropic credits are a separate $200 pool (2026-10-22), so Claude spend has its own stop.
+ANTHROPIC_BUDGET_USD = 190.0
+
+
+def spent_so_far(provider: str = "openai") -> float:
+    """Sum of cost_usd over every raw log for one provider, so budgets hold across runs.
+
+    Rows for claude-* models count as "anthropic"; everything else (OpenAI, and free Qwen) as "openai".
+    """
     total = 0.0
     for d in ("predictions/raw", "scores"):
         for p in (ROOT / d).glob("*.jsonl"):
             for row in read_jsonl(p):
-                total += row.get("cost_usd", 0.0)
+                is_claude = str(row.get("model", "")).startswith("claude-")
+                if is_claude == (provider == "anthropic"):
+                    total += row.get("cost_usd", 0.0)
     return total
 
 

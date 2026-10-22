@@ -35,9 +35,14 @@ def submit(args, client):
     prompts = {"mmbench": load_prompt("mmbench"), "mmbench-extra": load_prompt("mmbench-extra")}
     state = load_state(args.tag)
     for s in args.sets:
-        if s in state:
-            print(f"{s}: already submitted ({state[s]['batch_id']})")
+        # a set can get follow-up batches (keys "F", "F#2", ...) once earlier ones are collected,
+        # e.g. when new predictions are added to it
+        keys = [k for k in state if k.split("#")[0] == s]
+        pending = [k for k in keys if not state[k].get("collected")]
+        if pending:
+            print(f"{s}: batch {state[pending[0]]['batch_id']} not collected yet")
             continue
+        key = s if not keys else f"{s}#{len(keys) + 1}"
         done = {r["question_id"] for r in read_jsonl(ROOT / "scores" / f"{s}__{args.tag}.jsonl")}
         lines = []
         for p in json.load(open(ROOT / "predictions" / f"{s}.json")):
@@ -65,17 +70,18 @@ def submit(args, client):
         b = client.batches.create(input_file_id=f.id, endpoint="/v1/chat/completions",
                                   completion_window="24h",
                                   metadata={"set": s, "tag": args.tag})
-        state[s] = {"batch_id": b.id, "file_id": f.id, "requests": len(lines), "model": args.model,
-                    "max_completion_tokens": args.max_tokens, "submitted": now()}
+        state[key] = {"batch_id": b.id, "file_id": f.id, "requests": len(lines), "model": args.model,
+                      "max_completion_tokens": args.max_tokens, "submitted": now()}
         json.dump(state, open(state_path(args.tag), "w"), indent=2)
-        print(f"{s}: submitted {len(lines)} requests as {b.id}")
+        print(f"{key}: submitted {len(lines)} requests as {b.id}")
 
 
 def collect(args, client):
     state = load_state(args.tag)
-    for s, info in state.items():
+    for key, info in state.items():
         if info.get("collected"):
             continue
+        s = key.split("#")[0]
         b = client.batches.retrieve(info["batch_id"])
         counts = b.request_counts
         print(f"{s}: {b.status} ({counts.completed}/{counts.total} done, {counts.failed} failed)")
@@ -110,13 +116,13 @@ def collect(args, client):
                 "batch_id": info["batch_id"], "timestamp": now(),
             })
         # predictions that were None never went out; record them as llm_match would
-        sent = {r["question_id"] for r in rows}
+        out = ROOT / "scores" / f"{s}__{args.tag}.jsonl"
+        sent = {r["question_id"] for r in rows} | {r["question_id"] for r in read_jsonl(out)}
         for p in json.load(open(ROOT / "predictions" / f"{s}.json")):
             if p["answer"] is None and p["question_id"] not in sent:
                 rows.append({"question_id": p["question_id"], "judge": args.tag, "model": model,
                              "settings": settings, "raw": None, "score": 0, "parse_error": None,
                              "cost_usd": 0.0, "timestamp": now()})
-        out = ROOT / "scores" / f"{s}__{args.tag}.jsonl"
         with out.open("a") as f:
             for row in rows:
                 f.write(json.dumps(row) + "\n")
