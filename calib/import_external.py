@@ -8,6 +8,7 @@ predictions/external-sample-question-ids.txt.
 
 import json
 import random
+import sys
 from collections import defaultdict
 
 from calib.common import DATASET, ROOT
@@ -44,11 +45,14 @@ def sample_ids(data):
 
 
 def main():
+    full = "--full" in sys.argv  # every question in each run; the sample IDs file is still written
     data = json.load(open(DATASET))
     ids = sample_ids(data)
     (ROOT / "predictions" / "external-sample-question-ids.txt").write_text(
         "\n".join(sorted(ids)) + "\n"
     )
+    if full:
+        ids = {q["question_id"] for q in data}
     for name, rel in SETS.items():
         preds = {p["question_id"]: p["answer"] for p in json.load(open(EXT / rel))}
         out = [{"question_id": q, "answer": preds[q]} for q in sorted(ids) if q in preds]

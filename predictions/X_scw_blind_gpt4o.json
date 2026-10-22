@@ -8,20 +8,112 @@
     "answer": "wood"
   },
   {
+    "question_id": "00c2be2a-1377-4fae-a889-30936b7890c3",
+    "answer": "A kitchen towel"
+  },
+  {
+    "question_id": "00e8e77b-6d1d-45da-bedb-ca2b0868b9ed",
+    "answer": "a pen"
+  },
+  {
     "question_id": "0122f114-e1ae-4e86-816e-a8f91dcfea43",
     "answer": "The sink is typically located next to or above the dishwasher."
+  },
+  {
+    "question_id": "013bb857-f47d-4b50-add4-023cc4ff414c",
+    "answer": "wood"
+  },
+  {
+    "question_id": "016fb5d2-3c6f-4aa3-8493-7768aa3762a9",
+    "answer": "No"
+  },
+  {
+    "question_id": "01743cec-192c-48c0-8017-fa0c33ea7616",
+    "answer": "pictures or artwork"
+  },
+  {
+    "question_id": "0175891c-e182-478d-be8b-de1a10ff8540",
+    "answer": "You can see yourself by looking into a mirror."
+  },
+  {
+    "question_id": "018b71ee-f0d5-4774-87d6-f0a673a423ec",
+    "answer": "blue"
+  },
+  {
+    "question_id": "019f71a9-46c6-4b0f-b909-fb520416173b",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "01fcc568-f51e-4e12-b976-5dc8d554135a",
+    "answer": "On the bed."
   },
   {
     "question_id": "020f8677-ed5e-40cd-9406-56b33622d5c9",
     "answer": "You can share the presentation materials in several ways:"
   },
   {
+    "question_id": "024300a0-100f-427d-b643-d05b7768f894",
+    "answer": "on the kitchen counter"
+  },
+  {
+    "question_id": "025257b6-8b7e-4f6f-aacc-1788069cbfad",
+    "answer": "The recycling bin"
+  },
+  {
+    "question_id": "025258b4-51f0-4c83-b789-c4c186964c4d",
+    "answer": "It is likely plugged in."
+  },
+  {
+    "question_id": "02a02496-904f-456a-9032-d88af21fc6fa",
+    "answer": "A painting"
+  },
+  {
+    "question_id": "02c778b1-5d43-426d-885f-63f607ec8aa6",
+    "answer": "closed"
+  },
+  {
+    "question_id": "03145768-b1ba-4cf2-a537-9c334bfe5ce1",
+    "answer": "You should evacuate the building immediately and call emergency services. If it's safe to do so, you can also use a fire extinguisher to try to put out the fire, but your safety should be the top priority."
+  },
+  {
+    "question_id": "035062fd-f1e7-4ae5-be31-890ac991deae",
+    "answer": "On a chair or a couch."
+  },
+  {
     "question_id": "037d2811-3b0b-4ab8-8c91-19a5cded9eac",
     "answer": "A centerpiece"
   },
   {
+    "question_id": "04634367-4326-414b-9476-0e028c28e5b7",
+    "answer": "You can share a video to those in the room by using a device such as a smartphone, tablet, or laptop. Alternatively, if there is a TV or a projector in the room, you can connect your device to it via HDMI, casting, or screen mirroring to display the video on a larger screen."
+  },
+  {
+    "question_id": "0479de12-7feb-4c56-bb87-33849036a032",
+    "answer": "Scissors"
+  },
+  {
+    "question_id": "04886cce-d272-46e0-9235-68eac465549a",
+    "answer": "a soap dispenser"
+  },
+  {
+    "question_id": "04c770eb-c1a7-44c4-b91f-8aa24e2dbed9",
+    "answer": "off"
+  },
+  {
     "question_id": "04fe685f-7463-4b7d-b50e-d45023298212",
     "answer": "off"
+  },
+  {
+    "question_id": "054eac37-42f1-4870-84c3-1fa48f2a4b05",
+    "answer": "A light fixture"
+  },
+  {
+    "question_id": "05541e69-cce8-4ed6-8e30-399b437c8bfc",
+    "answer": "To draw an animal, you can follow these general steps:"
+  },
+  {
+    "question_id": "056a109e-100c-4fbf-a85b-aa57d22679d8",
+    "answer": "earmuffs"
   },
   {
     "question_id": "056ce5a4-f054-4e72-a4ce-4966fdd79571",
@@ -32,28 +124,180 @@
     "answer": "A light switch"
   },
   {
+    "question_id": "05aba429-6388-4a1b-ad39-e256e8b237c3",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "063fd978-bed1-45f2-9ee1-ba0cbbafd5be",
+    "answer": "There is not enough information to determine if the orange water bottle has water inside. However, if we make an educated guess, we might assume it does, as water bottles are typically used to hold water."
+  },
+  {
+    "question_id": "06564a86-aceb-4c05-a4ee-72f0f3a106e8",
+    "answer": "a tree"
+  },
+  {
+    "question_id": "06745779-f1b8-458b-8daa-ccc18d8958c8",
+    "answer": "A centerpiece or a bowl of fruit"
+  },
+  {
+    "question_id": "068f988b-7c7e-4c3e-b194-fcc99c2d6d9c",
+    "answer": "One"
+  },
+  {
+    "question_id": "06bde141-3961-4a70-a233-e37d971cd235",
+    "answer": "closed"
+  },
+  {
+    "question_id": "06c9b25c-b117-4b8f-a052-6fd71b2bb043",
+    "answer": "Jeans"
+  },
+  {
     "question_id": "06ce05ad-a447-4a3f-8311-daa5740115c3",
     "answer": "In the dining room."
+  },
+  {
+    "question_id": "07035e88-b9e3-4cac-a5cb-b3e7e335b68e",
+    "answer": "Yes, you might find some coffee or an energy drink in the kitchen."
+  },
+  {
+    "question_id": "07401190-3ebe-4cf0-a234-cfda55795868",
+    "answer": "Recyclables"
+  },
+  {
+    "question_id": "0748efce-1cd1-4b0f-89c3-1248e49bc8fc",
+    "answer": "A light fixture"
+  },
+  {
+    "question_id": "0762d773-14f4-4a4a-a517-b3b38735c254",
+    "answer": "To clean the floor, you should follow these steps:"
+  },
+  {
+    "question_id": "0785d52a-eb84-4159-9aff-54b20f79fa5f",
+    "answer": "closed"
+  },
+  {
+    "question_id": "07c4017d-db5a-447a-8086-17d9472e7100",
+    "answer": "In the living room."
   },
   {
     "question_id": "0808f052-79e3-4bde-bbb9-608077c86095",
     "answer": "On the kitchen counter."
   },
   {
+    "question_id": "085188fe-cd62-4470-91e9-11c1eece341d",
+    "answer": "a laptop"
+  },
+  {
+    "question_id": "086a7ecf-f4d3-450a-a66b-9fa62d5a86e2",
+    "answer": "blue"
+  },
+  {
+    "question_id": "087b4e0e-74bc-4440-aa2f-50f7c1496d88",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "088e4b66-160a-42c6-a65b-aa0a8967fb25",
+    "answer": "You can arrange the clothes kept on the table by following these steps:"
+  },
+  {
+    "question_id": "08b7d126-dbd4-48dd-9432-e1edb91ac425",
+    "answer": "No"
+  },
+  {
+    "question_id": "08c5d44c-4500-4c11-a2ca-d2cf924c0b46",
+    "answer": "empty"
+  },
+  {
+    "question_id": "08c65643-1f03-48fe-a6e8-c1d02ee4e027",
+    "answer": "A chair"
+  },
+  {
+    "question_id": "08e8e5fd-31a3-466b-afd6-fa171f1d9de4",
+    "answer": "A ceiling fan"
+  },
+  {
+    "question_id": "0926a44c-6440-4822-adb6-cf5d7962b412",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "093164ee-ba7e-4482-a8fa-b3bcb0b6f727",
+    "answer": "a sofa"
+  },
+  {
+    "question_id": "094de5c2-563d-4ba7-8ec9-7fff4b841920",
+    "answer": "closed"
+  },
+  {
+    "question_id": "098ece70-032d-4ccc-9c5d-428c34b24b27",
+    "answer": "A lamp"
+  },
+  {
+    "question_id": "09eeb05d-f4a5-4cfb-8ca6-60b64e9333d5",
+    "answer": "You can use a range hood or exhaust fan to decrease CO2 levels when cooking. Additionally, ensuring proper ventilation by opening windows or using an air purifier can help reduce CO2 buildup."
+  },
+  {
+    "question_id": "0a1fbfe2-43aa-418f-9f9e-205da59445ee",
+    "answer": "It might be in your bedroom or near the entrance of your home."
+  },
+  {
+    "question_id": "0a268fbb-c24d-40ec-a824-cf63efe5c4c0",
+    "answer": "a doorbell"
+  },
+  {
+    "question_id": "0a2df700-5c48-45be-a290-45bb44811362",
+    "answer": "Food from the kitchen"
+  },
+  {
     "question_id": "0a3aea98-1bfe-4071-8bb4-823b0c4bcdd7",
     "answer": "storage bins"
+  },
+  {
+    "question_id": "0aac4f49-8fff-4e34-8f86-285592c15cad",
+    "answer": "The television"
   },
   {
     "question_id": "0ae5ddbe-a98f-42dc-ab53-07ec0f9bfec4",
     "answer": "No, I haven't seen your shampoo."
   },
   {
+    "question_id": "0aed0f3a-57ce-47ae-92ac-e76db6ba5a26",
+    "answer": "Plates and utensils"
+  },
+  {
+    "question_id": "0b172e4a-7d92-4c4c-923d-9016fe12006d",
+    "answer": "a pen"
+  },
+  {
     "question_id": "0b28af1a-322e-4c62-95ed-e25d040059c3",
     "answer": "A hallway or entryway"
   },
   {
+    "question_id": "0b3fbdc0-7a98-41d7-82b5-b4ee42a352b4",
+    "answer": "You can turn on a desk lamp or adjust the overhead lighting. If there's a window nearby, you can also open the curtains or blinds to let in natural light."
+  },
+  {
+    "question_id": "0b48b97e-4a15-4181-bff3-8852f09f2f3e",
+    "answer": "It is likely in the city."
+  },
+  {
+    "question_id": "0b567fd4-e3f1-438f-8365-e4720916c118",
+    "answer": "On a decorative sign or wall art."
+  },
+  {
+    "question_id": "0b727ffa-414d-4495-8c75-8e2688c8204f",
+    "answer": "In the recycling bin."
+  },
+  {
     "question_id": "0b83a9d0-1a5e-4bb4-87c9-f67ade0f44a4",
     "answer": "The living room"
+  },
+  {
+    "question_id": "0b91264d-88c2-4758-9ea3-4b026dd951d0",
+    "answer": "It's difficult to determine the safety of the house without more information. Factors such as structural integrity, presence of hazardous materials, and security measures would need to be considered."
+  },
+  {
+    "question_id": "0b9f9893-66ce-42ef-b3a3-8ab4089b5394",
+    "answer": "white"
   },
   {
     "question_id": "0bc41aa3-c14f-4117-92ff-868fda0e5e4b",
@@ -64,16 +308,68 @@
     "answer": "On the wall"
   },
   {
+    "question_id": "0bdec62e-12aa-4f28-9a22-6606c38a6691",
+    "answer": "A painting"
+  },
+  {
     "question_id": "0c2896fc-c4a2-42be-b9cb-b0274cc94cf0",
     "answer": "On the coffee table"
+  },
+  {
+    "question_id": "0c6b5dce-8baf-4d95-b7ca-26fe915c4bd7",
+    "answer": "a clock"
+  },
+  {
+    "question_id": "0c81b6f8-2d46-4e07-a9d3-a019729d5570",
+    "answer": "A tissue or toilet paper"
   },
   {
     "question_id": "0c9ff956-2520-4529-b20d-541ed596bd97",
     "answer": "On a chair or a couch."
   },
   {
+    "question_id": "0ca99f77-6c99-4696-9352-eb651de75ce0",
+    "answer": "full of things"
+  },
+  {
+    "question_id": "0cbe9fd8-0b2c-40ce-9e9e-bd883fb7bff5",
+    "answer": "a dresser"
+  },
+  {
+    "question_id": "0cd06eb4-7e2e-4985-8b10-2b7437dc8c63",
+    "answer": "A pair of socks"
+  },
+  {
+    "question_id": "0cebd5cc-310b-427d-95e8-c15ee427a59a",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "0cf004a7-dab9-4bfe-8018-8e49cfda669d",
+    "answer": "Yes"
+  },
+  {
     "question_id": "0cf2b29c-af4c-4a50-9646-5aba1b3034ec",
     "answer": "a lamp"
+  },
+  {
+    "question_id": "0d62ea77-d02b-4ec2-b7eb-4f84ca421da2",
+    "answer": "wood"
+  },
+  {
+    "question_id": "0d7cb464-017b-43c9-a1e5-04cfae60cc17",
+    "answer": "An orange bottle of dish soap."
+  },
+  {
+    "question_id": "0d7f83ac-e0ae-405c-bdea-4eb5a9d1f0a0",
+    "answer": "wood"
+  },
+  {
+    "question_id": "0dd3f6f0-fe45-4bf4-ab4b-b750d05eda07",
+    "answer": "On the desk"
+  },
+  {
+    "question_id": "0df60236-15ad-4166-a31a-a98d14214fdb",
+    "answer": "Arabic numerals"
   },
   {
     "question_id": "0e2c244c-5fad-428b-9941-3eaec0d499d6",
@@ -84,16 +380,68 @@
     "answer": "closed"
   },
   {
+    "question_id": "0e369744-5723-4f41-a9e9-bb5185ccffd4",
+    "answer": "A painting or a mirror"
+  },
+  {
     "question_id": "0e49111c-608d-4d02-aacb-3705bdd0ca5e",
     "answer": "In the bathroom."
+  },
+  {
+    "question_id": "0ebea1eb-2a04-4daa-b783-8967f3d0232d",
+    "answer": "blue"
+  },
+  {
+    "question_id": "0ef0ebd1-db05-4f87-adc7-d01a640c1eed",
+    "answer": "On the wall."
   },
   {
     "question_id": "0ef94e7a-431d-4f84-80d5-0ce3b26a5eff",
     "answer": "blue"
   },
   {
+    "question_id": "0f05ae96-952c-48cb-ac87-0d6c66feb739",
+    "answer": "On the bathroom counter."
+  },
+  {
+    "question_id": "0f359392-b134-42f5-8715-5e3b68fa0973",
+    "answer": "the living room"
+  },
+  {
+    "question_id": "0f3d6204-48d9-4205-9a03-d6a13109feb3",
+    "answer": "a towel rack"
+  },
+  {
     "question_id": "0f4e8e46-129b-44d1-8201-95721841ce8c",
     "answer": "It depends on the size and layout of the room, as well as the type and arrangement of the seating available. However, if we assume it's a typical living room or a large enough space, it is possible for 10 people to sit in the room if there are enough chairs, sofas, or other seating options."
+  },
+  {
+    "question_id": "0f56a54b-eac3-4b98-b118-ddcbac7735e7",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "0fa26c3b-e79d-4aad-b534-607aaa34e8ec",
+    "answer": "closed"
+  },
+  {
+    "question_id": "0fba8ce5-d4b1-4585-ad22-9a4290907469",
+    "answer": "a counter"
+  },
+  {
+    "question_id": "0fd50c36-32f8-4a08-bee3-b5387db8be6b",
+    "answer": "White and beige"
+  },
+  {
+    "question_id": "1013266b-45cc-4e7e-97c1-f561dd007872",
+    "answer": "Apple"
+  },
+  {
+    "question_id": "1015cab7-827a-437c-ab86-6e4c2a9dd083",
+    "answer": "abstract"
+  },
+  {
+    "question_id": "10285eb2-f8d7-4fc6-8429-9d334744dea3",
+    "answer": "On the floor"
   },
   {
     "question_id": "106afc4c-2e83-495c-8727-b031b72d5a7e",
@@ -102,6 +450,10 @@
   {
     "question_id": "109eaad4-6e68-4da1-8f98-a0d8589ec26d",
     "answer": "On a shelf or a bedside table."
+  },
+  {
+    "question_id": "10d6d14b-ef30-42b6-89d7-b79eb4ce9b5d",
+    "answer": "a table"
   },
   {
     "question_id": "11574d0e-54bb-4900-b230-0f76f1f43266",
@@ -116,28 +468,204 @@
     "answer": "The wall in the living room might have a special feature such as a large window, a fireplace, or a piece of artwork."
   },
   {
+    "question_id": "11f04053-7f62-4beb-a0ee-3b26e1bfe406",
+    "answer": "A picture frame"
+  },
+  {
+    "question_id": "122417bb-6bcd-4d2f-87dc-96be6ba6c262",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "12413747-197f-4fde-870e-f75a411b1d96",
+    "answer": "Red and white"
+  },
+  {
+    "question_id": "12a6a639-cdc0-474a-a84a-1313a17cb89c",
+    "answer": "medium-sized"
+  },
+  {
+    "question_id": "12d8846e-83e7-4b0a-8aec-2611b5bce574",
+    "answer": "full"
+  },
+  {
+    "question_id": "13069f9c-0540-43f7-9a2c-67292be59c45",
+    "answer": "a smartphone"
+  },
+  {
+    "question_id": "134e115b-2956-457f-90e6-a1983a2ca2fb",
+    "answer": "A plant"
+  },
+  {
+    "question_id": "1392c3bc-4899-4728-85b1-e4458282ed22",
+    "answer": "black"
+  },
+  {
+    "question_id": "13ca7431-0b00-491d-81ae-6b14a2b618b4",
+    "answer": "blue"
+  },
+  {
     "question_id": "13d097e7-12c7-48e0-92c4-9667fc7f9c60",
     "answer": "In the kitchen."
+  },
+  {
+    "question_id": "142551d7-1c44-47cb-9406-98a9a26b4e5c",
+    "answer": "a book"
+  },
+  {
+    "question_id": "143ade55-0216-455d-8e2f-6aa249596986",
+    "answer": "The doll is on the bed."
+  },
+  {
+    "question_id": "14470554-f8c6-40e8-a301-46329e7a62ea",
+    "answer": "A scanner"
   },
   {
     "question_id": "14499a25-bca6-45e4-b390-3503c5b83b56",
     "answer": "In a drawer"
   },
   {
+    "question_id": "14774f3f-d14b-4e18-b5de-6e827a4d9e94",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "147a8d52-51a2-49cb-a096-b35bb6182800",
+    "answer": "The hand towel is likely hanging on a towel rack or a hook near the sink."
+  },
+  {
+    "question_id": "15025844-de18-4bbf-bae5-604c74c622b6",
+    "answer": "red and black"
+  },
+  {
+    "question_id": "1529242c-eff2-40a9-bf02-016f3291aa88",
+    "answer": "In the living room."
+  },
+  {
     "question_id": "1530fc16-2e49-4f5c-81ff-ff55226b07ba",
     "answer": "On the living room wall"
+  },
+  {
+    "question_id": "154d2dfe-5d4b-4e48-8904-42ae648433a4",
+    "answer": "A coffee table"
+  },
+  {
+    "question_id": "15c521f1-4798-498b-aaf5-41bc67b92e89",
+    "answer": "closed"
+  },
+  {
+    "question_id": "15d330b7-11bd-4b29-8263-5235cab34c21",
+    "answer": "closed"
+  },
+  {
+    "question_id": "15ef0e88-83c5-41dd-9a1f-cf9feb3dafbb",
+    "answer": "closed"
   },
   {
     "question_id": "15fd3498-0030-4f5c-b6de-43ee3f7e8c93",
     "answer": "On a low, sturdy coffee table"
   },
   {
+    "question_id": "16314d65-bc36-438b-8561-4720a7084beb",
+    "answer": "kept on"
+  },
+  {
+    "question_id": "16345ba0-9217-4f07-a79d-bbb965bc69a4",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "16414b2b-fe03-4bfe-94b0-ca7714fa4773",
+    "answer": "a sink"
+  },
+  {
+    "question_id": "16b19f88-4317-4e03-8817-e39f7320406b",
+    "answer": "wood"
+  },
+  {
     "question_id": "16ed2144-9409-45c3-a4e1-9bdcf506eab5",
     "answer": "You can connect your MacBook to a monitor using one of the following methods:"
   },
   {
+    "question_id": "1704d39c-27df-4531-bb38-6735893aaba9",
+    "answer": "white"
+  },
+  {
+    "question_id": "17215d78-a356-4ade-b84a-fabb161f9c38",
+    "answer": "closed"
+  },
+  {
+    "question_id": "1726fe6f-0db9-4b6b-b310-2591b907622d",
+    "answer": "a light fixture"
+  },
+  {
+    "question_id": "17d99f84-d536-4623-b428-d298f8669f09",
+    "answer": "I'm sorry, but I don't have enough information to determine if your backyard is safe for your dog. Safety can depend on various factors such as fencing, presence of harmful plants or animals, and overall environment."
+  },
+  {
+    "question_id": "182db45a-eeda-4ccd-841b-20ce864f5c1e",
+    "answer": "white"
+  },
+  {
+    "question_id": "183b1bcc-63b8-470b-a0a7-0d2c3ebcd079",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "187f254e-e839-4b3d-b1b8-e3856b2e5def",
+    "answer": "white and gray"
+  },
+  {
+    "question_id": "19015e68-6ff5-485b-a427-517b0074b264",
+    "answer": "Tissues"
+  },
+  {
+    "question_id": "192218eb-ac51-49c9-8626-a36227a52f12",
+    "answer": "The whiteboard is likely on the wall."
+  },
+  {
+    "question_id": "1944fb34-b19b-4775-ae0a-4c0c9b38cfd5",
+    "answer": "No"
+  },
+  {
+    "question_id": "197342c3-490c-4d6c-9fc9-e4003bc61c17",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "199fc658-9cb8-431b-a087-211d797b8838",
+    "answer": "A desk"
+  },
+  {
+    "question_id": "19aa71b9-e542-4c87-9a52-bc8469c73f6e",
+    "answer": "manually"
+  },
+  {
+    "question_id": "19baf626-2db5-4fb0-a7ad-02896fa77b18",
+    "answer": "hardwood"
+  },
+  {
+    "question_id": "19fb8649-37e1-4215-9eeb-260da276db56",
+    "answer": "a nightstand"
+  },
+  {
+    "question_id": "19fd09b1-acf4-461d-9cf4-e375a062bee7",
+    "answer": "In the hallway."
+  },
+  {
     "question_id": "1a159113-328a-4f85-876c-3b05f77ea04d",
     "answer": "No"
+  },
+  {
+    "question_id": "1a3df144-fd64-4b56-8ad3-a2d7965ec6d7",
+    "answer": "a computer monitor"
+  },
+  {
+    "question_id": "1a7b8523-e257-486c-951b-37c8c31c8b6c",
+    "answer": "blue"
+  },
+  {
+    "question_id": "1a8ee437-7b23-4457-9d70-649ac771c83c",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "1a94ff3a-d917-47c0-b906-7f8d4c8f88f5",
+    "answer": "Paper"
   },
   {
     "question_id": "1a9563fb-9aa3-4a1d-bae6-935fdafc18d4",
@@ -152,6 +680,18 @@
     "answer": "A chair"
   },
   {
+    "question_id": "1b0d4d46-70c0-4ac0-b75b-cdc7528df0b7",
+    "answer": "No"
+  },
+  {
+    "question_id": "1b36e675-74ff-46ad-8caa-c33da46a5a67",
+    "answer": "On the patio or in the dining room."
+  },
+  {
+    "question_id": "1b675207-bc40-4620-bd9f-926c45741f55",
+    "answer": "The left armchair"
+  },
+  {
     "question_id": "1bb3eae5-36b9-4947-ae30-88de6f0ae85c",
     "answer": "a keyboard"
   },
@@ -160,8 +700,64 @@
     "answer": "In the living room."
   },
   {
+    "question_id": "1c2b0364-2b79-47c5-86a2-2c3c7e6a480c",
+    "answer": "There might be room on the top layer of the shelf."
+  },
+  {
+    "question_id": "1c4ca9b3-bbc4-4515-9254-cbff8c6c166d",
+    "answer": "A soap dispenser and a small plant"
+  },
+  {
+    "question_id": "1c89b1e8-b690-4bdf-8f73-32e4d3f27d60",
+    "answer": "You typically turn on the sink by using the faucet handles. There are usually two handles, one for hot water and one for cold water. Turn the handles counterclockwise to open the valves and allow water to flow. In some modern sinks, you might find a single lever that you lift or rotate to control both the water flow and temperature."
+  },
+  {
+    "question_id": "1cfe0ea7-c0fd-4625-be0e-f1e6f2ba53ba",
+    "answer": "In the event of a fire emergency, you should:"
+  },
+  {
+    "question_id": "1d1fc168-af39-4ff2-b6f0-9727ecbe4fc8",
+    "answer": "a laptop"
+  },
+  {
+    "question_id": "1d4d333e-c5e4-443f-833b-719cd8521387",
+    "answer": "a power cord"
+  },
+  {
+    "question_id": "1dcdd225-eba2-4ba1-97b6-c4cdc7ca4e9b",
+    "answer": "In a kitchen drawer or a knife block."
+  },
+  {
+    "question_id": "1dfedfc5-04e6-4e73-99e5-3725b3d5c58b",
+    "answer": "closed"
+  },
+  {
     "question_id": "1eb05aa7-89a0-4e9f-a06d-e05a2e4e8e63",
     "answer": "red"
+  },
+  {
+    "question_id": "1ee35fbe-3328-413e-9471-1776b91e2980",
+    "answer": "No"
+  },
+  {
+    "question_id": "1f1bed27-29f7-40eb-861d-40258be57f2f",
+    "answer": "Yes, there could be a clock."
+  },
+  {
+    "question_id": "1f420b3a-42af-4c49-a6f1-51982b95c481",
+    "answer": "off"
+  },
+  {
+    "question_id": "1f529863-7759-4e36-8d11-476a214ab153",
+    "answer": "It depends on the specific features and layout of the home. A good home for someone in a wheelchair typically has features like wide doorways, low countertops, accessible bathrooms, and minimal stairs. Without more information, it's difficult to determine if this home is suitable for someone in a wheelchair."
+  },
+  {
+    "question_id": "1f7b15f1-f66f-41b7-a42e-81d610134c6a",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "1f92c3e6-07b9-48ec-948a-4719914b867c",
+    "answer": "a plant"
   },
   {
     "question_id": "1fbc24a6-7ae9-4143-829d-1ba21650958f",
@@ -172,56 +768,332 @@
     "answer": "Yes"
   },
   {
+    "question_id": "1ff1ee88-0a90-44f8-bfb1-f63ead769421",
+    "answer": "a vase"
+  },
+  {
+    "question_id": "1ff26710-75bf-4e00-8d3f-400ef3a3e4fe",
+    "answer": "In front of the bathtub or shower."
+  },
+  {
+    "question_id": "20144df8-0b9b-443c-b3ff-61a470621ed6",
+    "answer": "One"
+  },
+  {
+    "question_id": "20554aef-f6cc-47c0-b9a4-7fe850fd3988",
+    "answer": "chairs"
+  },
+  {
     "question_id": "206ca121-9185-484d-ab22-acfb082b1359",
     "answer": "You can dry your towel by hanging it on a towel rack or a clothesline, or by using a dryer if you have one available."
+  },
+  {
+    "question_id": "20a94fb9-5683-4809-8d59-af9ad1ef8092",
+    "answer": "a living room"
+  },
+  {
+    "question_id": "20ceb9d6-4817-4953-9acb-51d2a40668af",
+    "answer": "a lamp"
   },
   {
     "question_id": "20d5875f-4634-4db8-8f89-75986306a850",
     "answer": "On the kitchen counter."
   },
   {
+    "question_id": "20d8e2de-15af-48f0-89d7-39669e075d81",
+    "answer": "the basement"
+  },
+  {
+    "question_id": "20e5d3b2-989f-43dc-b5cc-ff0a844234f5",
+    "answer": "The printer is on a desk."
+  },
+  {
+    "question_id": "20e9fe5c-dd12-4bab-aed8-194dae180adc",
+    "answer": "a tote bag"
+  },
+  {
+    "question_id": "2105be27-3075-4024-aa9d-bbe2c8d171e5",
+    "answer": "family photos"
+  },
+  {
+    "question_id": "2136c0e0-7c04-4876-8f4d-e7ba1519a618",
+    "answer": "wood"
+  },
+  {
+    "question_id": "215163b9-887b-41e6-9dfa-ebddf46e29e0",
+    "answer": "No"
+  },
+  {
+    "question_id": "2188a1f3-d188-44b6-a166-0794ccfcf9b2",
+    "answer": "Yes"
+  },
+  {
     "question_id": "21c2be19-48f2-401a-aef3-c86156eb80ed",
     "answer": "white"
+  },
+  {
+    "question_id": "21cb1ce5-db23-4e0a-bd42-93524817c121",
+    "answer": "A doormat"
+  },
+  {
+    "question_id": "21f8ed6a-4ca4-465f-986d-c4390984d8a9",
+    "answer": "open"
   },
   {
     "question_id": "2227a360-4f65-4264-a786-a8490625f380",
     "answer": "You can warm up dinner using a microwave, stove, or oven. If you have a microwave, it's usually the quickest and easiest option. If you prefer, you can use the stove or oven for more even heating."
   },
   {
+    "question_id": "22295a94-7153-465e-a66b-9a9d9b5b08f8",
+    "answer": "closed"
+  },
+  {
+    "question_id": "225a293a-2a24-43da-a783-7012d968d731",
+    "answer": "In the bedroom."
+  },
+  {
+    "question_id": "225c132a-1ec6-47b3-8f5e-887b91168b93",
+    "answer": "a remote control"
+  },
+  {
+    "question_id": "226a9672-6811-4268-82b9-e2daddedf289",
+    "answer": "wood"
+  },
+  {
+    "question_id": "226ab7fe-8b53-4842-b313-1e7644771cb2",
+    "answer": "A teacher's desk"
+  },
+  {
+    "question_id": "226ff028-f02d-468d-aabf-033e8895fddf",
+    "answer": "a counter"
+  },
+  {
+    "question_id": "22ab3135-8e19-453a-a5dc-1dcd6cc19901",
+    "answer": "red"
+  },
+  {
+    "question_id": "22c1b723-7457-4c6d-a63f-de228f63cdf4",
+    "answer": "brown"
+  },
+  {
+    "question_id": "22c31dab-ea65-4752-b541-edcdb3c67108",
+    "answer": "two"
+  },
+  {
     "question_id": "233f7385-951e-4dd9-9fce-45d6465ff92d",
     "answer": "In an office or study area."
+  },
+  {
+    "question_id": "237b591c-fc08-4187-843e-c54aad388de8",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "239e8ab9-bab4-4cb2-8fda-3680d37b8edb",
+    "answer": "a plant"
+  },
+  {
+    "question_id": "23fb241e-989a-4299-a3fb-8d41f7156397",
+    "answer": "A nightstand"
+  },
+  {
+    "question_id": "24081174-8f10-4c45-83b1-11f83c60f46c",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "24228768-d745-4796-990f-2b5d8aeb4827",
+    "answer": "In the closet or on a coat rack near the entrance."
+  },
+  {
+    "question_id": "2428365a-5cd4-49df-8d69-5dd5efdb368e",
+    "answer": "a pet bed"
   },
   {
     "question_id": "2449be8f-1320-4061-beb0-2797f5766c73",
     "answer": "Yes"
   },
   {
+    "question_id": "249c1683-81b0-4d71-aa7c-4708fc3e9bf1",
+    "answer": "No"
+  },
+  {
     "question_id": "24aa7b71-ecd0-461e-94d5-0e4e0fc78a9c",
     "answer": "brown"
+  },
+  {
+    "question_id": "24d594b0-a305-40a0-9c53-c831dc8853bb",
+    "answer": "You can get some privacy when showering by closing the bathroom door and using a shower curtain or shower door."
+  },
+  {
+    "question_id": "25406fb9-39d1-4a9a-9800-ac882ae70f86",
+    "answer": "A cushion"
+  },
+  {
+    "question_id": "254e8ed6-a9da-4595-aa86-b6f53e253dfa",
+    "answer": "You can take a bath."
+  },
+  {
+    "question_id": "256c9e92-2dea-4152-8c84-4dfd881a3b96",
+    "answer": "Yes, you can take a nap on the bed in the bedroom."
+  },
+  {
+    "question_id": "262deeba-e8a4-45c3-b5df-ee9746b067a3",
+    "answer": "The light switch is typically located on the wall near the entrance of the room."
+  },
+  {
+    "question_id": "2652525c-79f2-4dba-a149-b898ca1c273c",
+    "answer": "No"
+  },
+  {
+    "question_id": "26bd014e-529f-4deb-bcfd-261f35ac7ff2",
+    "answer": "white"
+  },
+  {
+    "question_id": "26e6b5bf-e328-4e10-89e2-f1cea4949647",
+    "answer": "on the living room wall"
+  },
+  {
+    "question_id": "27102e3e-44e1-49f2-ac13-265f2dff8644",
+    "answer": "A countertop or sink"
+  },
+  {
+    "question_id": "27256d20-448b-4607-b504-c486af19ddd5",
+    "answer": "The table in the center of the room is clean."
+  },
+  {
+    "question_id": "2763f93f-d48a-4542-8a34-c016cbed805f",
+    "answer": "On the wall."
   },
   {
     "question_id": "27d14f84-ada8-4a66-becf-301486fbb7a0",
     "answer": "On the floor near the desk."
   },
   {
+    "question_id": "27fd907f-7c89-4e0a-9c6c-73ba570b0df6",
+    "answer": "The ceiling"
+  },
+  {
     "question_id": "28135ee1-f64d-4813-b430-09b15c7790ec",
     "answer": "A cutting board and a knife"
+  },
+  {
+    "question_id": "28348a31-3b08-4084-a7b3-057e160a9f8f",
+    "answer": "white"
   },
   {
     "question_id": "2854b5f9-4494-47dd-a394-67f3f8c81905",
     "answer": "white"
   },
   {
+    "question_id": "28694964-f409-42ee-b3a1-22b17c7f3408",
+    "answer": "blue"
+  },
+  {
+    "question_id": "28c1a366-3c5e-43d2-9ec9-e57000a08148",
+    "answer": "You can take your coffee outside and enjoy it on a patio or balcony."
+  },
+  {
+    "question_id": "28ea4932-55bf-44b3-9a48-73fde896b8ce",
+    "answer": "On a keychain or mounted on the wall near the garage door."
+  },
+  {
     "question_id": "28f6a1cb-2ad9-43cd-874a-d62faed8a39b",
     "answer": "On the wall."
+  },
+  {
+    "question_id": "28fd88c3-a292-4b88-b443-156d6170eff6",
+    "answer": "A spatula"
+  },
+  {
+    "question_id": "296cbc1f-8f63-46de-a603-ff169a29e1ff",
+    "answer": "Use the office's email system or a shared communication platform like Slack or Microsoft Teams to send a message to everyone."
+  },
+  {
+    "question_id": "29777777-f691-4781-93e1-afc066900b2a",
+    "answer": "On a desk"
+  },
+  {
+    "question_id": "297ec2f6-52fe-4dd2-a325-587510d53de7",
+    "answer": "closed"
+  },
+  {
+    "question_id": "29833f6e-eb10-4c6d-87e2-4824f837fce7",
+    "answer": "Given the lack of specific details about the room or its contents, it's challenging to determine the exact profession of the owner. However, a common guess could be:"
+  },
+  {
+    "question_id": "2998f70d-5600-47bf-865d-1b9366ef4fde",
+    "answer": "closed"
+  },
+  {
+    "question_id": "299c78da-6c6a-4dca-99e6-cfbcac54392d",
+    "answer": "On the bed frame."
+  },
+  {
+    "question_id": "29e05972-8b27-4a2d-b868-3cc072511ff6",
+    "answer": "closed"
   },
   {
     "question_id": "2a357e6a-8917-4c46-9abe-1e6ae70e01a6",
     "answer": "white"
   },
   {
+    "question_id": "2a90b1f9-1f60-436a-807f-b436881e3592",
+    "answer": "An alarm clock"
+  },
+  {
+    "question_id": "2a9641dc-5950-4f24-83f2-5e38b543cba1",
+    "answer": "Cleaning supplies"
+  },
+  {
+    "question_id": "2ad261f5-abca-4f27-a570-820c9c2f9760",
+    "answer": "No, the gray trash bin is full."
+  },
+  {
+    "question_id": "2ad61ec5-3dd3-4eae-9158-af06871c07e2",
+    "answer": "a coffee table"
+  },
+  {
+    "question_id": "2b318c1e-9c7e-4432-9961-94d0ee30b684",
+    "answer": "On the whiteboard tray"
+  },
+  {
     "question_id": "2b7089df-2398-43e7-9262-1c2a8069c524",
     "answer": "Yes, there is likely a place where you can leave your pet. It could be a pet bed or a crate, which are commonly found in living rooms, bedrooms, or designated pet areas in a home."
+  },
+  {
+    "question_id": "2b8f0752-2767-4322-810b-4c4f2992b4ad",
+    "answer": "Use a clothes dryer or hang them on a drying rack or clothesline."
+  },
+  {
+    "question_id": "2bd14832-c870-40da-815f-9ecaf2bc26d5",
+    "answer": "The kitchen"
+  },
+  {
+    "question_id": "2bf7aa3b-93bd-4d04-96a4-36c67476f49f",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "2c0e67a2-7625-40dc-ae37-00057910055a",
+    "answer": "a poster"
+  },
+  {
+    "question_id": "2c49d6d3-3b48-4680-a32e-2bb32a5af687",
+    "answer": "In the fruit bowl on the kitchen counter."
+  },
+  {
+    "question_id": "2c4c1beb-e285-44d6-84ce-4716dee56916",
+    "answer": "black"
+  },
+  {
+    "question_id": "2c5c6a8d-7836-4060-96ea-1db469211c57",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "2c6e4c06-e365-4b80-ab32-e7faee03f9af",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "2c898bd2-83f1-4e85-9eca-4ee3b94f52f5",
+    "answer": "It's likely."
   },
   {
     "question_id": "2cc52fa0-f32b-491f-89eb-85fae00f7eed",
@@ -232,24 +1104,196 @@
     "answer": "It has something written."
   },
   {
+    "question_id": "2cee5bf8-1297-4cee-8e8b-d808503cdfb1",
+    "answer": "closed"
+  },
+  {
+    "question_id": "2d03b6db-8e36-4fa5-be69-111d380a5eef",
+    "answer": "Trader Joe's"
+  },
+  {
     "question_id": "2d08592f-4390-49a3-aeb1-c4db6f0ba649",
     "answer": "A bath mat"
+  },
+  {
+    "question_id": "2d0b6748-bc9d-405a-ad38-6d6711162211",
+    "answer": "A towel or a paper towel"
+  },
+  {
+    "question_id": "2d2cc029-bad4-4dd3-9dc6-aeceb0207e2a",
+    "answer": "A chair"
+  },
+  {
+    "question_id": "2d53c160-e5f8-4615-9563-7899ec137c55",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "2d8aa869-37eb-4d16-9b2c-ceb0fd8fc00a",
+    "answer": "cluttered"
+  },
+  {
+    "question_id": "2dbd9c54-8dc3-4eca-b900-6e1dd1ccd2fc",
+    "answer": "To make a note, you can follow these steps:"
   },
   {
     "question_id": "2e1f37e6-0259-4cdb-817e-ba1d015458f6",
     "answer": "In a closet or dresser."
   },
   {
+    "question_id": "2e2b709a-e16c-4cb9-b8c3-8a4e68aa8283",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "2e655103-1aea-46d2-911a-cb67cc13563d",
+    "answer": "\"Live, Laugh, Love\""
+  },
+  {
+    "question_id": "2e65896f-43f9-4787-be1b-bd9631d4a54a",
+    "answer": "On the couch in the living room."
+  },
+  {
+    "question_id": "2eaa2322-26f3-4d90-b36c-db69768b78ac",
+    "answer": "a cushion"
+  },
+  {
+    "question_id": "2eb55dd7-a1bf-490f-a7e7-5e9786e55a6f",
+    "answer": "On a bookshelf."
+  },
+  {
+    "question_id": "2ed999e1-9553-4263-9645-995b6f6a96fc",
+    "answer": "a table"
+  },
+  {
+    "question_id": "2f26e7c5-b4f4-4d78-b2ac-7cda9f325b37",
+    "answer": "blue"
+  },
+  {
+    "question_id": "2f6546fe-af9d-4986-bbf6-3c189353126a",
+    "answer": "On the coffee table."
+  },
+  {
+    "question_id": "2f73aba9-c2c7-4f97-b3e4-2435960763b9",
+    "answer": "There isn't enough information to determine if the person who lives here is an avid reader. However, if there are many bookshelves filled with books or a reading nook, it might suggest that they are."
+  },
+  {
+    "question_id": "2f7ae8d8-efb7-4382-9eea-f9beee1d6a72",
+    "answer": "a lamp"
+  },
+  {
+    "question_id": "3023e719-7e23-412f-bcc1-cca426b7a5df",
+    "answer": "red"
+  },
+  {
     "question_id": "302c39c4-027f-416a-948f-018412123a98",
     "answer": "placed out"
+  },
+  {
+    "question_id": "30663e52-1655-4831-a610-433c177d9063",
+    "answer": "behind"
+  },
+  {
+    "question_id": "30ac302e-4445-4982-8202-3adbdf8d9682",
+    "answer": "a doorknob"
+  },
+  {
+    "question_id": "30cb94c6-57ed-4012-baaf-7f304117ad6a",
+    "answer": "The living room"
+  },
+  {
+    "question_id": "30d3104b-cc05-4860-83e8-255fe8311662",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "30d5d84c-4e8a-4570-bf62-767d7041a54c",
+    "answer": "A backpack"
+  },
+  {
+    "question_id": "30d7a3fe-abd8-4db0-91a1-28195f49c321",
+    "answer": "a pen"
+  },
+  {
+    "question_id": "30dc765d-80c3-4901-9c69-65e6b48e254a",
+    "answer": "red"
+  },
+  {
+    "question_id": "310af73b-9806-4e93-8916-c67b3bce5700",
+    "answer": "white"
   },
   {
     "question_id": "31354b71-c5e7-4c9a-b938-fd18c7515bd4",
     "answer": "One is black and the other is blue."
   },
   {
+    "question_id": "31357e26-ac28-45fc-b142-201f14cc183d",
+    "answer": "a blanket"
+  },
+  {
     "question_id": "31561566-4e70-40c7-9c5b-583ddc2d39cf",
     "answer": "a curtain"
+  },
+  {
+    "question_id": "31623a54-4b72-4e83-a5fc-8048c3b345fe",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "31b7a8e1-e61b-4e0a-8e16-069776931797",
+    "answer": "In the bathroom."
+  },
+  {
+    "question_id": "320a0be8-1bfc-462c-9d3e-8be5586d9f17",
+    "answer": "One door is open and the other is closed."
+  },
+  {
+    "question_id": "329be55d-4f68-42ef-839d-e2d11cfe2fe1",
+    "answer": "To fix the issue of a poster with a lot of white margin, you can try the following steps:"
+  },
+  {
+    "question_id": "32d69796-26fb-4467-8f17-786ebf010ece",
+    "answer": "You can find a power outlet on the wall, typically near the floor. In many indoor spaces, power outlets are commonly located in these areas."
+  },
+  {
+    "question_id": "330096e1-304d-4b9d-aa5d-9a057682faef",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "3318164c-fe79-4d22-a5f3-9c281eb257bc",
+    "answer": "blue"
+  },
+  {
+    "question_id": "3321cf87-c5fe-46cc-90c2-33d114503de6",
+    "answer": "A china cabinet"
+  },
+  {
+    "question_id": "3336b4ea-964b-431f-8dfb-c0e5329f4a7f",
+    "answer": "gray"
+  },
+  {
+    "question_id": "334154b8-edea-4fdf-964f-2d29cd553f08",
+    "answer": "On the desk."
+  },
+  {
+    "question_id": "33639e66-332d-4824-82ef-e1bf13e94ccb",
+    "answer": "The living room"
+  },
+  {
+    "question_id": "33722505-458f-44c2-92b3-4d16ad4cb38d",
+    "answer": "closed"
+  },
+  {
+    "question_id": "3380d816-8d9c-4087-856e-2ed2f7b247a4",
+    "answer": "No"
+  },
+  {
+    "question_id": "338713a1-c9a4-4ebc-b387-61409670d51a",
+    "answer": "On a chair or a sofa."
+  },
+  {
+    "question_id": "33bf0fc3-9b00-4c37-803f-c1c3c7bf860b",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "33f1e9ca-72e7-4c98-9b52-f6ddd4786483",
+    "answer": "On the desk."
   },
   {
     "question_id": "340c57fb-54b5-4a5e-b53f-77a9db08dfb3",
@@ -264,8 +1308,84 @@
     "answer": "It depends on the number of electrical outlets available on the kitchen counter. Typically, a kitchen counter might have 2-4 outlets, each of which can support one or more devices depending on the use of power strips or multi-outlet adapters. So, a reasonable guess would be 2-8 devices."
   },
   {
+    "question_id": "343fce64-b48f-43de-98db-412ac640770b",
+    "answer": "blue"
+  },
+  {
+    "question_id": "34440422-5884-4070-99fa-44b79bee7170",
+    "answer": "The color of the table lamp base is white."
+  },
+  {
+    "question_id": "34903a96-bc9e-4de6-ba55-059b1329d4fe",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "34ddc942-4b8b-419c-be6b-8c53b1c83dc3",
+    "answer": "In the living room."
+  },
+  {
     "question_id": "35073455-9eae-423a-bba4-a58ce111af37",
     "answer": "On a changing table."
+  },
+  {
+    "question_id": "352d1df4-83c8-430c-8d6e-f8b477d7e1c1",
+    "answer": "blue and white"
+  },
+  {
+    "question_id": "35639cf3-9253-4f17-8cfb-bca56a1ed1f8",
+    "answer": "Yes, a remote control."
+  },
+  {
+    "question_id": "3578a8a2-1970-495a-92d2-26e934524487",
+    "answer": "A vase"
+  },
+  {
+    "question_id": "358927b1-dd2c-4f64-b754-05d15476a1dc",
+    "answer": "There might be a poster roll next to a white mini fridge."
+  },
+  {
+    "question_id": "359102e5-42c0-4deb-8df2-7a591b41c25c",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "359eee52-344d-4589-9184-6c35a3bb489b",
+    "answer": "the dishwasher"
+  },
+  {
+    "question_id": "35bfcf60-4227-4bbb-9213-e1bf643b2325",
+    "answer": "closed"
+  },
+  {
+    "question_id": "35c42d77-9cdd-4072-b423-768350e0dbf2",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "35ccfa71-67e1-42c7-bd8c-e375348beab0",
+    "answer": "Yes, a person or a pet."
+  },
+  {
+    "question_id": "35d8886d-c5ba-455f-b1a7-6fb7807a951f",
+    "answer": "a radiator"
+  },
+  {
+    "question_id": "35e45750-271d-4206-a9bf-b962edae3860",
+    "answer": "closed"
+  },
+  {
+    "question_id": "35f5560e-3c25-4c27-ac25-4252b40ab6ab",
+    "answer": "On the coffee table"
+  },
+  {
+    "question_id": "361460f8-257d-4fde-b777-0446047d6160",
+    "answer": "On the dining table."
+  },
+  {
+    "question_id": "365b5e6a-8ef5-4434-b55c-6d5dc09d28f0",
+    "answer": "The living room"
+  },
+  {
+    "question_id": "3673c28f-e524-48f8-8756-a4bfdcded8a3",
+    "answer": "a book"
   },
   {
     "question_id": "3687c774-b8bf-4416-a77f-90fcec5b4302",
@@ -276,28 +1396,152 @@
     "answer": "white"
   },
   {
+    "question_id": "36cacb35-c82d-4bb2-9f48-74f87322d0c1",
+    "answer": "in the living room"
+  },
+  {
+    "question_id": "36d39635-96fa-4193-b7c1-8ef56a910dea",
+    "answer": "a cabinet"
+  },
+  {
+    "question_id": "36db3d39-a9e9-420d-8660-789ba4adb3cb",
+    "answer": "A chair"
+  },
+  {
+    "question_id": "371dc542-9854-4cfc-b8cf-a16fac37cb5e",
+    "answer": "No"
+  },
+  {
     "question_id": "378795a0-33e3-43bc-abd1-65c1371db7e4",
     "answer": "beige"
+  },
+  {
+    "question_id": "37c9a32b-ec45-4bba-aec5-d0abafd4b0d8",
+    "answer": "The black wire is likely near electronic devices or appliances."
+  },
+  {
+    "question_id": "37f74dbf-05d9-44c0-a5d0-6d996d16ccc5",
+    "answer": "You can turn off the lamp in the bedroom by either using the switch on the lamp itself, which is often located near the base or on the cord, or by using a wall switch if the lamp is connected to one. Some lamps may also have a touch-sensitive base or a remote control for turning them off."
   },
   {
     "question_id": "3825d20a-c58a-458a-971c-f1714dfccd9d",
     "answer": "Books and decorative items"
   },
   {
+    "question_id": "38ce32f5-3c19-46c3-94e6-79efa00a6fbe",
+    "answer": "open"
+  },
+  {
+    "question_id": "38db515f-e13a-4276-b25f-09111024fc2d",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "38fcfbac-c056-4f25-9c80-6de845696471",
+    "answer": "A vacuum cleaner or a mop"
+  },
+  {
+    "question_id": "38fe23f1-ea75-4a67-9528-a573e3407e1c",
+    "answer": "off"
+  },
+  {
+    "question_id": "3904a12e-13c0-4942-9577-75b4c53ac799",
+    "answer": "There are three boxes on the fourth shelf."
+  },
+  {
+    "question_id": "396436f6-b7fd-48c7-a4b6-1c2c596fd25e",
+    "answer": "a computer mouse"
+  },
+  {
+    "question_id": "39cd91e4-1abd-468b-a694-16fd68ac475b",
+    "answer": "A gnome"
+  },
+  {
+    "question_id": "39da40fe-2b93-4961-b878-acb32fd0df6f",
+    "answer": "The room is predominately used for living."
+  },
+  {
+    "question_id": "39f540b6-b206-4a9e-9fad-583c449de6c6",
+    "answer": "Nestl\u00e9 Pure Life"
+  },
+  {
     "question_id": "3a2a65ca-8e98-4e84-ac36-d352131f3ca7",
     "answer": "On the bedside table."
+  },
+  {
+    "question_id": "3a4ad822-79dd-460d-ac73-1c3acbf8dd11",
+    "answer": "On the hat rack."
+  },
+  {
+    "question_id": "3a5be057-47d2-4f78-98a9-729ef19b3d8b",
+    "answer": "white"
   },
   {
     "question_id": "3a73d258-b531-4504-9712-d6344e6d3d9f",
     "answer": "At a desk or table"
   },
   {
+    "question_id": "3a803472-47cd-4903-8380-d0b00efbbf08",
+    "answer": "open"
+  },
+  {
+    "question_id": "3a85f448-1665-4631-9bde-0571d6042934",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "3a9753fd-8be6-46e8-a908-40b91ec73868",
+    "answer": "a towel"
+  },
+  {
+    "question_id": "3aadb123-b0e1-49c2-9646-cc98a491cbe7",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "3ac6f399-c738-405e-8ce9-305e31e80ebf",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "3add68e4-194b-4d28-9b41-d1980fb2c4ae",
+    "answer": "blue"
+  },
+  {
+    "question_id": "3af8c1fb-bcde-4a18-83d1-c811785a3d48",
+    "answer": "The table in the living room is clean."
+  },
+  {
+    "question_id": "3b151322-ac8f-475c-90c0-841008e44006",
+    "answer": "White and black"
+  },
+  {
+    "question_id": "3b3a4b73-b47d-4742-b75f-3480e0563acb",
+    "answer": "You can make the room darker by closing the curtains or blinds, turning off any lights, or using blackout curtains."
+  },
+  {
+    "question_id": "3b4bc6d8-e8e1-4665-89ca-24139e48e51e",
+    "answer": "No"
+  },
+  {
     "question_id": "3b60d924-e584-4328-9259-b38fb590b528",
     "answer": "A window"
   },
   {
+    "question_id": "3ba5ff66-1622-4f4e-bc76-8371b1e0e17d",
+    "answer": "Roman numerals"
+  },
+  {
+    "question_id": "3c21d0ab-6036-4766-8bcf-599b12b80280",
+    "answer": "On a desk or table near an electrical outlet."
+  },
+  {
     "question_id": "3c2f39ec-36e9-4a88-b9f3-2f01613dcb0b",
     "answer": "a bookshelf"
+  },
+  {
+    "question_id": "3c4537d1-dbd6-4517-8e22-1248f8cd92aa",
+    "answer": "a light fixture"
+  },
+  {
+    "question_id": "3c466b52-b0c1-489f-8eec-342e330878ef",
+    "answer": "a mirror"
   },
   {
     "question_id": "3c4b5ee0-d307-42ab-ae09-52ac7c7ebb10",
@@ -306,6 +1550,26 @@
   {
     "question_id": "3c563c2d-01a4-4bec-b594-26c90e2f2b1f",
     "answer": "On a doormat"
+  },
+  {
+    "question_id": "3c5d9367-f664-4635-80a1-a58f915f483d",
+    "answer": "Near the entrance, possibly on a shoe rack or mat."
+  },
+  {
+    "question_id": "3c872380-37e2-47ec-9b64-f46dc9224953",
+    "answer": "gray"
+  },
+  {
+    "question_id": "3d1421e4-634c-4ce0-962e-746b3d6e0ec2",
+    "answer": "You can reduce the sunlight in the room by closing the curtains or blinds. If the room has shades, you can lower them as well. Additionally, you could use blackout curtains for more effective light reduction."
+  },
+  {
+    "question_id": "3d38c9f1-64a5-4e19-9715-5c4f4b7a818e",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "3d5f493f-3ae8-4681-830c-cf6081f5c1c7",
+    "answer": "You should look in a mirror."
   },
   {
     "question_id": "3d7fefc5-4359-4d9b-87d5-4eca5405d354",
@@ -324,8 +1588,24 @@
     "answer": "Yes, you can pour your soda into a glass or a cup."
   },
   {
+    "question_id": "3e15212e-ad0e-427a-9360-98449383c860",
+    "answer": "a dresser"
+  },
+  {
     "question_id": "3e28dc6c-9885-433a-9f8e-1fc3f225c92c",
     "answer": "On the dining table."
+  },
+  {
+    "question_id": "3e618dcd-a620-48d4-9dd5-45e1b6d5dea5",
+    "answer": "On the nightstand"
+  },
+  {
+    "question_id": "3e81102b-3741-4b10-8c66-07a4de67f85e",
+    "answer": "On a whiteboard or a piece of paper."
+  },
+  {
+    "question_id": "3e89fffe-1ced-412d-8096-59fbdc4a1386",
+    "answer": "a bar counter"
   },
   {
     "question_id": "3e900181-4cf3-41f9-bdb8-0e3e6f1b53e3",
@@ -336,12 +1616,72 @@
     "answer": "It is likely on the ground floor."
   },
   {
+    "question_id": "3e9974fb-8382-4f11-9755-538751e9a9be",
+    "answer": "a computer"
+  },
+  {
+    "question_id": "3ecbe224-e2a8-4712-ba42-bca265cfc12e",
+    "answer": "Notices or reminders"
+  },
+  {
+    "question_id": "3f67c4a2-e34e-4c30-aa9f-4e7229978990",
+    "answer": "a ceiling light"
+  },
+  {
+    "question_id": "3f6bd397-91f0-4ce8-8691-58e784b4bef6",
+    "answer": "It is likely full."
+  },
+  {
+    "question_id": "3f8e8ca6-3827-4c40-a062-000c20ea9f97",
+    "answer": "No"
+  },
+  {
+    "question_id": "4011b8b7-dc06-4e43-aeeb-6352e5e53dce",
+    "answer": "On a shelf in the living room."
+  },
+  {
+    "question_id": "4051918b-c777-4ea8-b3e3-623e1ab88cbe",
+    "answer": "The microwave"
+  },
+  {
+    "question_id": "406684f7-f87a-4360-8c90-42725b8fcfd2",
+    "answer": "white"
+  },
+  {
+    "question_id": "407a31fe-8dcf-4def-8b99-8118b84b0132",
+    "answer": "blue"
+  },
+  {
+    "question_id": "408ec556-fed0-40ad-b850-4a3240eebb00",
+    "answer": "closed"
+  },
+  {
+    "question_id": "4099caf7-210d-4e32-b9c6-8e23bf923503",
+    "answer": "A lamp"
+  },
+  {
     "question_id": "40b53277-91bf-40f4-8fbf-1b8df8bc5099",
     "answer": "metal"
   },
   {
+    "question_id": "40d6009e-d083-4208-891d-a17e3d548947",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "40eebfc7-36c2-456b-90fe-04e08cedcf45",
+    "answer": "It is likely an open floor plan."
+  },
+  {
+    "question_id": "41294b24-4e8f-4c19-a8d8-0ed1247090ec",
+    "answer": "A coffee table"
+  },
+  {
     "question_id": "4132f403-879b-457b-961c-f95df12748a0",
     "answer": "white"
+  },
+  {
+    "question_id": "41693f7e-4192-495e-9b4e-b238432c6424",
+    "answer": "It's unclear from the information provided."
   },
   {
     "question_id": "41939df6-c376-4034-bfb3-0ef1735ddf89",
@@ -352,28 +1692,272 @@
     "answer": "Yes"
   },
   {
+    "question_id": "41db3bb6-0bb5-4fcb-95b1-f19a32be4184",
+    "answer": "On the bedside table."
+  },
+  {
+    "question_id": "41f53d99-4277-4dec-892e-8e52a2cc7402",
+    "answer": "You can sit near the fireplace."
+  },
+  {
     "question_id": "4208a065-4c5d-4cea-a49a-3967d53cc6a8",
     "answer": "A coffee table"
+  },
+  {
+    "question_id": "433b1276-dd60-4551-8acd-fe77410d5b23",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "438e8c6f-f27d-4d3d-b13d-6f41c2981c2a",
+    "answer": "wood"
+  },
+  {
+    "question_id": "43ce5442-125d-4272-aa48-17748dde37bc",
+    "answer": "a laptop"
+  },
+  {
+    "question_id": "43f61659-5531-47c6-b766-98dcc472e526",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "440b8568-0390-4e9e-9955-74fb535f3616",
+    "answer": "On the wall."
+  },
+  {
+    "question_id": "4446bd7d-25fa-4996-9b23-9337b8512f07",
+    "answer": "off"
+  },
+  {
+    "question_id": "4452055f-2c7e-453e-8926-e1dbb8db50ff",
+    "answer": "Yes, you might find something to wear on the bed."
+  },
+  {
+    "question_id": "447e4e2d-7010-4672-b8e0-eb5246430499",
+    "answer": "A pillow"
+  },
+  {
+    "question_id": "44a23f96-b643-4e1b-94ad-48687d0f38b7",
+    "answer": "Circles"
+  },
+  {
+    "question_id": "44a4483a-7921-4edf-b531-a94a6da53ecc",
+    "answer": "on"
+  },
+  {
+    "question_id": "44ea3c68-4e15-412e-a56b-a75e66791287",
+    "answer": "The book with the yellow color in the second plastic bin (from the top) in the plastic bin stack is likely a children's book or a popular novel."
+  },
+  {
+    "question_id": "452d61cc-07d6-49d2-a59d-6cbb8412429c",
+    "answer": "A microwave"
+  },
+  {
+    "question_id": "45986175-0d27-4ac1-af21-13b50b45e9a5",
+    "answer": "A red bow tie"
+  },
+  {
+    "question_id": "45a5e082-a9e9-47ca-a036-dfafba92b16c",
+    "answer": "gray"
+  },
+  {
+    "question_id": "45dfc5d0-db2a-4de6-8dc7-8a1100d719ba",
+    "answer": "A basketball"
+  },
+  {
+    "question_id": "45ee4f2b-a432-4b53-8494-371102c34bb8",
+    "answer": "Four"
+  },
+  {
+    "question_id": "46728774-e6bf-4b62-bd67-970e902a6f5b",
+    "answer": "I'm sorry, but I can't see the images you're referring to. Could you please provide more details or describe the images?"
+  },
+  {
+    "question_id": "46a04f3a-56a5-4547-9cd9-c683919c0eb1",
+    "answer": "On the bed."
+  },
+  {
+    "question_id": "4701e80a-f33b-4d59-851e-7fa52bffa55a",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "471c0bc9-f594-42d9-90c7-075c14b2ede8",
+    "answer": "An eraser"
+  },
+  {
+    "question_id": "474b38f5-3bfb-4d0e-974c-edd341b3d424",
+    "answer": "on the floor"
+  },
+  {
+    "question_id": "47856f10-786a-4ceb-ad55-c583326c0dd0",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "47ce1cef-9602-4837-b422-e278993610c9",
+    "answer": "brown"
+  },
+  {
+    "question_id": "47ee33f1-a56d-4ea5-a746-75861ef25ad6",
+    "answer": "You can set up a place to study at a desk in a quiet room, such as a bedroom or a home office. If those options are not available, a dining table or a corner of the living room can also work well."
+  },
+  {
+    "question_id": "48128095-6cec-4cf2-a282-bf380146ce0c",
+    "answer": "To crack open the windows, you typically need to unlock them first. Look for a latch or lock mechanism, usually located at the bottom or side of the window frame. Once unlocked, you can either slide the window up (for vertical sliding windows) or push it outward (for casement windows) to open it slightly."
+  },
+  {
+    "question_id": "483d6ff5-e95e-428e-8990-606767755752",
+    "answer": "white"
+  },
+  {
+    "question_id": "483e26cc-ba2d-465f-a1ca-8838277627b5",
+    "answer": "brown"
+  },
+  {
+    "question_id": "4868b6d7-d999-4264-9c19-8fd7a4db93cd",
+    "answer": "On the wall"
+  },
+  {
+    "question_id": "48d8aa7f-61cb-469b-9b6d-2549d1210281",
+    "answer": "a blanket"
+  },
+  {
+    "question_id": "48de5c9f-014d-400c-8cbc-e714fee34744",
+    "answer": "a mirror"
+  },
+  {
+    "question_id": "48df3807-7f19-4bd6-aa77-9ba8f66483fd",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "49040c95-b666-4304-b342-30765c75aa74",
+    "answer": "blue"
+  },
+  {
+    "question_id": "490a726f-7323-46cd-96ca-9405d881d08a",
+    "answer": "spiral staircase"
+  },
+  {
+    "question_id": "49189243-1a64-4ac6-a32a-6aaf80ec6837",
+    "answer": "It has a plastic bag in it."
+  },
+  {
+    "question_id": "491bba39-1097-4315-955f-42175742180a",
+    "answer": "A hairbrush"
+  },
+  {
+    "question_id": "49276a81-6d39-4b37-8d89-ad25210debf9",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "49585c58-cc40-48c2-860a-5d58a5a7c048",
+    "answer": "Yes, you might find ibuprofen or acetaminophen in a medicine cabinet or first aid kit. These are common over-the-counter medications used to reduce swelling and relieve pain."
+  },
+  {
+    "question_id": "49723897-3ce8-4944-80ac-35f430386b4f",
+    "answer": "Super Mario Bros."
+  },
+  {
+    "question_id": "498b7528-b5c5-4072-8892-df27417afef3",
+    "answer": "blue"
   },
   {
     "question_id": "499bf969-8d75-4380-b60c-aea4a6ae47e5",
     "answer": "No"
   },
   {
+    "question_id": "49a03cab-013f-4fad-b072-1892e5067374",
+    "answer": "On the bed"
+  },
+  {
+    "question_id": "49dff9cf-97bf-427d-b83f-e35604654036",
+    "answer": "In the bathroom or kitchen, you can dry your hands using a towel or a hand dryer if one is available."
+  },
+  {
+    "question_id": "4a0b1006-0209-4e6a-a0fa-dab6835b6605",
+    "answer": "striped"
+  },
+  {
+    "question_id": "4a9fea90-ee47-4be9-a926-670af52f9618",
+    "answer": "You can increase airflow in the bedroom by:"
+  },
+  {
     "question_id": "4af07938-5cb6-4784-922d-893dc57ca225",
     "answer": "the dishwasher"
+  },
+  {
+    "question_id": "4bee5ae4-2d90-4de2-b009-8dfac4214368",
+    "answer": "On a windowsill."
   },
   {
     "question_id": "4bf0f902-bb29-42cc-9bab-b57de7847ede",
     "answer": "In the living room."
   },
   {
+    "question_id": "4c2b7400-16e0-4123-9276-f46a4e847cd4",
+    "answer": "shoes"
+  },
+  {
+    "question_id": "4c82287d-7310-45d8-9211-cfa21f352abf",
+    "answer": "You could use an extension cord to bridge the gap between your laptop charger and the electric outlet. Look around the room for an extension cord or power strip that can help extend the reach of your charger."
+  },
+  {
+    "question_id": "4cae28e3-0192-4460-8f15-293b8e9fa9d3",
+    "answer": "There might be space for another beanbag chair against the far wall downstairs, but it depends on the current layout and furniture arrangement in that area. Without more information, it's difficult to provide a definitive answer."
+  },
+  {
+    "question_id": "4cc4212e-0db2-421f-8bb5-93817e58f9b4",
+    "answer": "From the sink or the refrigerator."
+  },
+  {
+    "question_id": "4ccfd8a6-60ef-47ed-8de1-22943b1b4d49",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "4d127d5e-1a90-468c-93a0-0473c2d1623f",
+    "answer": "open"
+  },
+  {
+    "question_id": "4d6319bf-574d-44d0-9822-6a0414ef5178",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "4db64c99-2808-46c2-b71e-bacbd5273ec8",
+    "answer": "The bathroom door"
+  },
+  {
+    "question_id": "4dbd213e-56cd-481a-8ff5-ed9a8d636dbc",
+    "answer": "The light above the sink is turned off."
+  },
+  {
+    "question_id": "4dbede08-5637-46a4-a5b9-89e227b43204",
+    "answer": "grooming or personal care"
+  },
+  {
+    "question_id": "4dce5e88-17cb-43bc-9e50-024d55f55665",
+    "answer": "curtains"
+  },
+  {
+    "question_id": "4decde3d-5ab8-43db-893c-c3f3f80bcc76",
+    "answer": "A painting or a piece of art"
+  },
+  {
     "question_id": "4e6fcd0e-096c-482a-9420-6849ce73207b",
     "answer": "black"
   },
   {
+    "question_id": "4eb752c4-4144-426c-84f8-58ef6f312858",
+    "answer": "new"
+  },
+  {
     "question_id": "4ee1cb14-6687-4c3c-902e-ff38fe883bf4",
     "answer": "In the dining room."
+  },
+  {
+    "question_id": "4f65eebc-f602-44ae-8c37-e903f5d940c4",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "4f765634-429d-4ec6-a9a2-d3f350bee0c7",
+    "answer": "The gray office chair is likely in the office or study room."
   },
   {
     "question_id": "4fb6360d-36fe-4289-a90d-79af74380c69",
@@ -384,20 +1968,176 @@
     "answer": "a light fixture"
   },
   {
+    "question_id": "500e6924-0ea3-45c8-89ce-db3d37e142bf",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "501c3264-ca08-487d-a038-0e83968359f6",
+    "answer": "On the wall"
+  },
+  {
+    "question_id": "50367414-92a1-4509-a75e-2d0f32421e9e",
+    "answer": "curtains"
+  },
+  {
+    "question_id": "50780d08-48a2-45c7-b05e-4c0f9f511fd7",
+    "answer": "orange and white"
+  },
+  {
+    "question_id": "509d1fe4-3b62-43f5-bd80-b9c8032241ba",
+    "answer": "It depends on the current state of your desk. If it's cluttered with items, there might not be room. If it's organized or has fewer items, there could be room."
+  },
+  {
+    "question_id": "50bc08f3-1963-4356-a033-de345b74aa4a",
+    "answer": "double-hung windows"
+  },
+  {
+    "question_id": "50cf39e2-38cf-4dbc-9e34-d33877d1a2b3",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "50d2cdeb-86e2-46d7-9c32-ef91e66176f0",
+    "answer": "In the bathroom."
+  },
+  {
+    "question_id": "50e54518-481e-4f37-a3f6-f023d7f42bb1",
+    "answer": "blue"
+  },
+  {
+    "question_id": "50f4f7db-d50c-42f4-92fe-82387db91e0a",
+    "answer": "A centerpiece"
+  },
+  {
     "question_id": "50ff385e-1232-4683-a685-533022a3ed3f",
     "answer": "In the kitchen."
+  },
+  {
+    "question_id": "5132f0f2-df0d-4997-b5cd-f7c7c37b27fb",
+    "answer": "closed"
+  },
+  {
+    "question_id": "513d947f-2553-4f19-abdd-a052561b922d",
+    "answer": "curtains"
+  },
+  {
+    "question_id": "5141dd1c-5c1d-4e8c-8953-d3842dc55f66",
+    "answer": "A jacket"
+  },
+  {
+    "question_id": "5148a354-85bd-439b-bda8-6e15991553db",
+    "answer": "a doormat"
   },
   {
     "question_id": "516d6b7c-2674-4f6b-9ee7-5e1f16f4d47d",
     "answer": "In the kitchen."
   },
   {
+    "question_id": "5172a2f0-1c42-4d88-9342-302199466039",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "5178b12e-a949-4788-bbfe-36ecd035cec8",
+    "answer": "white"
+  },
+  {
+    "question_id": "51aec2d4-9bc8-4f01-92d0-14ed4aa27c5d",
+    "answer": "You can clean the plastic cup by washing it with warm soapy water. Use a sponge or dishcloth to scrub the inside and outside of the cup, then rinse it thoroughly with clean water. If you have a dishwasher, you can also place the plastic cup on the top rack and run it through a dishwasher cycle."
+  },
+  {
+    "question_id": "526b9ed9-c409-4cb9-b859-93f41f4c752a",
+    "answer": "An office"
+  },
+  {
+    "question_id": "52835ce7-7c9f-4717-ba8d-ed77461ccb90",
+    "answer": "You can get access to the internet through several means, depending on your location and available resources. Here are some common methods:"
+  },
+  {
+    "question_id": "52ce09d8-8549-42f7-b3dd-a12700c8b60c",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "52ee7f3e-fa1e-448b-9763-3984e23c3c1a",
+    "answer": "I'm not sure of the exact brand name of your shampoo without more information. However, some common shampoo brands include Head & Shoulders, Pantene, and Dove."
+  },
+  {
+    "question_id": "530c279f-0ebf-433d-9ef0-f4d2d86da682",
+    "answer": "A tissue or hand sanitizer"
+  },
+  {
+    "question_id": "53171175-2b63-4fe5-90f1-0f6fe72d88c0",
+    "answer": "red"
+  },
+  {
+    "question_id": "5353ec9d-b80a-4e92-a13e-dfb9f8cb67d7",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "53581c1b-e73a-4599-86aa-fde90c4e1ead",
+    "answer": "a detergent bottle"
+  },
+  {
+    "question_id": "53792cd2-9d0c-4350-a28b-aef96bd435d2",
+    "answer": "A cushion"
+  },
+  {
+    "question_id": "537f08da-a8a4-4295-9e10-bb718c95a9d5",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "538e2eb4-b91b-4531-b115-9f4fcff51564",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "538f6a98-804d-49f7-999c-83b0b2839359",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "541f9e4f-1729-4038-85dc-06ae5a35dc1f",
+    "answer": "blue"
+  },
+  {
     "question_id": "543e3191-296e-4afd-9625-2fe2897cba1c",
     "answer": "a chair"
   },
   {
+    "question_id": "54429657-7b83-487c-8aa0-8d1af39a89b4",
+    "answer": "A soap dispenser"
+  },
+  {
+    "question_id": "5460114d-e885-4eae-8bdc-a273deb3df0a",
+    "answer": "A railing"
+  },
+  {
+    "question_id": "548dcc0c-8812-4b08-bba2-9075d176ec0b",
+    "answer": "On the floor near the entrance."
+  },
+  {
+    "question_id": "54939c10-6881-4a92-a85c-27ff435aaa25",
+    "answer": "No"
+  },
+  {
     "question_id": "549c93e6-8d6f-460c-a971-53c14a1f74cd",
     "answer": "blue"
+  },
+  {
+    "question_id": "54da25a7-ff70-4467-874c-3a1b034814f1",
+    "answer": "In the refrigerator."
+  },
+  {
+    "question_id": "54e161d7-e60c-4960-8f08-e8cec9c99c41",
+    "answer": "Yes, the door is open."
+  },
+  {
+    "question_id": "54f8db17-583d-4c82-aad5-72b0aa3e58e4",
+    "answer": "white"
+  },
+  {
+    "question_id": "554929c8-cd5a-4b19-ab0c-1dba2b5126cb",
+    "answer": "blue"
+  },
+  {
+    "question_id": "556f4095-f6b3-49bb-8c9c-7811c2a3cb19",
+    "answer": "a poster"
   },
   {
     "question_id": "55d33dd0-946d-498d-b426-ef193c2460b9",
@@ -408,28 +2148,276 @@
     "answer": "October 5, 2023"
   },
   {
+    "question_id": "55f022a0-2bd2-410b-9323-e077908a55d2",
+    "answer": "white"
+  },
+  {
+    "question_id": "564d876c-44f1-4915-8d4b-ab5a7728494f",
+    "answer": "A green toolbox"
+  },
+  {
+    "question_id": "565fab38-557a-4e64-80c0-e21aaefb144b",
+    "answer": "shoes"
+  },
+  {
+    "question_id": "566776fa-aab8-4084-b40b-57f69167c97c",
+    "answer": "A stereo system or a Bluetooth speaker"
+  },
+  {
+    "question_id": "5686072e-064f-4a05-ac06-5af3ba316b34",
+    "answer": "rectangular"
+  },
+  {
+    "question_id": "568afdc9-e2a0-4ec6-8293-f7ae43c8e279",
+    "answer": "The living room"
+  },
+  {
     "question_id": "56c62311-8d4b-470d-a716-49fef718fcff",
     "answer": "A desk"
+  },
+  {
+    "question_id": "56f1da24-d4ad-4f6f-8630-b3d80e6e205e",
+    "answer": "An apple"
+  },
+  {
+    "question_id": "57281954-fac7-43af-a6e4-cb0be91fdcbb",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "57768def-46e6-413c-8e63-a26738376ec8",
+    "answer": "Coca-Cola"
+  },
+  {
+    "question_id": "577d32c7-3233-4a98-a3f4-eb08e796a343",
+    "answer": "a table"
+  },
+  {
+    "question_id": "57a47d40-792d-46f7-a3dd-de8fef82af1d",
+    "answer": "A computer monitor"
+  },
+  {
+    "question_id": "57c11c60-479e-4bb6-9c10-c90c58debc10",
+    "answer": "blue"
+  },
+  {
+    "question_id": "58a3e024-23b4-41ca-9ee5-caf3c2db0cf6",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "58aba4ce-05b2-485c-a2de-6f313bbe641c",
+    "answer": "a sink"
+  },
+  {
+    "question_id": "58b620a5-2ac0-484f-a6b9-d44123bcca13",
+    "answer": "A shelf"
+  },
+  {
+    "question_id": "58cef625-96fc-4608-84fa-2fb93c4ef047",
+    "answer": "In the closet"
+  },
+  {
+    "question_id": "58e8434f-13d4-446e-8fc7-f66bf22b21b5",
+    "answer": "in the living room"
+  },
+  {
+    "question_id": "59128ef6-1338-49a8-ab06-191971bb1815",
+    "answer": "A ceiling fan or a light fixture"
+  },
+  {
+    "question_id": "5939fce0-cabc-4249-9748-8d700baa4e3f",
+    "answer": "On a shelf or a display cabinet."
+  },
+  {
+    "question_id": "598c23b2-c8a1-4b90-ba63-7bcb2a113e03",
+    "answer": "On the couch."
+  },
+  {
+    "question_id": "59b36645-7990-4a8a-b153-08ec8703d09a",
+    "answer": "closed"
+  },
+  {
+    "question_id": "59df90ad-e54a-48a3-8ac6-7c00e48f0b3d",
+    "answer": "The basement"
+  },
+  {
+    "question_id": "59e2c378-e4ea-4d1b-a4ad-94ee573c6722",
+    "answer": "A small table"
   },
   {
     "question_id": "5a0068ea-51e3-41cc-8c42-aa0d89295bf7",
     "answer": "In the trash can."
   },
   {
+    "question_id": "5a5bd136-7beb-4111-bd0c-201368b77f32",
+    "answer": "On a windowsill."
+  },
+  {
+    "question_id": "5a8b3936-43e0-4474-ac15-efaf488265a1",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "5aac34c1-56b8-4781-a580-0c863ae22987",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "5b1a106a-0732-43f9-b6b7-108e94ad3b07",
+    "answer": "a ceiling light"
+  },
+  {
+    "question_id": "5b2c40fd-cee0-4a13-a9f1-d1ccf9b46521",
+    "answer": "a notepad"
+  },
+  {
+    "question_id": "5b441b79-fed6-4a60-ae82-26c637c9835a",
+    "answer": "The top shelf"
+  },
+  {
+    "question_id": "5b8104b6-6919-4e4a-803a-71850d8bb1d7",
+    "answer": "A picture or a clock"
+  },
+  {
+    "question_id": "5b985952-b8a2-438b-bd56-c407b8634d8a",
+    "answer": "In the refrigerator."
+  },
+  {
+    "question_id": "5b9a8c8e-b2ba-4a40-b80a-636dea351a58",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "5bcac554-9bee-4b31-8087-9535226086db",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "5bce4102-fbca-4d26-b2cb-0688c64ff734",
+    "answer": "You can dry your wet clothes using a clothes dryer, which is typically found in a laundry room. Alternatively, you can hang them on a clothesline or drying rack, which can be placed indoors or outdoors. If you have a radiator or a heated towel rail, you can also drape your clothes over it to help them dry."
+  },
+  {
+    "question_id": "5bcf7dfd-d346-4936-850b-dc1ef49b93cf",
+    "answer": "closed"
+  },
+  {
+    "question_id": "5bed8a12-8b95-4fb7-8eb8-698a161d0bd3",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "5c047691-c116-45c7-a553-4493bbc1b949",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "5c1d30b9-5827-49fc-b74f-5ee9909a75b8",
+    "answer": "Turn on a fan or air conditioner."
+  },
+  {
+    "question_id": "5c927376-5d34-4228-955c-c0ce67a6d40e",
+    "answer": "a chair"
+  },
+  {
     "question_id": "5c9e876f-a4dd-4ce9-8e96-245ab1b2df94",
     "answer": "a floor lamp"
+  },
+  {
+    "question_id": "5cbb9ad9-1929-4312-bc6a-cabf669043d8",
+    "answer": "Coats"
+  },
+  {
+    "question_id": "5cc891f2-c7fd-478a-bbc0-03a4b7c66472",
+    "answer": "drywall"
+  },
+  {
+    "question_id": "5cccc0a8-288e-460a-ad2c-d36fcbaee644",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "5ce4e8ea-6981-40aa-9e3b-4d01d62f792e",
+    "answer": "A painting or a mirror"
+  },
+  {
+    "question_id": "5d0efe22-db6d-4d6f-b9a8-3fcd5b29fd11",
+    "answer": "a lamp"
+  },
+  {
+    "question_id": "5d16b826-760f-4437-aadb-02138acaf324",
+    "answer": "A handrail"
+  },
+  {
+    "question_id": "5d4a12ff-17f5-4a36-85da-2260c50c2bf5",
+    "answer": "A coffee table"
+  },
+  {
+    "question_id": "5d538466-397e-4b3b-8d40-d32bc80d5c0b",
+    "answer": "a picture frame"
+  },
+  {
+    "question_id": "5d63aace-28f8-461a-ad49-b353384ca751",
+    "answer": "blue"
+  },
+  {
+    "question_id": "5d8f83b8-a2bb-444c-99ff-3cac2895e6c1",
+    "answer": "white"
   },
   {
     "question_id": "5da047fb-bf0b-4ad6-bc8b-a715f05bdd78",
     "answer": "The curtains"
   },
   {
+    "question_id": "5dd8abfb-29e7-45c7-a32d-da620cf493a7",
+    "answer": "on the desk"
+  },
+  {
+    "question_id": "5e1b9e7e-db01-4f98-8333-ee251c04e32c",
+    "answer": "Cleaning supplies"
+  },
+  {
     "question_id": "5e83797c-0eef-4dae-8f8c-84050d581c33",
     "answer": "blue"
   },
   {
+    "question_id": "5f09a11c-f113-4224-8dfb-e024d47674da",
+    "answer": "closed"
+  },
+  {
+    "question_id": "5f175d5b-90f5-4457-889e-91d06e227fb7",
+    "answer": "A computer"
+  },
+  {
+    "question_id": "5f53b669-55d2-4885-acac-1d40f36015eb",
+    "answer": "To turn on the video conference system, follow these general steps:"
+  },
+  {
+    "question_id": "5f567df1-4fb3-43cb-9060-181074da17ca",
+    "answer": "blue"
+  },
+  {
+    "question_id": "5f8e141a-90b8-4e36-a1f1-de5d876201db",
+    "answer": "It might be in the closet or near other sports equipment."
+  },
+  {
+    "question_id": "5f92e442-8c74-43ea-b84c-37493feb638d",
+    "answer": "left"
+  },
+  {
     "question_id": "5fa829d4-e353-4945-b25a-8f15421c7c04",
     "answer": "On the bed."
+  },
+  {
+    "question_id": "5fc88f40-890b-4a30-8b97-d404e8f5c330",
+    "answer": "a cat"
+  },
+  {
+    "question_id": "5fd7fef5-2821-4a05-b15a-a886faa2c6c7",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "604fccd0-48b3-4ba5-8508-3a3526b2161f",
+    "answer": "No"
+  },
+  {
+    "question_id": "608cbb12-849c-4a54-8b11-0a54c828c66e",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "608fdb81-08e3-4fe3-9d32-11ff576721dd",
+    "answer": "rectangular"
   },
   {
     "question_id": "60cb4642-5d6d-4a72-b743-ceeb82531cb2",
@@ -440,12 +2428,68 @@
     "answer": "white"
   },
   {
+    "question_id": "611bbc61-de24-4877-8c4e-1f771ac72d01",
+    "answer": "A hallway"
+  },
+  {
+    "question_id": "61260253-5136-42ba-a3db-43d59899b53a",
+    "answer": "a keyboard"
+  },
+  {
+    "question_id": "61bea689-3869-4a4a-9f75-5018b8df5dab",
+    "answer": "In the garage."
+  },
+  {
+    "question_id": "61e76268-ebc4-4c76-8218-61c411267677",
+    "answer": "on the bookshelf"
+  },
+  {
+    "question_id": "61f9e7fa-25ef-4672-89f7-be4dbf224391",
+    "answer": "Shampoo bottles and a shower curtain"
+  },
+  {
     "question_id": "62627a1e-e41b-480d-9608-48a154b260bc",
     "answer": "a painting"
   },
   {
     "question_id": "62772c2f-8c0d-4937-a6df-3ad2730a688d",
     "answer": "black"
+  },
+  {
+    "question_id": "62999995-eba7-4ac7-936a-998dc0f13caf",
+    "answer": "The main purpose of this room appears to be for sleeping and resting."
+  },
+  {
+    "question_id": "62a476a5-b00b-4942-a5b7-ad0b5fae0868",
+    "answer": "leather"
+  },
+  {
+    "question_id": "62de2952-711d-479d-a336-caa84ea27ac4",
+    "answer": "a jewelry box"
+  },
+  {
+    "question_id": "62ee487f-ee36-4126-b427-41d7447da702",
+    "answer": "You can use a fan or an air conditioner to cool down the bedroom. Additionally, you could try opening the door to allow air circulation from other parts of the house."
+  },
+  {
+    "question_id": "62f3078c-03f5-4908-9079-c1ce15491699",
+    "answer": "A pillow"
+  },
+  {
+    "question_id": "632fe59a-2bb4-4e46-bd50-f6b40392ad54",
+    "answer": "blue"
+  },
+  {
+    "question_id": "6332b74a-2515-4304-8f53-81232aceb466",
+    "answer": "Near the heater or radiator."
+  },
+  {
+    "question_id": "633ca326-2027-4316-8c20-ef4debde39d2",
+    "answer": "closed"
+  },
+  {
+    "question_id": "634b11ff-ff13-4b50-8a12-61d1fd9ca2f7",
+    "answer": "gray"
   },
   {
     "question_id": "639d327d-b697-4571-a708-9a884f993f42",
@@ -456,7 +2500,43 @@
     "answer": "No"
   },
   {
+    "question_id": "63fc5ed4-5074-4657-baa1-070c98bd698a",
+    "answer": "short"
+  },
+  {
+    "question_id": "6429730d-cf37-44e9-94b1-f531a8d8e9e6",
+    "answer": "a coffee table"
+  },
+  {
+    "question_id": "643ba7ee-6385-49d9-be44-9638849f9045",
+    "answer": "On a chair or a sofa."
+  },
+  {
+    "question_id": "64631b89-cdd4-42d4-a3dc-53d052ddc8df",
+    "answer": "off"
+  },
+  {
     "question_id": "648168c1-daba-4e54-a29c-00c1e83a22b1",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "65198890-05ca-4494-bef9-a449e120b969",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "657d19dc-fbd3-41c5-9300-6a4057facccc",
+    "answer": "Tile"
+  },
+  {
+    "question_id": "65ba162a-3b37-4243-9c5f-ed5cd434f95e",
+    "answer": "No"
+  },
+  {
+    "question_id": "65be6312-4cac-4e5e-b5a3-78363d5069d6",
+    "answer": "on"
+  },
+  {
+    "question_id": "65ec009e-d173-4e49-9168-f48fd20308f1",
     "answer": "In the kitchen."
   },
   {
@@ -464,40 +2544,332 @@
     "answer": "In the bathroom or the kitchen."
   },
   {
+    "question_id": "660372d6-b02b-406e-9383-28e27a4da9ab",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "662747e8-e569-4194-87cb-7e247f75b683",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "6646f817-4825-4f05-a209-bb75950069d9",
+    "answer": "On the nightstand."
+  },
+  {
+    "question_id": "66648ca6-3619-4e93-98bb-f4606a842144",
+    "answer": "In the kitchen."
+  },
+  {
     "question_id": "6702a7bf-8d68-422f-8d9e-98c633ce9182",
     "answer": "A sink"
+  },
+  {
+    "question_id": "670fd19f-1fe6-4232-a486-e69be7393bd3",
+    "answer": "wood"
+  },
+  {
+    "question_id": "671b27ae-6163-4f29-a9be-ec178ef0deea",
+    "answer": "L-shaped"
+  },
+  {
+    "question_id": "672c0ce3-f6e0-4474-b572-abcfbca1a9c5",
+    "answer": "It's possible."
+  },
+  {
+    "question_id": "6756db97-f9ad-4c9e-8f65-40b6e558e193",
+    "answer": "No"
+  },
+  {
+    "question_id": "6756e56d-910a-4eaf-a3a4-bf71699614fa",
+    "answer": "In a closet."
+  },
+  {
+    "question_id": "6767409d-f832-4f59-87d1-2dfc3c66d343",
+    "answer": "into the bathroom"
+  },
+  {
+    "question_id": "678d0eea-2f1e-41c4-bd6d-324e4819c63a",
+    "answer": "The garage"
+  },
+  {
+    "question_id": "678e3520-167b-468b-af3b-27d78daafd10",
+    "answer": "I'm sorry, but I can't see the images you're referring to. Could you provide more details or describe the images?"
+  },
+  {
+    "question_id": "67cd7145-4b1f-4b2a-a698-8e4738cb7c41",
+    "answer": "In the refrigerator."
+  },
+  {
+    "question_id": "67e834f5-a987-49a1-9dca-64e407f46eaa",
+    "answer": "closed"
+  },
+  {
+    "question_id": "67f96d5b-9087-4a56-80cf-9bdd9122ae1e",
+    "answer": "closed"
+  },
+  {
+    "question_id": "6835ef85-efb2-4c80-b224-b373e3e33fc0",
+    "answer": "You can work on your essay using a computer or a tablet. These devices allow you to type and edit your essay digitally, eliminating the need for paper. Additionally, you can use cloud-based services like Google Docs or Microsoft Word Online to save and access your work from anywhere."
+  },
+  {
+    "question_id": "684217f2-75c1-4c1c-ae06-9aa090e5d0c2",
+    "answer": "In a drawer or a storage box."
+  },
+  {
+    "question_id": "6852b358-4820-471d-9263-d32ef0cecd0b",
+    "answer": "On the front door."
+  },
+  {
+    "question_id": "688a56b8-8cde-49ba-981a-ab21d301ed35",
+    "answer": "No"
   },
   {
     "question_id": "68c7e76d-ce72-4727-a90c-3e503529e01e",
     "answer": "No"
   },
   {
+    "question_id": "68d072a5-274f-4348-bf10-ec2143dd2a80",
+    "answer": "blue"
+  },
+  {
+    "question_id": "68e13346-13e8-4f1d-a3be-91d7c6898ee5",
+    "answer": "You can watch a movie by using a television or a computer. If you have a streaming device or service, you can access movies through platforms like Netflix, Amazon Prime, or Hulu. Alternatively, you can use a DVD or Blu-ray player connected to your TV."
+  },
+  {
+    "question_id": "69376f0e-ffd7-4d04-aad3-6089bacfc1d3",
+    "answer": "In the bedroom."
+  },
+  {
+    "question_id": "6999b759-8c14-42de-b448-1d6154eb8917",
+    "answer": "No"
+  },
+  {
+    "question_id": "69a8bdfe-4e7e-4f1a-9e64-48781276ddfc",
+    "answer": "Two"
+  },
+  {
+    "question_id": "69bf0e59-17d1-42b9-822b-a436fe661ef3",
+    "answer": "lowered"
+  },
+  {
+    "question_id": "6a13d4a2-4866-40e7-8f10-d1ec12573dc2",
+    "answer": "A fan or an air conditioner"
+  },
+  {
     "question_id": "6a28c652-a68a-4716-91e6-578ab1224f8a",
     "answer": "A pillow"
+  },
+  {
+    "question_id": "6a34cb99-a449-4071-aba6-357d1c7a943d",
+    "answer": "a computer tower"
+  },
+  {
+    "question_id": "6a6a7283-bccc-4923-a843-e0225ad21e3c",
+    "answer": "It depends on the size and layout of the kitchen."
+  },
+  {
+    "question_id": "6a86529c-d582-4c97-a05b-e205abcf041d",
+    "answer": "In the kitchen or on a desk."
+  },
+  {
+    "question_id": "6ad7b496-d50d-4aa3-9b3e-2fa6d9c398b3",
+    "answer": "blue"
+  },
+  {
+    "question_id": "6adf4d05-9932-45c9-8e2c-73e8e60f3445",
+    "answer": "A water cooler"
+  },
+  {
+    "question_id": "6b48d4a4-b686-417f-b8e4-f0edcd6431fc",
+    "answer": "On a desk or table"
   },
   {
     "question_id": "6b6899e1-bd12-4d98-8fb8-fbdbc347a9a2",
     "answer": "To write code, you typically need a computer, a text editor or an Integrated Development Environment (IDE), and knowledge of a programming language. Here are some general steps to get you started:"
   },
   {
+    "question_id": "6b70bac8-1534-44be-9dc1-0cf6964bff07",
+    "answer": "Two people"
+  },
+  {
+    "question_id": "6b7a2be4-beaa-4023-b031-81f8ecb5c94f",
+    "answer": "black"
+  },
+  {
+    "question_id": "6b804083-8b56-4d13-8309-c5cb642b0f87",
+    "answer": "on the kitchen counter"
+  },
+  {
+    "question_id": "6b8f1b52-25fa-47bc-a3a6-a2a43e834605",
+    "answer": "a lamp"
+  },
+  {
+    "question_id": "6bac9434-3a35-4ecf-821f-9214d1089bd0",
+    "answer": "a blanket"
+  },
+  {
+    "question_id": "6be2fe87-f20c-48a2-a8fb-161362d86e2a",
+    "answer": "It is likely that the bedroom has a moderate amount of furniture."
+  },
+  {
+    "question_id": "6bff2ba3-5b68-4d77-a302-1640cc06dd15",
+    "answer": "white"
+  },
+  {
+    "question_id": "6c28bf49-09a9-478a-8d95-050f9fb09e6b",
+    "answer": "You should ask someone who is familiar with the bathroom's rules, such as a household member or a host if you are visiting. If no one is available, it's generally a good idea to follow common bathroom etiquette, such as knocking before entering, keeping the area clean, and respecting others' privacy."
+  },
+  {
     "question_id": "6c668cea-e8ca-4213-a7d1-1f9e442cbc02",
     "answer": "close"
+  },
+  {
+    "question_id": "6c9a4608-82f6-464f-94e3-adcc241ead99",
+    "answer": "closed"
+  },
+  {
+    "question_id": "6caf59bf-2792-44e6-8784-c65697c476e8",
+    "answer": "a wall"
+  },
+  {
+    "question_id": "6cd140e9-f477-4799-a6e6-cadc921990c5",
+    "answer": "A landscape scene"
+  },
+  {
+    "question_id": "6d132959-fd48-4fef-a736-4e5853849547",
+    "answer": "By the fireplace"
+  },
+  {
+    "question_id": "6d24c042-126a-4068-a812-730c966dce04",
+    "answer": "No"
+  },
+  {
+    "question_id": "6d41d08a-2907-4d12-94ec-410b498d5446",
+    "answer": "The microwave"
+  },
+  {
+    "question_id": "6d662db3-1de5-47af-b2aa-ced6a3c7bb85",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "6d6be7ec-48b4-4f96-a6e4-382a0433b917",
+    "answer": "silver"
+  },
+  {
+    "question_id": "6d71161a-d796-4cf9-a83f-f598e53898de",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "6d9b2620-325a-4c12-8c3a-58aaa6068152",
+    "answer": "blue"
+  },
+  {
+    "question_id": "6da85dd4-341c-4d29-9528-b55ffa5e0680",
+    "answer": "closed"
+  },
+  {
+    "question_id": "6dad0a90-2bab-4363-951b-dc12e9f0a667",
+    "answer": "closed"
   },
   {
     "question_id": "6dd29e68-9b10-48f9-bdc8-a9d98c9ddb24",
     "answer": "In the living room."
   },
   {
+    "question_id": "6df3bcb4-495c-44d1-ac95-588927459ebe",
+    "answer": "a mirror"
+  },
+  {
+    "question_id": "6e09d6fb-62fe-4b08-ad87-f81d475405ff",
+    "answer": "curtains"
+  },
+  {
+    "question_id": "6e2b0a40-3b3d-4102-865d-2fa25bb72c96",
+    "answer": "Green"
+  },
+  {
+    "question_id": "6e2f5803-5dca-4853-85d5-468e8f27ce89",
+    "answer": "toilet paper holder"
+  },
+  {
+    "question_id": "6e4d210c-e7b0-4e71-96e9-d4f58f17b3ea",
+    "answer": "red"
+  },
+  {
+    "question_id": "6e547b1b-9ab9-4a5d-b1ec-0cd8073ca365",
+    "answer": "It is a living room."
+  },
+  {
     "question_id": "6ee3c4cd-2aa9-4a45-b08b-f5c27264c672",
     "answer": "a coffee table"
+  },
+  {
+    "question_id": "6ef2cc09-f7ce-4818-8be5-a719f5e2ca8f",
+    "answer": "On the desk."
+  },
+  {
+    "question_id": "6ef3413f-bde6-40ec-bd4a-48f620de4445",
+    "answer": "On the wall."
+  },
+  {
+    "question_id": "6f032307-e1d4-463b-9867-ac53856fc068",
+    "answer": "In a dresser or a drawer."
+  },
+  {
+    "question_id": "6f6b797e-3418-42b8-9e59-c8f6581a8d7f",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "6f9d6ab6-d566-46d8-bd98-ad1c6460c2a8",
+    "answer": "brown"
+  },
+  {
+    "question_id": "6fa9f3f3-576b-4a6c-8f81-d395ff3db054",
+    "answer": "A family member"
+  },
+  {
+    "question_id": "6faa9052-c5ae-44b9-a024-ab14474d0c29",
+    "answer": "The description provided suggests a sequence of movements through a house. Based on typical house layouts, the last room you enter after following these directions could be a bedroom or a storage room. However, without more specific information about the house's layout, it's difficult to be certain."
+  },
+  {
+    "question_id": "6fddec60-f221-4944-88c3-a132dfbfd1ed",
+    "answer": "A cooler"
+  },
+  {
+    "question_id": "70171ebf-b936-472c-98c3-304797f083a4",
+    "answer": "white"
+  },
+  {
+    "question_id": "704170d4-448e-40a0-b485-a4f6785159da",
+    "answer": "A nightstand"
+  },
+  {
+    "question_id": "708d0223-b80a-4727-baa7-756d61b2a551",
+    "answer": "On the living room shelf."
+  },
+  {
+    "question_id": "70a0c836-f572-4454-8264-506c0c3c0461",
+    "answer": "A lamp"
   },
   {
     "question_id": "70b5d159-2547-4336-844f-fd50fa974bce",
     "answer": "Under the bed"
   },
   {
+    "question_id": "70c25cdc-3f4f-4cb6-a0af-7cf4120527ee",
+    "answer": "on the chair"
+  },
+  {
     "question_id": "70ca554d-cee2-47c9-8abd-a02e019c7656",
     "answer": "The right side"
+  },
+  {
+    "question_id": "70cfab22-1dc1-4b9a-a751-8014c1900ee3",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "70e43adf-2354-453d-9122-7cb61b5a4641",
+    "answer": "a rug"
   },
   {
     "question_id": "70ebe785-480d-4269-b1ee-14b148956074",
@@ -508,8 +2880,52 @@
     "answer": "Yes"
   },
   {
+    "question_id": "71385df3-5afd-4925-b855-15c3ffd87813",
+    "answer": "A keyboard"
+  },
+  {
+    "question_id": "7185fe27-149d-4283-88ad-3653214367b9",
+    "answer": "closed"
+  },
+  {
+    "question_id": "72140295-4d39-4392-a5dd-8ab22c86d95e",
+    "answer": "brown"
+  },
+  {
     "question_id": "72383fbb-5949-4970-8b5e-b7a186732c2f",
     "answer": "A dresser"
+  },
+  {
+    "question_id": "72529064-198f-4cbc-800d-2e5a2476d5c3",
+    "answer": "In its dog bed."
+  },
+  {
+    "question_id": "72553b2f-45e5-44f6-99ba-80e104c6de28",
+    "answer": "It is likely clean."
+  },
+  {
+    "question_id": "72e09d1f-68ec-49ac-bfe0-5850647a7893",
+    "answer": "On the refrigerator"
+  },
+  {
+    "question_id": "730872a7-0f97-49c4-b988-8f7d827a3522",
+    "answer": "The Yonex bag in this room can be used for carrying badminton or tennis equipment."
+  },
+  {
+    "question_id": "730f80f8-c65b-4774-b249-aa91abf7f88a",
+    "answer": "an eraser"
+  },
+  {
+    "question_id": "734c3095-4a19-4659-9cd9-9d07cef6a909",
+    "answer": "a cushion"
+  },
+  {
+    "question_id": "737eae7c-d064-442e-bf18-50792f8b7cc4",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "73bcd8d2-cd39-46e1-a63a-54acfae8d060",
+    "answer": "left side"
   },
   {
     "question_id": "73d71e2b-e29b-4b26-ab38-a8f05cb71ca5",
@@ -520,32 +2936,228 @@
     "answer": "a power cable"
   },
   {
+    "question_id": "740df01e-35fd-42ec-9a39-b04f53f2ff3c",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "741f1981-9b58-41ee-b783-c434bf113125",
+    "answer": "The lamp is switched on."
+  },
+  {
+    "question_id": "7447d782-d1a7-4c87-86dc-b5eafc5a0f76",
+    "answer": "Drywall"
+  },
+  {
     "question_id": "7458f812-e388-4196-96ef-57b3c194c9fa",
     "answer": "a small table"
+  },
+  {
+    "question_id": "7473836e-84ba-4d9c-a86e-4da760d670f4",
+    "answer": "not shut"
   },
   {
     "question_id": "74c7e66f-26da-4dcb-a331-1168b39c082e",
     "answer": "In the kitchen."
   },
   {
+    "question_id": "75020e8d-abe6-4e64-8d30-37caa4032ef6",
+    "answer": "black"
+  },
+  {
+    "question_id": "752937e0-2152-4c99-9fee-937cc7e7c77f",
+    "answer": "a nightstand"
+  },
+  {
+    "question_id": "7540a030-2aec-451d-8579-855fdae1cc62",
+    "answer": "The letter \"A\""
+  },
+  {
+    "question_id": "754b7814-3d22-4686-bb60-ee945d091f85",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "756b2cd3-c58f-4299-899d-fa5da312d642",
+    "answer": "a trash can"
+  },
+  {
+    "question_id": "75797944-2d04-43ae-863e-4568b71c517c",
+    "answer": "In the bathroom."
+  },
+  {
+    "question_id": "75aeb6c5-08b4-48a4-a63c-c24348c9e9b5",
+    "answer": "It's difficult to determine without more information about the size and layout of the room. However, if we assume it's a typical living room or a larger common area, it might be spacious enough for a 6-people party."
+  },
+  {
+    "question_id": "75f970c1-b092-4ca4-aa30-1763de31140b",
+    "answer": "A reusable shopping bag"
+  },
+  {
+    "question_id": "76974b48-da23-4e90-ac3c-d2c522f05029",
+    "answer": "the living room"
+  },
+  {
+    "question_id": "76a15ad3-96a9-4061-8195-ab8ae12aebb3",
+    "answer": "blue"
+  },
+  {
+    "question_id": "7722b8d2-c5aa-4419-8124-b0d9a0f83a0c",
+    "answer": "It is not specified whether the pan is empty or not, so I will guess that the pan is empty."
+  },
+  {
+    "question_id": "77414bbe-8e8c-4f99-bbf9-a2fb0476cb72",
+    "answer": "rectangular"
+  },
+  {
+    "question_id": "7783e5f2-7c21-44ac-86cd-fda634635de8",
+    "answer": "a digital clock"
+  },
+  {
+    "question_id": "77979338-3f99-47a7-ac4d-ca46357ae1fa",
+    "answer": "right"
+  },
+  {
+    "question_id": "77c6644e-6018-4ef3-a683-276d3d2af67f",
+    "answer": "a recycling bin"
+  },
+  {
     "question_id": "77ce83aa-b651-489e-827d-47d9eeb9cb48",
     "answer": "On the coffee table"
+  },
+  {
+    "question_id": "77ed7b7e-3bb0-4b35-9df1-4da9c5f2239d",
+    "answer": "black"
+  },
+  {
+    "question_id": "78024203-22aa-4470-9825-01fc1c0c0ba0",
+    "answer": "a toilet paper roll"
   },
   {
     "question_id": "78302470-73e8-4860-92f2-93c47b428dc3",
     "answer": "closed"
   },
   {
+    "question_id": "78c3648f-c8f8-4de8-92fb-12ca2e21e1d2",
+    "answer": "You can use a step stool or a ladder to safely reach the top layer of the shelf."
+  },
+  {
     "question_id": "78c4191a-91b8-4673-bab6-f058eb8a632e",
     "answer": "blue"
+  },
+  {
+    "question_id": "78e0eadf-cf7f-4797-998f-59916d6a7e4a",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "7905e99b-38ae-40ab-8a8b-de520157b0f5",
+    "answer": "a television remote"
+  },
+  {
+    "question_id": "79224127-c9eb-49dd-9eaf-b3fe6e0eb757",
+    "answer": "On a towel rack."
+  },
+  {
+    "question_id": "79344680-6b45-4531-8789-ad0f5ef85b3b",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "797c7e52-eaf8-4d38-a068-867f2a57e248",
+    "answer": "In the toy box."
+  },
+  {
+    "question_id": "79a66a14-c79c-48fa-b6e6-6c442765ba22",
+    "answer": "a light fixture"
+  },
+  {
+    "question_id": "79dfe5ce-8a8c-47f3-a606-ab5ab4591c56",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "7a6170d0-c07d-4f7a-b6b7-504009ef19eb",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "7a792e17-0d12-4ce3-8911-df2d3bb79087",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "7a96d76f-b71f-4e35-90c6-36f9ace86d8b",
+    "answer": "black"
+  },
+  {
+    "question_id": "7ad70423-200c-42a8-8e6a-c471f171782e",
+    "answer": "You can make the living room darker by closing the curtains or blinds, turning off some or all of the lights, or using dimmer switches if available."
+  },
+  {
+    "question_id": "7ae2afc8-01c4-4019-ba12-00cdb038a548",
+    "answer": "In the closet."
   },
   {
     "question_id": "7ae999ea-a082-43dc-9e2d-200efe91c03a",
     "answer": "A chair"
   },
   {
+    "question_id": "7af67917-5517-425a-92be-c490dcb13104",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "7b033898-d039-4fe1-a43b-cb3ceaf74400",
+    "answer": "closed"
+  },
+  {
+    "question_id": "7baa5f0f-642c-4cf0-84f7-2f3cff16f251",
+    "answer": "Hand sanitizer"
+  },
+  {
+    "question_id": "7bca44df-2f82-42b2-949e-7d454a6edc0d",
+    "answer": "Shampoo and soap"
+  },
+  {
+    "question_id": "7bdd4863-03d3-44c4-bbd8-f11d31d40d87",
+    "answer": "You should plug the wire into a nearby electrical outlet or a power strip that is accessible from your desk. If your desk has built-in power outlets or USB ports, you can use those as well."
+  },
+  {
+    "question_id": "7c053159-37ea-4c82-8251-6388decabbd1",
+    "answer": "On the wall above the bathroom sink."
+  },
+  {
+    "question_id": "7c0c6e19-8e84-4dc2-9d62-6d91b0b16848",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "7c4456e4-0209-4638-bea2-11387a050cad",
+    "answer": "rectangular"
+  },
+  {
     "question_id": "7c56866d-e112-49e0-85a5-b120848f22c6",
     "answer": "On the floor near the entrance."
+  },
+  {
+    "question_id": "7c5a7a8a-faeb-42f4-80d7-267b70c04c20",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "7c8e453b-67ac-424a-a73e-7f9a0d6d8cc5",
+    "answer": "closed"
+  },
+  {
+    "question_id": "7cd9b285-813c-4840-84de-37e05c028ea5",
+    "answer": "A landscape"
+  },
+  {
+    "question_id": "7d1b51ad-98ab-4644-88c1-45c749fd3564",
+    "answer": "white"
+  },
+  {
+    "question_id": "7d69f1ef-73d8-4565-b52b-e54c0cc116a3",
+    "answer": "blue"
+  },
+  {
+    "question_id": "7d868374-5434-40f3-a95d-66548d092d6d",
+    "answer": "shoes"
+  },
+  {
+    "question_id": "7dac6f5e-cd4f-43f5-b119-7f3234976d12",
+    "answer": "blue"
   },
   {
     "question_id": "7df01652-e97a-4c7c-ba71-a6f62b838f38",
@@ -556,32 +3168,120 @@
     "answer": "In the pantry."
   },
   {
+    "question_id": "7e08669f-bbb4-46cd-a61b-2f58119567a9",
+    "answer": "A throw pillow"
+  },
+  {
     "question_id": "7e0d4b86-9102-4afa-abdc-c8a8f59823d2",
     "answer": "At a desk"
+  },
+  {
+    "question_id": "7e363878-ad19-4493-8a6f-0350bff27557",
+    "answer": "A tree"
+  },
+  {
+    "question_id": "7e3b7e91-bb08-4765-aefd-3d9fe32d4c32",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "7e4d6420-013b-422d-a47f-7a1a8015e0f2",
+    "answer": "A desk"
+  },
+  {
+    "question_id": "7e8cd422-e00d-4a3b-814b-4245162bda80",
+    "answer": "I'm not sure where your yellow highlighter is, but a good place to check might be your desk or any area where you typically do work or study."
+  },
+  {
+    "question_id": "7ea448d9-1079-4cc1-8ff2-57857cf61fb5",
+    "answer": "Shower sandals or flip-flops"
   },
   {
     "question_id": "7ebac357-a338-4ce0-975a-62141e90a3c3",
     "answer": "In the kitchen."
   },
   {
+    "question_id": "7efa3ead-0300-44af-97ca-2c6b8d5cdce7",
+    "answer": "In the bookshelf or at a desk with a computer."
+  },
+  {
+    "question_id": "7f14c156-3844-4d48-aebb-3484bb0d8e43",
+    "answer": "a soap dispenser"
+  },
+  {
+    "question_id": "7f15d867-8ba6-47fa-9bca-9d9ae64046b7",
+    "answer": "a sedan"
+  },
+  {
     "question_id": "7f266d5d-9a08-46e9-8bf4-7a9fb0b974ad",
     "answer": "Coca-Cola"
+  },
+  {
+    "question_id": "7f45dce6-51ca-4703-b328-998bb9a7e131",
+    "answer": "sunny"
   },
   {
     "question_id": "7fc60162-4f96-4d1a-9130-3f2d66c24f0b",
     "answer": "The kitchen"
   },
   {
+    "question_id": "7fe0d260-e410-4615-95c7-c51f812516b0",
+    "answer": "closed"
+  },
+  {
+    "question_id": "7ff27c74-935c-4e1e-83e5-0c964e3cc39d",
+    "answer": "a small table"
+  },
+  {
     "question_id": "802a646e-26c9-4d45-94f9-7b0b011526d4",
     "answer": "Yes, there might be lip balm or chapstick."
+  },
+  {
+    "question_id": "8067bfd8-c034-45a6-8fe1-44a829fec95e",
+    "answer": "blue"
   },
   {
     "question_id": "80a53d17-e686-4746-89e6-e0b759bf3980",
     "answer": "No"
   },
   {
+    "question_id": "80ba0af2-59a0-42c1-82b2-08b9e3851164",
+    "answer": "left"
+  },
+  {
+    "question_id": "80bf5f9e-1c45-432e-9d29-1f1c8f3b716e",
+    "answer": "on"
+  },
+  {
     "question_id": "80d2bc54-76b4-452f-881b-5745f6984cbc",
     "answer": "The bench is in the hallway."
+  },
+  {
+    "question_id": "80ef0262-0420-4af5-85a0-f352b35df678",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "8141f14c-5677-47e1-9716-ca0fe1d98b90",
+    "answer": "The nightstand is clean."
+  },
+  {
+    "question_id": "81739eb9-ef32-42e3-b1cf-fa8e826813ef",
+    "answer": "In the kitchen or dining area."
+  },
+  {
+    "question_id": "81e68663-224f-4f56-b598-e29f093d9b05",
+    "answer": "brown"
+  },
+  {
+    "question_id": "82162992-04d4-4178-8ead-6782761f3b7c",
+    "answer": "A desk lamp"
+  },
+  {
+    "question_id": "8278f446-fd5d-4044-b5eb-6cf1cf10c9c1",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "82b0f464-09d1-4346-bbfc-9d7419605673",
+    "answer": "Yes"
   },
   {
     "question_id": "82b4ae1a-8098-41ab-84de-5fd07899a77d",
@@ -592,32 +3292,180 @@
     "answer": "A blanket"
   },
   {
+    "question_id": "82f406a7-f8c6-4f82-9556-efa7fa8c99dc",
+    "answer": "The instructions on the walls could be there for several reasons. They might be safety instructions, guidelines for using equipment, or directions for navigating the space. This is common in places like schools, offices, or public buildings."
+  },
+  {
+    "question_id": "830d28ce-520a-4bd6-8905-1608f39c9bb2",
+    "answer": "white"
+  },
+  {
+    "question_id": "8328906e-7bd0-4efd-a5b6-ad6c5e80403a",
+    "answer": "No"
+  },
+  {
+    "question_id": "83356063-ea59-4894-a077-5c2a6fb1042e",
+    "answer": "On the bed."
+  },
+  {
+    "question_id": "8345f4b2-0850-495b-a957-16cb9cd66f4e",
+    "answer": "In the dining room."
+  },
+  {
+    "question_id": "8354e8e6-0752-4ab1-9a1d-ce769c2ece01",
+    "answer": "No"
+  },
+  {
+    "question_id": "8367e3f6-9f99-4119-818c-615ada957972",
+    "answer": "rectangular"
+  },
+  {
+    "question_id": "83afe330-c1a1-4179-8e51-a88aa6aba0bc",
+    "answer": "The New York Yankees"
+  },
+  {
+    "question_id": "83bdc83b-e5ad-42fd-a0ba-2a1fdf2002ef",
+    "answer": "It looks like a mix of handwritten notes, diagrams, or lists."
+  },
+  {
+    "question_id": "83c65c74-58a9-4046-87ce-ec01f6422def",
+    "answer": "brown"
+  },
+  {
+    "question_id": "83d2dbc2-3dae-43b5-99b8-b827bd49dff5",
+    "answer": "white"
+  },
+  {
+    "question_id": "83ff1f40-6b46-47a0-980e-bf3e8e09a00a",
+    "answer": "In the pantry."
+  },
+  {
+    "question_id": "84104329-7c12-44d0-9582-f7767712af0a",
+    "answer": "Kellogg's"
+  },
+  {
+    "question_id": "846b9dc5-2309-46b0-ae83-f89c1a8511a7",
+    "answer": "a lamp"
+  },
+  {
+    "question_id": "846bca34-e9a3-4e6a-9edd-8358da559a64",
+    "answer": "a vase"
+  },
+  {
+    "question_id": "8471794d-32cd-4989-8cec-91118eb43b67",
+    "answer": "A mirror"
+  },
+  {
+    "question_id": "847274ec-56d4-453c-9790-8fd745076921",
+    "answer": "black"
+  },
+  {
     "question_id": "84833f1f-9c9b-4171-b948-88cfb0a3527a",
     "answer": "There are two pots and one pan on the stove."
+  },
+  {
+    "question_id": "84db48de-f485-4f47-b954-ccb1d5732057",
+    "answer": "A light switch"
   },
   {
     "question_id": "853d340b-c69d-4371-894c-5e1151844b14",
     "answer": "No"
   },
   {
+    "question_id": "8543767d-7d30-4307-96c2-20ef8ef48160",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "8548aacb-669f-4341-a21e-0426e5dc3b42",
+    "answer": "In the kitchen."
+  },
+  {
     "question_id": "85ad26c6-bd23-41ab-ad22-fc5190ec4e90",
     "answer": "No"
+  },
+  {
+    "question_id": "85adf68a-bf69-48fa-b612-6c10912e0f33",
+    "answer": "a wall"
   },
   {
     "question_id": "85ae1917-eca9-43d5-83cd-3c850442757d",
     "answer": "A picture frame"
   },
   {
+    "question_id": "85c329e0-a144-41e6-a2c0-11ec3e261bab",
+    "answer": "a remote control"
+  },
+  {
+    "question_id": "85d55555-7954-4cc4-8fd2-0b22a0585b0a",
+    "answer": "Yes"
+  },
+  {
     "question_id": "860923a7-097b-4df5-8a62-59975c3d2a83",
     "answer": "black"
+  },
+  {
+    "question_id": "86336d44-7983-450b-9b0b-b61352d00468",
+    "answer": "The stairs to the basement are likely located near the main living area or kitchen, often behind a door or in a hallway."
+  },
+  {
+    "question_id": "8673ad9c-1447-4fd6-8aa8-6bd64748568b",
+    "answer": "oval"
+  },
+  {
+    "question_id": "869f43e5-e477-4746-a852-4054c530fb58",
+    "answer": "a pen"
+  },
+  {
+    "question_id": "86b5b84c-c6ba-421b-814c-769fe53cb1c5",
+    "answer": "A painting or a picture frame"
   },
   {
     "question_id": "86b77fd5-5d96-425a-9d1a-56fca347254b",
     "answer": "You can get water by going to the kitchen and using the faucet or by getting a bottle of water from the refrigerator."
   },
   {
+    "question_id": "86eac1db-ef9b-4f9f-bfbc-6acdb5f32ed6",
+    "answer": "white"
+  },
+  {
+    "question_id": "87019892-7a7f-4ce0-b1e6-4c0d6e87b90a",
+    "answer": "A watering can"
+  },
+  {
+    "question_id": "871988c6-00a6-4a5b-a252-7cc2a02bb290",
+    "answer": "On a bookshelf."
+  },
+  {
+    "question_id": "871de0ed-d536-47a2-bde7-c5bd9eba1bf0",
+    "answer": "white"
+  },
+  {
+    "question_id": "872e8692-1e2a-4f7e-8ceb-7a85378be97d",
+    "answer": "white"
+  },
+  {
+    "question_id": "872e9d7f-752d-47bb-aa7d-50a23be3ea69",
+    "answer": "No"
+  },
+  {
+    "question_id": "87ac2b53-0b0a-402d-b5f1-9134391aa84c",
+    "answer": "Use a heater or a blanket."
+  },
+  {
+    "question_id": "87df940b-ce37-475f-80d9-ed650007b065",
+    "answer": "It's hard to determine without more context, but I'll guess that the tape is not running out."
+  },
+  {
+    "question_id": "87e01245-6f75-4ac3-9844-7f331d7df193",
+    "answer": "French doors"
+  },
+  {
     "question_id": "87e218ea-da1d-4d94-8a47-c0947cf5a1f1",
     "answer": "It is likely modern."
+  },
+  {
+    "question_id": "884e2405-85f6-446f-a0ab-a03e537e5184",
+    "answer": "A table"
   },
   {
     "question_id": "8857cab2-2407-4e9f-a8fe-f4eb182a2b39",
@@ -628,40 +3476,236 @@
     "answer": "The white desk is clean."
   },
   {
+    "question_id": "88a218b2-b8e2-4b67-8f77-7cd47707fc8a",
+    "answer": "You can use a phone to call emergency services. Dial the emergency number for your country (such as 911 in the United States) and provide them with the necessary information about the situation and your location."
+  },
+  {
     "question_id": "88a472ed-4344-435e-b80d-4c6f0db5ed96",
     "answer": "A lamp"
+  },
+  {
+    "question_id": "893c624e-c8e2-4afc-a724-f23934ed537a",
+    "answer": "No"
   },
   {
     "question_id": "8985bd89-1b04-4328-869e-75c416eab90b",
     "answer": "open"
   },
   {
+    "question_id": "898ac9c5-1ba8-432f-aed1-f59a59f7e295",
+    "answer": "It depends on the design and height of your bed. Many beds have enough clearance underneath to store items, but some beds, especially those with built-in storage or low-profile designs, may not have sufficient space. If your bed has a standard frame with some clearance, you should be able to put something big under it."
+  },
+  {
+    "question_id": "89a32dbf-a2ca-424c-9396-84459bc8f67b",
+    "answer": "You can play and sing a song from the couch by using a portable speaker or a smartphone to play the music, and then singing along. If you have a musical instrument like a guitar or a keyboard nearby, you could also use that to accompany your singing."
+  },
+  {
+    "question_id": "89ab17cf-edfe-4f0d-8c5f-eab797207efe",
+    "answer": "a floor"
+  },
+  {
+    "question_id": "89adc84a-3e7a-4a14-9dcc-82f4f91c0afc",
+    "answer": "A washing machine"
+  },
+  {
+    "question_id": "8a513e64-2bc4-4b7a-8904-01aba5b6c2da",
+    "answer": "Yes"
+  },
+  {
     "question_id": "8a575099-723a-44a8-a8dd-43ef249b695e",
     "answer": "On the table"
+  },
+  {
+    "question_id": "8a59074b-714e-470d-93d3-deddd354d1a6",
+    "answer": "A person with mobility issues or disabilities."
+  },
+  {
+    "question_id": "8a8e627c-9bae-49e1-a296-c95cf471979a",
+    "answer": "You can watch a movie in the room by using a television or a computer with a DVD player or streaming service. If the room has a projector, you could also use that to watch a movie."
+  },
+  {
+    "question_id": "8a914303-067c-44ba-b8a3-2fd72d3f4396",
+    "answer": "The kitchen"
+  },
+  {
+    "question_id": "8b193fd8-ac3f-40bf-add7-3b7dabacc87c",
+    "answer": "A dresser"
+  },
+  {
+    "question_id": "8b7d2afd-2a77-4f2b-afe1-b1751d890db4",
+    "answer": "It depends on the size and layout of the home, as well as the number of guests you plan to invite. If the home has a spacious dining area, sufficient seating, and adequate kitchen facilities, it could potentially accommodate a large dinner party. However, without specific details about the home's size and amenities, it's difficult to provide a definitive answer."
+  },
+  {
+    "question_id": "8bada0a3-28af-490c-9862-ade4968e86b9",
+    "answer": "No"
+  },
+  {
+    "question_id": "8bb765de-228d-47c2-89e3-e57dbd07261c",
+    "answer": "a coffee table"
+  },
+  {
+    "question_id": "8bd85fd6-575a-40a5-becf-f5ca6bf90dcd",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "8c04ba45-b59c-4cc1-b945-10bee659ba4f",
+    "answer": "a rug"
+  },
+  {
+    "question_id": "8c26c6d7-4d26-4069-9829-53f01c6d0cae",
+    "answer": "A person who enjoys reading or studying"
+  },
+  {
+    "question_id": "8c57fa88-0550-4808-b081-095c709d68a8",
+    "answer": "Yes"
   },
   {
     "question_id": "8c6e4087-1888-46c9-b971-854e9d4d70f0",
     "answer": "Green signs with light are typically used for emergency exit signs. The color green is associated with safety and go, making it easily recognizable and reassuring in emergency situations. The illumination ensures that the signs are visible even in low light or smoky conditions, guiding people to safety."
   },
   {
+    "question_id": "8c892a94-be3e-4349-a91d-d1ba39d86012",
+    "answer": "brown"
+  },
+  {
+    "question_id": "8c8f2bd9-da71-4e90-9bd2-a9bf2fcef574",
+    "answer": "You can get outside from this room by using the door."
+  },
+  {
+    "question_id": "8c9c0a25-0924-488f-aeba-590985c9fb15",
+    "answer": "On the closet door."
+  },
+  {
+    "question_id": "8cac31ac-ac39-42ba-a3bc-74fa8ec19db1",
+    "answer": "closed"
+  },
+  {
+    "question_id": "8cd1c57a-5449-4350-a263-f692dad8533f",
+    "answer": "A plant"
+  },
+  {
+    "question_id": "8d00062f-15c0-42f4-83e7-913c1dd27b18",
+    "answer": "closed"
+  },
+  {
+    "question_id": "8d02f444-6fe6-41ac-8a56-f923d81ab2c8",
+    "answer": "silver"
+  },
+  {
+    "question_id": "8d3b0032-f897-4bf3-9a5d-c03595760309",
+    "answer": "On the nightstand."
+  },
+  {
+    "question_id": "8d518bf1-6e9d-4e34-bbdc-bf84ef7e28e3",
+    "answer": "a light fixture"
+  },
+  {
     "question_id": "8d62dfe4-eeb9-4d49-b92d-6aae2bf0c665",
     "answer": "You can use a timer or a clock to time yourself. Many people use kitchen timers, alarm clocks, or the timer function on their smartphones or smartwatches to keep track of time for focused activities."
+  },
+  {
+    "question_id": "8d6629a6-e5d8-4603-8c66-d8a6a816b8a6",
+    "answer": "In the drawer"
   },
   {
     "question_id": "8d7f1dd7-9764-4603-918b-58eefcb0b10e",
     "answer": "You can increase the speed of the ceiling fan by using the pull chain attached to the fan, adjusting the wall switch if it has a fan speed control, or using a remote control if the fan is equipped with one."
   },
   {
+    "question_id": "8d960341-0b09-4505-b4c5-a78149f8344c",
+    "answer": "the floor"
+  },
+  {
+    "question_id": "8ddd3d37-86fb-41cf-9948-d0b639706a93",
+    "answer": "It is likely in the suburbs."
+  },
+  {
+    "question_id": "8dded29b-3c01-43bf-846b-b09b9b4ea439",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "8de58b75-8369-4185-b39f-82838fc29d87",
+    "answer": "white"
+  },
+  {
+    "question_id": "8e0a0270-9031-48ec-8372-9c0d49d02a84",
+    "answer": "There might be a paper cutter in the office or study area."
+  },
+  {
+    "question_id": "8e186284-0f79-42f4-b1af-096f8c9d47b9",
+    "answer": "No"
+  },
+  {
+    "question_id": "8e2458a5-22f6-4cb1-88b3-aec81d59452d",
+    "answer": "Red"
+  },
+  {
     "question_id": "8e66c38d-8eb3-4b68-babf-78eb561ea94f",
     "answer": "You can put your scarf on a coat rack or hang it in a closet."
+  },
+  {
+    "question_id": "8e8cc828-fc17-4d91-8bc4-696cb7802767",
+    "answer": "In a living room or a study."
+  },
+  {
+    "question_id": "8f0f903e-dd01-4f8c-b7fd-2ed820109656",
+    "answer": "Four"
+  },
+  {
+    "question_id": "8f1cf88b-cf1a-4b9b-bbc9-83fce2df43cd",
+    "answer": "A lamp"
   },
   {
     "question_id": "8f313348-3bfe-4657-a9a6-e64da1a5f921",
     "answer": "blue"
   },
   {
+    "question_id": "8f495a8c-473f-422f-a489-fb9ac3654a0f",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "8f7c8704-c521-4c81-8caf-fe3e2680ef5d",
+    "answer": "kitchen"
+  },
+  {
+    "question_id": "8f8966b6-7b62-4aa0-bcdf-b69312c153bf",
+    "answer": "No"
+  },
+  {
+    "question_id": "8fc06e98-2de5-444a-a91f-c2096408ffd5",
+    "answer": "A table"
+  },
+  {
     "question_id": "8ffc7670-91ec-453b-a938-d13bf5074562",
     "answer": "decorative items"
+  },
+  {
+    "question_id": "8ffd24c9-1b04-4a14-97be-f1448354f3bc",
+    "answer": "blue and green"
+  },
+  {
+    "question_id": "901ac79d-9969-49ab-b7a4-9acba732ea13",
+    "answer": "The living room"
+  },
+  {
+    "question_id": "902e9bf6-2443-4b9d-b27a-837ab57381c4",
+    "answer": "On the couch."
+  },
+  {
+    "question_id": "90457509-f76f-4a0a-a7b8-ea095c58a0cb",
+    "answer": "a toaster"
+  },
+  {
+    "question_id": "908ee7e5-a682-427d-bfbe-7f30450a6e93",
+    "answer": "In the bathroom cabinet."
+  },
+  {
+    "question_id": "9092a6da-481e-4a98-b20a-2a8e8a3b9a28",
+    "answer": "white"
+  },
+  {
+    "question_id": "9099d1e1-2376-417c-b1cd-516ad5f1f386",
+    "answer": "It might be on the nightstand or a coffee table."
   },
   {
     "question_id": "90ab6389-d85e-42ad-b44a-af4849da2631",
@@ -672,8 +3716,56 @@
     "answer": "The light on the black printer is off."
   },
   {
+    "question_id": "90d38f22-8815-4dd2-b1fd-12f177d64404",
+    "answer": "a doormat"
+  },
+  {
+    "question_id": "90f23451-bbad-4ef9-8094-9f39f3fcdc07",
+    "answer": "A computer"
+  },
+  {
+    "question_id": "9104773d-a2f0-4be3-a370-f7bf6e242ff7",
+    "answer": "closed"
+  },
+  {
+    "question_id": "9114bbf3-0bd2-44c5-adb5-903ac6fa46ab",
+    "answer": "On the table"
+  },
+  {
     "question_id": "911693d9-2d28-4ff2-83a9-c67b83753831",
     "answer": "A garden or street view"
+  },
+  {
+    "question_id": "915cb310-31be-4114-846c-242fc59b581d",
+    "answer": "rectangular"
+  },
+  {
+    "question_id": "917d4feb-7e7a-4f9f-a1b0-17451a9fd5bb",
+    "answer": "beige"
+  },
+  {
+    "question_id": "91a12c51-1ca0-4651-902a-c5aaeb62534f",
+    "answer": "L-shaped"
+  },
+  {
+    "question_id": "91e5ff12-cf3d-41af-98aa-046d64790af1",
+    "answer": "blue"
+  },
+  {
+    "question_id": "91e9e006-5372-48fa-9620-18f80b809f74",
+    "answer": "A picture frame"
+  },
+  {
+    "question_id": "91f8e059-02d5-40c0-9488-d2b1a84e004b",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "92cff5f9-03f1-4aef-a22c-9fe9ebbd979f",
+    "answer": "A plate"
+  },
+  {
+    "question_id": "92fc2743-e2d7-4504-bb94-4b95c4f9596d",
+    "answer": "A hallway"
   },
   {
     "question_id": "930d68b1-9fd7-4a41-8998-381d70a40de6",
@@ -682,6 +3774,22 @@
   {
     "question_id": "933a8957-9f4a-4836-bfb6-001fb82afdf8",
     "answer": "home"
+  },
+  {
+    "question_id": "934bf519-f8bc-44fd-baf7-4889c6a28551",
+    "answer": "The kitchen"
+  },
+  {
+    "question_id": "934ce134-edbd-4840-8047-4c0d7593b62a",
+    "answer": "On the coffee table."
+  },
+  {
+    "question_id": "93e19ff9-bfbd-4623-84a3-82c66528477e",
+    "answer": "The chair is likely in a standard chair shape."
+  },
+  {
+    "question_id": "941531b0-77e3-4151-b8fe-eaf6f81a3fe0",
+    "answer": "a chair"
   },
   {
     "question_id": "941a8571-d84b-4607-bf2e-5a6db7ddfccd",
@@ -696,28 +3804,140 @@
     "answer": "a trash can"
   },
   {
+    "question_id": "94be8967-bea0-4dbb-b093-c7d104858905",
+    "answer": "stainless steel"
+  },
+  {
+    "question_id": "952a5413-67b6-4c36-b4b5-ab8456335199",
+    "answer": "No"
+  },
+  {
     "question_id": "953dbacd-8afe-4f33-983f-815c0c752c54",
     "answer": "blue"
+  },
+  {
+    "question_id": "95762878-541e-4f5c-b071-abe79a0393f3",
+    "answer": "a lamp"
+  },
+  {
+    "question_id": "957a3e81-3701-4261-9734-23234a1fc01c",
+    "answer": "closed"
   },
   {
     "question_id": "9585c0be-c248-48cf-93e9-194f6764286f",
     "answer": "brown"
   },
   {
+    "question_id": "95cfe5bb-f8f7-4852-b3b9-e0ab26e69189",
+    "answer": "a music stand"
+  },
+  {
     "question_id": "95d1c129-ce47-4ba4-b052-8156f8a56d6f",
     "answer": "A broom"
+  },
+  {
+    "question_id": "95d652cc-afe2-426a-81bd-1dcef1e6c90a",
+    "answer": "On the nightstand."
+  },
+  {
+    "question_id": "95e2802f-af82-4688-a7ab-ad56708cfec8",
+    "answer": "A glass screen is often needed for various reasons depending on the context. Here are a few possible explanations:"
   },
   {
     "question_id": "961fa9de-6a12-49e7-8e69-2590b96242af",
     "answer": "queen size"
   },
   {
+    "question_id": "962b8661-a1bd-4536-b08d-49fc1634d058",
+    "answer": "a chair"
+  },
+  {
+    "question_id": "96563e62-a785-41bd-bb9d-d948e9580664",
+    "answer": "Yes"
+  },
+  {
     "question_id": "96748f3c-b4c7-4b42-b7b1-fbc7ace75374",
     "answer": "red, white, and blue"
   },
   {
+    "question_id": "96b5c4d7-64a4-4d47-8baa-22abd98dd8ae",
+    "answer": "off"
+  },
+  {
     "question_id": "96d03658-7a65-4bb4-aff5-01c9a7108ee6",
     "answer": "a calendar"
+  },
+  {
+    "question_id": "96d7f5ef-14b2-432a-8b85-21a0621e41a4",
+    "answer": "a mirror"
+  },
+  {
+    "question_id": "981feccd-fc4f-4471-a40b-e1874d3786a6",
+    "answer": "A family portrait"
+  },
+  {
+    "question_id": "982536c8-1bb0-444c-ac9a-14f63317f4b7",
+    "answer": "You can make a copy of your passport by using a photocopier or a scanner. If you have a photocopier, place your passport face down on the glass surface and press the copy button. If you have a scanner, place your passport on the scanner bed, scan the image to your computer, and then print the scanned image using a printer. Alternatively, you can visit a local print shop or office supply store where they offer copying services."
+  },
+  {
+    "question_id": "985001b3-3491-4fe1-9958-5da818eccf8f",
+    "answer": "You can cool the room by using an air conditioner or a fan. Alternatively, you could open windows to allow for better air circulation if the outside temperature is cooler."
+  },
+  {
+    "question_id": "987aac58-d2a4-417e-84fc-4b1ede9934a9",
+    "answer": "A clock"
+  },
+  {
+    "question_id": "98896b18-c580-42b9-a2fa-45c2ebdeb2d6",
+    "answer": "A painting or a piece of artwork"
+  },
+  {
+    "question_id": "98a31a80-3f7b-416a-ba1a-fc1858523860",
+    "answer": "Mickey Mouse"
+  },
+  {
+    "question_id": "98a93f9e-7274-42f8-8b44-f367cc379f92",
+    "answer": "A wall"
+  },
+  {
+    "question_id": "98bbe1fa-34a1-4c0e-b276-ca90742cdbe4",
+    "answer": "Yes, you can use the sink."
+  },
+  {
+    "question_id": "98d630c9-6689-4a26-892f-4290c150f984",
+    "answer": "Yes, there is likely something to wipe your nose. It could be a box of tissues, which is commonly found on a nightstand in the bedroom, on a coffee table in the living room, or on a kitchen counter."
+  },
+  {
+    "question_id": "98f5190a-b4b0-4bcb-83d0-43dfc39dba85",
+    "answer": "A wall"
+  },
+  {
+    "question_id": "991967d0-f7ba-4b8e-af60-16c7b9ca00a5",
+    "answer": "a pillow"
+  },
+  {
+    "question_id": "99219276-38ce-4730-a793-75108c7bbb9a",
+    "answer": "There is no information provided about the wallpaper in any of the rooms, so I cannot determine how many rooms have vehicle wallpaper."
+  },
+  {
+    "question_id": "99227ff9-2583-422d-b447-1fa1a7ab1f5d",
+    "answer": "Yes, there is likely a trash can."
+  },
+  {
+    "question_id": "99571a75-6e17-4ba2-b4e4-0d7b6b74179a",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "99afbf6e-0b35-4228-8676-dca7c7709a23",
+    "answer": "One"
+  },
+  {
+    "question_id": "99e98610-d1b5-4b76-a47d-443523a64a16",
+    "answer": "On the floor near the entrance."
+  },
+  {
+    "question_id": "9a09d135-1e8b-4f55-811a-d2bac6af03b0",
+    "answer": "striped"
   },
   {
     "question_id": "9a0ec462-d85d-4d29-aaf1-4d9f0db24d5f",
@@ -728,8 +3948,108 @@
     "answer": "A painting or a picture frame"
   },
   {
+    "question_id": "9a17b771-9efb-485a-9497-d5b7698b5702",
+    "answer": "On the bed"
+  },
+  {
+    "question_id": "9a25945c-5653-402f-909a-349792a31c7b",
+    "answer": "Red"
+  },
+  {
+    "question_id": "9a38faf6-e4db-477f-aef8-dd393503c318",
+    "answer": "On a hook or hanger in the bathroom."
+  },
+  {
+    "question_id": "9a63d1fe-1f60-4f29-aa59-2033a3b16217",
+    "answer": "In the garage."
+  },
+  {
+    "question_id": "9a6a84f5-2871-4703-8f00-85c1c31492ed",
+    "answer": "The kitchen"
+  },
+  {
+    "question_id": "9a865041-4c98-4697-b84f-49770e0ad86f",
+    "answer": "Near the base of the wall"
+  },
+  {
+    "question_id": "9aa9815f-f10f-4fd3-824e-4e190b1a1722",
+    "answer": "A toy box"
+  },
+  {
+    "question_id": "9acfbdd3-bc51-4010-ae1e-a28a949731d5",
+    "answer": "closed"
+  },
+  {
+    "question_id": "9b0bb497-0f84-44b4-8f94-93c43aad14cd",
+    "answer": "On the wall"
+  },
+  {
+    "question_id": "9b0de2f8-11de-4dae-aa28-c4da93f0433e",
+    "answer": "You can call 911 by using a phone. Simply dial the numbers 9-1-1 on your phone's keypad and press the call button. This will connect you to emergency services, where you can request help for medical, fire, or police emergencies."
+  },
+  {
+    "question_id": "9b0e9f41-203c-4969-b713-17f4bc5152a9",
+    "answer": "The local sports team."
+  },
+  {
+    "question_id": "9b2ba858-fbf0-4137-829a-4edab772f80b",
+    "answer": "On the wall"
+  },
+  {
+    "question_id": "9b2d06e5-ca78-4519-a9ca-75c06209b770",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "9b4a7fbb-680d-4e39-8d60-7b1e521f3108",
+    "answer": "tools"
+  },
+  {
+    "question_id": "9b776c41-58e6-4fb4-83cb-1cf05958502b",
+    "answer": "In the refrigerator."
+  },
+  {
+    "question_id": "9b816c56-6cb0-4c45-9bc5-266c3a72e884",
+    "answer": "A grab bar"
+  },
+  {
+    "question_id": "9b955b63-7f1a-41cd-9892-a2e42a601ede",
+    "answer": "To hold onto for support"
+  },
+  {
+    "question_id": "9bc60545-6323-44aa-a797-2b104ef6bf54",
+    "answer": "black"
+  },
+  {
+    "question_id": "9bd38301-7b12-4855-82e8-03ac7086dd96",
+    "answer": "It is organized."
+  },
+  {
+    "question_id": "9be4c0df-1754-4341-b1ac-afe3c503e8cc",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "9bf13104-dc4a-4a50-adef-27f190382d5f",
+    "answer": "It depends on the specific toiletries and their quantities. Generally, liquids, gels, and aerosols in carry-on luggage must be in containers of 3.4 ounces (100 milliliters) or less, and all containers must fit in a single quart-sized, clear, resealable plastic bag. Solid toiletries like soap bars and solid deodorants are usually allowed without restriction."
+  },
+  {
     "question_id": "9c05eb03-b169-495f-8475-e46a1b070418",
     "answer": "Apple"
+  },
+  {
+    "question_id": "9c6de794-334a-44a5-b92c-3103e631eeb3",
+    "answer": "There could be various objects against the walls of a room, depending on the type of room. Common objects might include:"
+  },
+  {
+    "question_id": "9c6e90de-9454-4cbb-8346-a2f264840d05",
+    "answer": "In the storage room."
+  },
+  {
+    "question_id": "9ca30022-6b6c-4950-b91d-e90ee80f49d8",
+    "answer": "On the couch."
+  },
+  {
+    "question_id": "9cc36f4f-750c-426c-a3a5-ae003e926a81",
+    "answer": "You can be entertained in various ways depending on the indoor space. Here are some common options:"
   },
   {
     "question_id": "9cf81173-4fa4-40d4-ac78-6b45489542e2",
@@ -740,6 +4060,14 @@
     "answer": "Mickey Mouse"
   },
   {
+    "question_id": "9d9d4db5-7028-48a6-a62b-e62ec13d0393",
+    "answer": "A standard straight staircase"
+  },
+  {
+    "question_id": "9dbc644e-d90f-4807-8bf4-54fc3bbc116a",
+    "answer": "a bookshelf"
+  },
+  {
     "question_id": "9dd2290a-9054-42ad-8af2-e5cac5c5c126",
     "answer": "You can heat the house using a variety of methods that don't involve wood. Some common alternatives include:"
   },
@@ -748,8 +4076,56 @@
     "answer": "Books"
   },
   {
+    "question_id": "9e4381a0-7745-48a2-a123-669524352dd4",
+    "answer": "a sofa"
+  },
+  {
+    "question_id": "9e46f6c7-b820-47fc-b62a-3ca31e21c40a",
+    "answer": "cluttered"
+  },
+  {
+    "question_id": "9e5aa952-66ca-4f51-a107-456dafa74304",
+    "answer": "rectangular"
+  },
+  {
+    "question_id": "9e900d39-f553-4ffe-937a-f81944c78634",
+    "answer": "A rug"
+  },
+  {
+    "question_id": "9eb97c49-f0a7-4543-bd8d-4771797bcd27",
+    "answer": "right"
+  },
+  {
     "question_id": "9f378b85-bd57-4776-93b2-8148e6c5784d",
     "answer": "Yes, there is likely something you can drink. You might find water, juice, or soda in the refrigerator."
+  },
+  {
+    "question_id": "9fb8aca7-a295-4224-8631-b6466b212dae",
+    "answer": "red"
+  },
+  {
+    "question_id": "9fc2d987-fc9c-4771-a0d4-07d24e2b7910",
+    "answer": "On the TV"
+  },
+  {
+    "question_id": "a0141ef9-a198-401b-be14-401182a3b27f",
+    "answer": "a cushion"
+  },
+  {
+    "question_id": "a08d95f2-94e9-4b7a-9797-9e06f9d99920",
+    "answer": "silver"
+  },
+  {
+    "question_id": "a0af16f9-2e25-4705-b726-d495b7e654c4",
+    "answer": "In the kitchen"
+  },
+  {
+    "question_id": "a0edd695-f005-4476-9417-3e0b7e3f2d71",
+    "answer": "To clean the room, you can follow these general steps:"
+  },
+  {
+    "question_id": "a1253597-ec48-4281-a978-520c2f2d721b",
+    "answer": "In the living room."
   },
   {
     "question_id": "a14a11ee-ad00-4e7b-835d-687f23df5b80",
@@ -760,44 +4136,288 @@
     "answer": "closed"
   },
   {
+    "question_id": "a1612351-7a02-4c8c-914b-9a074c6f2325",
+    "answer": "the bed"
+  },
+  {
+    "question_id": "a17d4fe0-bb67-4a52-ab83-5a1434eab2fd",
+    "answer": "a shelf"
+  },
+  {
+    "question_id": "a2130e5d-6b76-4a8e-bc8b-c55c9119f7ca",
+    "answer": "Various machines could be visible in an indoor space, depending on the room. Common machines that might be seen include:"
+  },
+  {
+    "question_id": "a21f3649-d8c9-4cb4-a26d-81e510aff2cf",
+    "answer": "The drawers are full."
+  },
+  {
+    "question_id": "a2b9cef4-15a2-489a-b784-10019bd8f75d",
+    "answer": "On a desk"
+  },
+  {
+    "question_id": "a3074ccb-6653-44c7-9334-374cbcde6d78",
+    "answer": "I'm not sure where your purse is, but a common place to check would be on a table, a chair, or a countertop. You might also want to look in your bedroom or near the entrance of your home."
+  },
+  {
     "question_id": "a30c78cd-d4e3-451f-ae9d-436c0c897a67",
     "answer": "white"
+  },
+  {
+    "question_id": "a339748b-a292-48f0-ab32-e1ba945f9611",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "a3438480-9f46-41be-b844-9c7468315873",
+    "answer": "a plate"
+  },
+  {
+    "question_id": "a36ab369-6f78-4311-a943-b6862cd28b55",
+    "answer": "A painting or a picture frame"
+  },
+  {
+    "question_id": "a39b3be9-526b-4489-bfe5-a46f67ad2a93",
+    "answer": "On the coat rack."
   },
   {
     "question_id": "a3ebe222-885f-4069-b7ca-8441381333ec",
     "answer": "closed"
   },
   {
+    "question_id": "a3f4ad21-0d01-47cc-b654-0ee043b94dc5",
+    "answer": "silver"
+  },
+  {
+    "question_id": "a403b6f1-5e99-4644-aad6-772a0c9d8f90",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "a41bc6c5-db91-469c-8d0c-02f11c02e159",
+    "answer": "On a shower shelf or caddy."
+  },
+  {
+    "question_id": "a428bdc5-7bd3-475a-89cb-f6540b7b70a3",
+    "answer": "silver"
+  },
+  {
+    "question_id": "a441274f-6be5-4ed0-ab6a-fea064b5c008",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "a467e7d5-bd72-4edb-9b61-f7d633fef774",
+    "answer": "Yes"
+  },
+  {
     "question_id": "a46aaed6-b8c5-4584-8902-c6aff7ecfde4",
     "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "a47013cb-309f-4494-9b32-bbc38edcc23b",
+    "answer": "A bath mat"
+  },
+  {
+    "question_id": "a47a35f1-8bcb-4d26-ad38-a67d9afeaa04",
+    "answer": "There might be a variety of activities happening in the house today, such as cooking, cleaning, working from home, or relaxing. Without more specific information, it's hard to say exactly what is happening."
   },
   {
     "question_id": "a49ac3ba-e308-42a6-8b2e-fb0c73f6613d",
     "answer": "You can let others know the floor is wet by placing a \"Wet Floor\" sign in the area. These signs are typically bright yellow and have a clear warning message to alert people to the potential hazard. If you don't have a sign, you can verbally inform others or use any visible marker to indicate the wet area."
   },
   {
+    "question_id": "a4d9802f-5339-4b61-8c9a-42256441b86d",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "a4dd1c33-d705-4c29-9987-0e2140650c54",
+    "answer": "black"
+  },
+  {
+    "question_id": "a50613c0-8edb-4fe0-84c6-988d0b0ad98e",
+    "answer": "A computer"
+  },
+  {
+    "question_id": "a5126523-373e-457f-afc2-2d1de4ec9541",
+    "answer": "You would typically use stairs to go down from the above floor to the below floor."
+  },
+  {
+    "question_id": "a59f87e1-f591-4486-9f67-7b6e9bb4c546",
+    "answer": "On a couch"
+  },
+  {
+    "question_id": "a5a88a20-7d66-4b5c-bbfe-3efae2da465a",
+    "answer": "closed"
+  },
+  {
+    "question_id": "a5b37d32-b0c4-4573-9085-e69cc8297e13",
+    "answer": "A notebook and a pen"
+  },
+  {
+    "question_id": "a5b5d845-3a6f-4251-83e9-ba5830fede4a",
+    "answer": "socks"
+  },
+  {
+    "question_id": "a5c5bb29-700a-4ef5-b17d-aaa47bb0ef3f",
+    "answer": "A cutting board"
+  },
+  {
+    "question_id": "a5c95b56-0ac2-472e-a06b-156e612df5e2",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "a5ea1265-f3e8-4ab8-a7d1-82d1198e8067",
+    "answer": "A computer"
+  },
+  {
     "question_id": "a605c40f-96e7-4bec-a1cb-6d48e88e39cd",
     "answer": "A light fixture"
+  },
+  {
+    "question_id": "a64782de-d282-4472-9b80-1b596d55276e",
+    "answer": "On the wall above the bathroom sink."
+  },
+  {
+    "question_id": "a67994b9-e3ca-421a-9000-b6f2712d0d4d",
+    "answer": "a glass or a jar"
   },
   {
     "question_id": "a689a632-8117-4e41-8e19-101668a8d5cd",
     "answer": "Use a dryer."
   },
   {
+    "question_id": "a697842a-4891-41de-811d-fcfa20d53dfb",
+    "answer": "A toilet paper holder"
+  },
+  {
+    "question_id": "a6cff3da-7709-4eac-8e0f-52bfbd75f8cf",
+    "answer": "Making toast"
+  },
+  {
     "question_id": "a72012b4-5cc2-49a2-a947-2792da0d8b0d",
     "answer": "A landscape scene"
+  },
+  {
+    "question_id": "a74956e0-1377-47b7-9a90-37731bf86e64",
+    "answer": "a book"
+  },
+  {
+    "question_id": "a7798fc4-becd-4816-918b-3be114fdea69",
+    "answer": "The outlet is likely on the wall."
+  },
+  {
+    "question_id": "a79849ad-6087-40ee-bc5e-a446951550e9",
+    "answer": "You can fix the tear on your cloth by sewing it. Here are some steps you can follow:"
+  },
+  {
+    "question_id": "a7d5c6d2-0b3e-4136-9f3e-5741df739bc1",
+    "answer": "In the drawer"
+  },
+  {
+    "question_id": "a810284c-2d13-4f9d-9814-eb1b10c6e204",
+    "answer": "No"
+  },
+  {
+    "question_id": "a81fef48-9967-4ca2-a3a8-5a5392c78656",
+    "answer": "The Great Gatsby"
+  },
+  {
+    "question_id": "a86a08ae-18f2-4c39-ad19-a21b428b594a",
+    "answer": "There is not enough information to determine the cleanliness of the table in front of the staircase. However, I will guess that the table is clean."
   },
   {
     "question_id": "a86ef102-5500-4fbf-8fae-cdbeb20a3b7b",
     "answer": "red"
   },
   {
+    "question_id": "a87bddf4-9672-49bc-890c-dc57788e4e01",
+    "answer": "You can call your friend using a phone."
+  },
+  {
+    "question_id": "a88522e3-8de8-46c5-9b58-b5c5ec7d20f4",
+    "answer": "On the couch."
+  },
+  {
+    "question_id": "a8c02803-de6a-4dd8-97b1-98301dbda075",
+    "answer": "a pillow"
+  },
+  {
+    "question_id": "a8c2bb22-48e8-4d9d-a3f7-d3e82740cffe",
+    "answer": "On the desk."
+  },
+  {
+    "question_id": "a8cc7ee8-36ea-4726-bb0e-2642ffc2c2d0",
+    "answer": "A hallway"
+  },
+  {
+    "question_id": "a8e8eee2-b234-4172-9485-7c33eaf0055d",
+    "answer": "On a desk or table"
+  },
+  {
+    "question_id": "a8f5e240-7d09-4d5f-84e9-65549d1c54ed",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "a92b5721-564f-480f-a44a-8f3cc46971a0",
+    "answer": "a coffee stain"
+  },
+  {
     "question_id": "a94091c5-6a43-4560-aaa9-95738ada32cd",
     "answer": "full"
   },
   {
+    "question_id": "aa45b0b9-a5a3-47c0-9a78-85b45b448291",
+    "answer": "A toaster"
+  },
+  {
+    "question_id": "aa4cb415-802f-47c9-ba0b-1850079c97aa",
+    "answer": "On the floor near the entrance."
+  },
+  {
+    "question_id": "aa55382f-d80e-4491-b664-f3d954a43239",
+    "answer": "closed"
+  },
+  {
+    "question_id": "aa639733-fd12-43f4-b186-d72316568450",
+    "answer": "A television"
+  },
+  {
+    "question_id": "aaa3ce91-bcab-4c1a-90b4-ae0c33d8a268",
+    "answer": "red"
+  },
+  {
+    "question_id": "aaf5eade-70c6-4aa5-98b0-9d0c76b85f0d",
+    "answer": "At a desk"
+  },
+  {
+    "question_id": "ab1701f5-085c-48e4-aaba-06c23409d3e2",
+    "answer": "canvas"
+  },
+  {
+    "question_id": "ab6bfd30-72fd-4ef3-a703-0860e4457f78",
+    "answer": "closed"
+  },
+  {
+    "question_id": "ab998f98-779b-4b12-886b-ab432e0a0dc0",
+    "answer": "On the walls"
+  },
+  {
     "question_id": "abc4646a-9ce6-4b97-ab29-95b8f96d65e6",
     "answer": "On the desk"
+  },
+  {
+    "question_id": "ac489e30-5954-40f2-9c6d-625a04cb0103",
+    "answer": "On the dining table."
+  },
+  {
+    "question_id": "ac61cf15-2114-4e6f-b187-4c9094a60f70",
+    "answer": "white"
+  },
+  {
+    "question_id": "ac7b12cc-0c32-4de3-8059-7bdf0f2793bd",
+    "answer": "a lamp"
+  },
+  {
+    "question_id": "ac9011e4-0040-4f0d-9828-fde9e1c7c029",
+    "answer": "white"
   },
   {
     "question_id": "acab5e16-338f-4e58-86b3-1242e2258dfd",
@@ -808,24 +4428,132 @@
     "answer": "candles"
   },
   {
+    "question_id": "acdc1502-9c5a-422a-a712-4359f947ac24",
+    "answer": "blue"
+  },
+  {
     "question_id": "acebe630-9d99-4897-bd0f-028038e5baaa",
     "answer": "You can clean the whiteboard using a whiteboard eraser or a soft cloth. If there are stubborn marks, you can use a whiteboard cleaner spray or a mixture of water and a small amount of rubbing alcohol. Simply spray the solution onto the board and wipe it clean with a cloth."
+  },
+  {
+    "question_id": "acf5dc41-c6a9-42f3-b76b-14d120aa19e1",
+    "answer": "Yes, there is likely a place to charge your phone. It could be an electrical outlet near the bed or a nightstand in the bedroom."
+  },
+  {
+    "question_id": "ad1d1e19-42bc-4817-a87a-4e9826354724",
+    "answer": "To clean up a water spill, you should:"
+  },
+  {
+    "question_id": "ad3fbe74-ade5-4cf3-9f6c-c3a3b99f3a9c",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "ad98ce8a-17d2-4afb-ab0e-deed7bea4b55",
+    "answer": "blue"
+  },
+  {
+    "question_id": "adabb0fc-a2ff-4f42-8c51-8af85c2ac2fc",
+    "answer": "No"
   },
   {
     "question_id": "adbb8868-f4d1-4348-ba8d-023eb87e4eb0",
     "answer": "You can charge your computer at a desk or table where there is a power outlet nearby."
   },
   {
+    "question_id": "adeee329-01aa-4b91-98a0-4823fd8810b6",
+    "answer": "a table"
+  },
+  {
+    "question_id": "ae19adeb-498a-4814-b955-e0af05623f9b",
+    "answer": "You can get recipes from a cookbook, which is often found in the kitchen, or you can look them up online using a computer or smartphone."
+  },
+  {
     "question_id": "ae1e5043-c875-4155-9908-d5fc8f54ed29",
     "answer": "a chair"
+  },
+  {
+    "question_id": "ae4069a3-cdeb-4e53-8db2-986725aab18c",
+    "answer": "The lamp is switched off."
+  },
+  {
+    "question_id": "ae502c44-7692-4a98-a1a1-2c7d2d823294",
+    "answer": "full"
+  },
+  {
+    "question_id": "ae6873ac-a038-412b-8f16-6aef2264376c",
+    "answer": "In the bathroom or the kitchen."
+  },
+  {
+    "question_id": "aebfdd0c-7c76-4fe2-9591-3509ae1040fd",
+    "answer": "No"
+  },
+  {
+    "question_id": "aee1ab06-4fc0-4238-a50b-bb8ed35ac956",
+    "answer": "a coffee table"
   },
   {
     "question_id": "aee9e1df-66b1-45a4-b1ab-e52248239e93",
     "answer": "One person"
   },
   {
+    "question_id": "aef5ef60-1ae5-40ab-be92-d9633b6aad66",
+    "answer": "A mirror"
+  },
+  {
+    "question_id": "aefa9d7f-f8ab-4373-8ceb-db1066e62f52",
+    "answer": "It depends on the current state of the desks."
+  },
+  {
+    "question_id": "af4b62be-5f12-4180-8a3a-665152a7dfd9",
+    "answer": "A couch"
+  },
+  {
+    "question_id": "af709fd8-dca2-4697-9548-07aa9d157d8e",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "afbe9506-e865-4c66-865f-268c935403cc",
+    "answer": "In the bathroom cabinet."
+  },
+  {
+    "question_id": "afd23587-fd83-4e7e-a2d9-98e72aa5f37a",
+    "answer": "In the kitchen or the bathroom."
+  },
+  {
+    "question_id": "affd4e6a-1c28-44ec-bb2a-2de846198be0",
+    "answer": "On a chair."
+  },
+  {
     "question_id": "b0370ddd-3bf8-4a77-ab83-54a727d189a7",
     "answer": "On the nightstand."
+  },
+  {
+    "question_id": "b05e7b30-6a4d-4381-9d05-a42ed0c90e30",
+    "answer": "No"
+  },
+  {
+    "question_id": "b0740f05-dbf1-4835-b16e-62d01d371a78",
+    "answer": "A light fixture"
+  },
+  {
+    "question_id": "b08736f7-c125-470c-b88d-9c3b148c2390",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "b089a6db-d46b-49b6-b774-217f74479d23",
+    "answer": "a table"
+  },
+  {
+    "question_id": "b0b40220-5e47-40ea-9298-167b140c242c",
+    "answer": "A fruit bowl"
+  },
+  {
+    "question_id": "b1146a3a-444b-4c57-9975-d4367b7ae0d6",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "b1440c06-44c0-4f6d-9547-0d8beb5e9c35",
+    "answer": "The ground floor"
   },
   {
     "question_id": "b15ba31e-4f17-4a44-b39b-7ce8fdc51e3f",
@@ -840,32 +4568,180 @@
     "answer": "a microwave"
   },
   {
+    "question_id": "b1da6ada-cdae-4433-9651-bafb974ebd07",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "b231fe4c-05f6-4872-973f-192b7808f555",
+    "answer": "Another book"
+  },
+  {
+    "question_id": "b2499e86-cd59-4809-84e7-a3b34ea4cc57",
+    "answer": "It's not specified."
+  },
+  {
+    "question_id": "b29f4176-f842-44e8-810a-823412cdb393",
+    "answer": "No"
+  },
+  {
+    "question_id": "b2c61fb2-be00-4f70-8880-17d028f0d1d3",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "b2c8ec35-7d7b-4879-8199-d6a7edf3968c",
+    "answer": "blue"
+  },
+  {
+    "question_id": "b2ed5cdc-65a2-4b3a-86d2-4c9a5ff6eca9",
+    "answer": "a power strip"
+  },
+  {
+    "question_id": "b2f4ba91-22af-4797-9690-2ed0ef51ba6c",
+    "answer": "a living room"
+  },
+  {
     "question_id": "b30225ce-76a1-4af7-aad7-ae068767fd73",
     "answer": "Yes"
+  },
+  {
+    "question_id": "b38045c3-cf3d-43e3-8fee-a085b89a4d3a",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "b3ac4009-274c-446e-9fd3-788610d06b86",
+    "answer": "On a clock or a digital device."
+  },
+  {
+    "question_id": "b3be3cbc-d382-40bb-b33f-d1b22d97220b",
+    "answer": "a table"
+  },
+  {
+    "question_id": "b3c27d3d-4d42-421c-b4da-568ff939155f",
+    "answer": "The stove is typically located near the sink."
+  },
+  {
+    "question_id": "b41c3183-c6cb-4bc6-a554-13e27532b2ad",
+    "answer": "red"
+  },
+  {
+    "question_id": "b488175a-6ce9-41ae-96c7-e81a667fdcb9",
+    "answer": "The dining table"
+  },
+  {
+    "question_id": "b4de266c-5361-46b7-a098-167d6ee4d5c1",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "b52bc051-f6a3-4161-aec5-77e5a5dda875",
+    "answer": "Refrigerators are generally designed to be ambidextrous, meaning they can be used by both left-handed and right-handed people. However, some refrigerators have reversible doors that can be adjusted to open from either the left or the right side, making them more convenient for left-handed users if set to open from the left."
   },
   {
     "question_id": "b54dc085-5bbd-41f5-85c4-078585d5836b",
     "answer": "I'm sorry, but I can't see images. However, if you provide a description of the images, I can try to help identify the religious figure based on the details you give."
   },
   {
+    "question_id": "b56d03e0-7762-40ce-861b-bdc86a4b4527",
+    "answer": "You can rest on the bed."
+  },
+  {
+    "question_id": "b5928051-adaf-49ee-8f16-2b809b5aa117",
+    "answer": "A nightstand"
+  },
+  {
+    "question_id": "b5d424fb-fa1e-417d-9e35-093cad58376b",
+    "answer": "white"
+  },
+  {
     "question_id": "b5fd796d-b299-40e5-9271-b1b2cde4c366",
     "answer": "rectangular"
+  },
+  {
+    "question_id": "b60453d8-d274-4159-b368-96e8ad66575f",
+    "answer": "a kitchen counter"
+  },
+  {
+    "question_id": "b6a0c99d-e03e-4fd1-bdc3-17e89271b98b",
+    "answer": "closed"
+  },
+  {
+    "question_id": "b6b87757-49b8-4719-be2c-266038b5df34",
+    "answer": "central heating"
+  },
+  {
+    "question_id": "b6bc27d5-2c3f-4146-89ab-be5af05f537f",
+    "answer": "In the toolbox or a drawer in the garage or utility room."
+  },
+  {
+    "question_id": "b6d30cdf-dc28-47f2-a169-0e5d95bb49e2",
+    "answer": "The smoke detector"
+  },
+  {
+    "question_id": "b6dcf043-30a6-4b4e-9787-9b29bd1b1703",
+    "answer": "a sink"
+  },
+  {
+    "question_id": "b70465b8-53a3-436f-b12f-2d8cdf8f1856",
+    "answer": "laundry detergent"
   },
   {
     "question_id": "b736fcaa-15e5-48b3-a672-319f94af8055",
     "answer": "a cushion"
   },
   {
+    "question_id": "b74494f1-d1be-4dd8-a643-8f80dbe41139",
+    "answer": "black"
+  },
+  {
+    "question_id": "b749aeb9-231c-4b3b-8e23-a56832792184",
+    "answer": "You can charge your phone by plugging it into a power outlet using a compatible charger. Most chargers consist of a USB cable and a power adapter that connects to the outlet. If you have a wireless charger, you can place your phone on the charging pad to charge it."
+  },
+  {
     "question_id": "b7c76f16-bec9-4215-9713-cdcb75aaf9f2",
     "answer": "Toys"
+  },
+  {
+    "question_id": "b7e4763f-1d21-4565-9ff9-82af0bd250fa",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "b7ec05d6-2f72-48b0-97f8-3708553719f0",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "b7efc03d-5c92-4a1f-87a8-461d4d97ef4a",
+    "answer": "No"
+  },
+  {
+    "question_id": "b7fc30fc-3014-4589-b6a0-23453cd26841",
+    "answer": "a wall"
+  },
+  {
+    "question_id": "b80f70ac-8df9-4015-ac47-7696271f4b12",
+    "answer": "The drawers by the window are closed."
+  },
+  {
+    "question_id": "b85a44e7-0383-45aa-ae10-ecb951c1d5a8",
+    "answer": "A kitchen"
   },
   {
     "question_id": "b866979f-7056-41cd-ba13-6fa6ec1e519c",
     "answer": "In the office or mailroom."
   },
   {
+    "question_id": "b88abf34-0446-480a-9c39-0a7e9d4e7ea5",
+    "answer": "In the mailbox."
+  },
+  {
     "question_id": "b899b89c-8dbf-45c7-a73e-40f4e6bbd436",
     "answer": "on the floor"
+  },
+  {
+    "question_id": "b8ab9833-1dc7-460e-aae8-b6dba755ebb4",
+    "answer": "blue"
+  },
+  {
+    "question_id": "b9082f55-b06a-4680-a6a9-3f454d261a52",
+    "answer": "a rug"
   },
   {
     "question_id": "b9384377-414c-4742-91f7-bde8d2635301",
@@ -876,12 +4752,120 @@
     "answer": "In the bathroom."
   },
   {
+    "question_id": "b949bea6-5b96-4569-9d42-5c9eee7fdb5a",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "b9702e2c-87a8-40d7-931e-28abbd4818dc",
+    "answer": "Clothes"
+  },
+  {
+    "question_id": "b9a8a5a8-ad09-4412-ad05-5191bbfca956",
+    "answer": "a rug"
+  },
+  {
+    "question_id": "b9fa3fcf-34f1-4eb5-a6d1-3fb4465ade39",
+    "answer": "a chair"
+  },
+  {
+    "question_id": "ba30c43f-be08-4305-b983-d35c77f1db96",
+    "answer": "You can turn on the lights by using the light switch, which is typically located on the wall near the entrance of the room. In some cases, you might also use a lamp with a switch on the lamp itself or a remote control if the lights are connected to a smart home system."
+  },
+  {
+    "question_id": "ba31f08f-0721-4773-b3da-fdeef9dad06f",
+    "answer": "brown"
+  },
+  {
+    "question_id": "ba427cc2-18ee-4082-8182-6d96c3db6396",
+    "answer": "On a decorative sign or plaque"
+  },
+  {
+    "question_id": "ba5f1c9b-9a41-4a84-829b-f9b8ccd19b69",
+    "answer": "In the laundry room, you typically reach for laundry detergent on a shelf above or near the washing machine."
+  },
+  {
+    "question_id": "baa59d32-91d7-48e1-aa38-4c34bdb7296b",
+    "answer": "In a mirror."
+  },
+  {
+    "question_id": "baaee8af-461a-43bc-897e-8549dd792c56",
+    "answer": "The office desk."
+  },
+  {
+    "question_id": "babe466a-4ee8-4afd-a8f9-964793a5d425",
+    "answer": "On the ceiling."
+  },
+  {
+    "question_id": "bacd9518-93ac-409e-a79b-2f40a3e0ece4",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "baee041f-b8a3-4cb4-889c-ea7575692ed3",
+    "answer": "a sofa"
+  },
+  {
+    "question_id": "bb1f77da-2f24-45e4-af20-10d82c300c06",
+    "answer": "closed"
+  },
+  {
+    "question_id": "bb2b651b-c335-4c33-95d4-34b2b358e3ce",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "bb66d352-b33d-4758-b92c-8c71be7f4a1f",
+    "answer": "closed"
+  },
+  {
+    "question_id": "bb936e73-356d-4b21-8924-a0329aac1b9c",
+    "answer": "In a bathroom waste bin."
+  },
+  {
+    "question_id": "bbb83d84-289c-4f1d-a470-772e5c823a90",
+    "answer": "open"
+  },
+  {
+    "question_id": "bbb9566b-1a2c-4d4d-ad8d-bc9f7a5fedd8",
+    "answer": "You can charge your laptop at a power outlet, which is commonly found on walls in most rooms. Additionally, you might find power outlets near desks or tables, especially in home offices or living rooms."
+  },
+  {
+    "question_id": "bbc7ab7f-7150-4df0-9b03-921218ee66d5",
+    "answer": "In the kitchen."
+  },
+  {
     "question_id": "bc0caf6a-7684-4730-bc58-3717c1e57b38",
     "answer": "On the wall in the living room."
   },
   {
+    "question_id": "bc1af4f3-5241-4606-8315-ca46d88d7d84",
+    "answer": "The living room"
+  },
+  {
+    "question_id": "bc4465ed-dd94-4eec-9a9f-54b5c906b1fb",
+    "answer": "A glass or a cup"
+  },
+  {
+    "question_id": "bcd201bc-ed53-4db6-870c-63b06b948b0d",
+    "answer": "a TV stand"
+  },
+  {
+    "question_id": "bcf6ffa6-47fe-4698-a805-c80f9e89e7a4",
+    "answer": "Basketball"
+  },
+  {
+    "question_id": "bcf81c6f-66ef-4302-9538-87b68c655729",
+    "answer": "On the chalkboard tray"
+  },
+  {
+    "question_id": "bd0bfb4a-1f48-4227-bd0a-9e20ba4b232a",
+    "answer": "white"
+  },
+  {
     "question_id": "bd5e9e4e-c6be-40e9-a923-fcc6aa321947",
     "answer": "off"
+  },
+  {
+    "question_id": "bd921f39-d628-4fee-8026-7e3231008e07",
+    "answer": "On the wall."
   },
   {
     "question_id": "bd986065-2260-46f7-9d14-cf97cd2d166c",
@@ -892,35 +4876,183 @@
     "answer": "A small table with a plant on it"
   },
   {
+    "question_id": "bddda2b0-4f5b-4b4d-9306-ec560ebf1b9f",
+    "answer": "They have something written on them."
+  },
+  {
+    "question_id": "bde5e2f5-2f71-4af2-b235-866d9e9c2704",
+    "answer": "a pen"
+  },
+  {
+    "question_id": "bdfdd853-dc78-49a4-b946-460447530303",
+    "answer": "No"
+  },
+  {
+    "question_id": "be3ec633-cf6e-44dc-b70b-fa9bcbd28971",
+    "answer": "Light switches"
+  },
+  {
+    "question_id": "be6227b0-23cc-43f4-af06-bf860f886405",
+    "answer": "Apple"
+  },
+  {
     "question_id": "be70144d-654f-47ef-b060-554680db7c8a",
     "answer": "Yes"
+  },
+  {
+    "question_id": "be7911dd-6e1b-43e8-b09d-a56125ad6ecb",
+    "answer": "The left side"
+  },
+  {
+    "question_id": "be856696-0ed5-44a4-8dee-ecb5b59438fd",
+    "answer": "A computer"
+  },
+  {
+    "question_id": "beb00aa9-f908-4633-9f63-b8bcc37d4c8a",
+    "answer": "a nightstand"
+  },
+  {
+    "question_id": "bf24221b-2f48-4dd6-b4ee-6132c384bbf7",
+    "answer": "There might be a black plate on top of the black mini fridge."
+  },
+  {
+    "question_id": "bf4960d4-469f-49bc-8594-9b994049fa77",
+    "answer": "You can sit and eat at the kitchen counter or on a bar stool."
   },
   {
     "question_id": "bf506312-d5f4-4553-8a58-7b415f9a8390",
     "answer": "On the coffee table."
   },
   {
+    "question_id": "bf533bc8-570f-446c-ae76-a339a0dd87c1",
+    "answer": "Yes"
+  },
+  {
     "question_id": "bf955503-883b-4aff-add7-c255460f2c68",
     "answer": "Yes"
+  },
+  {
+    "question_id": "bfb9dbe4-c22e-4408-bd60-45d09a239484",
+    "answer": "off"
   },
   {
     "question_id": "bfbe82af-7830-430a-82ac-939ad58f9a00",
     "answer": "closed"
   },
   {
+    "question_id": "bfe3dd93-acd5-42ab-a492-f5914c1a3b26",
+    "answer": "In the kitchen."
+  },
+  {
     "question_id": "c006256c-c0c8-47c2-9b05-4d8fbf75bd44",
     "answer": "brown"
+  },
+  {
+    "question_id": "c0359449-cb8c-4fe2-8371-fb260735070a",
+    "answer": "You can typically get to the backyard through a door located in the kitchen or living room area. Some homes also have sliding glass doors or a back door specifically designed for access to the backyard."
+  },
+  {
+    "question_id": "c0795364-b3e1-4e46-b685-ac535c4bc47d",
+    "answer": "a laptop"
+  },
+  {
+    "question_id": "c07b6d96-9a0f-40c2-b9f5-a3aee4801a76",
+    "answer": "closer to the whiteboard"
+  },
+  {
+    "question_id": "c0d60534-93ed-4794-844e-dff5dad32b67",
+    "answer": "A mug"
   },
   {
     "question_id": "c0f9c7ae-cf3c-49b0-be64-34971d65dd7b",
     "answer": "a blanket"
   },
   {
+    "question_id": "c148a370-b0df-4c66-9a45-9cbebea5c302",
+    "answer": "closed"
+  },
+  {
+    "question_id": "c1609580-2208-4c0d-837e-1f6fb628ad52",
+    "answer": "On the bed."
+  },
+  {
+    "question_id": "c19a83ae-ee50-4e15-81d9-9838b30024a2",
+    "answer": "A bed and bedding (such as a mattress, pillows, and blankets)"
+  },
+  {
+    "question_id": "c1b2ccf5-b56d-4ced-9cec-eaf62fedc675",
+    "answer": "black"
+  },
+  {
+    "question_id": "c1bbf838-e06a-446d-a91d-924b62fa41b3",
+    "answer": "On the shelf."
+  },
+  {
+    "question_id": "c227470f-7d64-4de3-89b4-5e2b73679fa2",
+    "answer": "It is likely on your bed or a nearby piece of furniture in your bedroom, as pillows are typically found in those areas."
+  },
+  {
+    "question_id": "c2df1478-af13-4fa7-80ed-4bda7f4bae7e",
+    "answer": "The shoemaker you're referring to is likely Clarks. Clarks is a well-known British shoe brand that often uses brown boxes with green lids for their packaging and is renowned for making durable and comfortable shoes."
+  },
+  {
+    "question_id": "c2fecdd5-6c0e-4b34-bbd7-bee93852a93a",
+    "answer": "In the bedroom."
+  },
+  {
+    "question_id": "c3054a94-e904-4bb5-b7b7-47b14d052d85",
+    "answer": "a black table"
+  },
+  {
+    "question_id": "c3362f10-cb6b-4e23-b2c7-3146ba2491cf",
+    "answer": "a towel"
+  },
+  {
+    "question_id": "c35752f3-3d61-403e-9f9b-20471a228114",
+    "answer": "You should refill the dispenser with a new roll of paper towels."
+  },
+  {
+    "question_id": "c36331e1-d0b6-4f58-9f44-5590887b6677",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "c37ae971-9ea0-404d-a2da-a635e8f7ee7d",
+    "answer": "In a filing cabinet or a desk drawer."
+  },
+  {
+    "question_id": "c38b2190-e647-47e8-aa8f-5ea617198e30",
+    "answer": "A desk lamp"
+  },
+  {
+    "question_id": "c3abc41f-789c-43be-a1c2-b60cf362bcf3",
+    "answer": "A painting or a poster"
+  },
+  {
+    "question_id": "c3b3c036-f06b-4193-9035-09eb075a05ea",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "c3b87229-ae61-4843-a880-d4f861626507",
+    "answer": "rectangular"
+  },
+  {
     "question_id": "c3c79f08-b726-4dc8-85b5-e1a2c3b363bb",
     "answer": "A teddy bear"
   },
   {
+    "question_id": "c429e90b-6e20-492d-bf27-63c662325659",
+    "answer": "You need a remote control."
+  },
+  {
     "question_id": "c42b6463-ec4d-4272-a98b-c58738cee15b",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "c474bd96-ca4f-4e61-bc9c-bf0f776e7e25",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "c496cdf1-762c-4403-8261-1e680de59db2",
     "answer": "Yes"
   },
   {
@@ -928,16 +5060,124 @@
     "answer": "rectangular"
   },
   {
+    "question_id": "c527196b-f103-4e34-8899-ec8e5afa6bf5",
+    "answer": "Books or papers"
+  },
+  {
+    "question_id": "c5553811-fe5c-485a-8f02-ae545fbdb69e",
+    "answer": "On the desk"
+  },
+  {
+    "question_id": "c55ca66e-c7e9-4163-85f1-2d90ea7f6917",
+    "answer": "full"
+  },
+  {
+    "question_id": "c5972a01-f323-4915-820f-e13a698204b4",
+    "answer": "There are four chairs."
+  },
+  {
+    "question_id": "c5a16c11-e855-4abe-bfe5-33df48982386",
+    "answer": "white"
+  },
+  {
     "question_id": "c5be3792-7d9b-4b93-8a4d-fe943c696307",
     "answer": "A scenic landscape"
+  },
+  {
+    "question_id": "c5c06434-6fe6-4772-b7a6-d111f55fc7ad",
+    "answer": "The color of the couch in the living room is beige."
+  },
+  {
+    "question_id": "c5d6763a-9859-484c-86c6-2b73814b5173",
+    "answer": "red"
+  },
+  {
+    "question_id": "c5f1c860-5c73-4566-bfcb-f5652b3160c6",
+    "answer": "Check the light bulb and replace it if necessary."
+  },
+  {
+    "question_id": "c5fbce6d-e4bc-43cf-984a-4efc2fde01e0",
+    "answer": "A bulletin board"
+  },
+  {
+    "question_id": "c6186284-cb4a-492c-92a2-2cab89e34959",
+    "answer": "The hand towel is likely hanging on a towel rack or a hook near the sink."
+  },
+  {
+    "question_id": "c64f520c-6450-413c-99da-979be386ff86",
+    "answer": "Use a step stool or a ladder."
+  },
+  {
+    "question_id": "c653292e-cfce-4d69-bb3e-7994d220de47",
+    "answer": "Yes, there is likely a coffee maker in the kitchen."
+  },
+  {
+    "question_id": "c66b8aa9-623f-46ab-9543-01b06aa606a1",
+    "answer": "A hallway"
+  },
+  {
+    "question_id": "c694295d-cc6c-4469-93ec-51ea0420d389",
+    "answer": "white"
+  },
+  {
+    "question_id": "c6d9f5b9-dbed-4781-aac6-8171520408b3",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "c7045ff9-71b6-47d8-8815-8a18e927dd64",
+    "answer": "The two main functions or purposes of this room are likely sleeping and storage."
+  },
+  {
+    "question_id": "c7399516-76ad-4506-adba-f9caa4f96483",
+    "answer": "By the front door."
+  },
+  {
+    "question_id": "c79ae994-7ac2-441b-ac16-c19b7e3a5a40",
+    "answer": "Dell"
   },
   {
     "question_id": "c7c8c496-b3d2-4370-b321-d4274ffda701",
     "answer": "a nightstand"
   },
   {
+    "question_id": "c7d66b13-573b-4ead-8c75-1ff840a7e35d",
+    "answer": "blue"
+  },
+  {
     "question_id": "c841bb52-1cec-46d7-bb83-8c99b5c66fa8",
     "answer": "a clock"
+  },
+  {
+    "question_id": "c8597353-0075-4ba7-a1e7-8ab29ea0f8a3",
+    "answer": "A display cabinet or a curio cabinet"
+  },
+  {
+    "question_id": "c8808989-9b62-4764-814e-520fd40c22cd",
+    "answer": "flat ceiling"
+  },
+  {
+    "question_id": "c8d5d713-9517-4ff5-8935-33688a433258",
+    "answer": "open"
+  },
+  {
+    "question_id": "c8f1f36b-1b75-42f5-a959-bcb88b70e2bd",
+    "answer": "In a drawer or a filing cabinet."
+  },
+  {
+    "question_id": "c929797a-967c-4159-83af-fa24bbe9c32e",
+    "answer": "toys"
+  },
+  {
+    "question_id": "c9f3033f-3fc5-4859-a210-1ee90b212a14",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "c9f39725-8925-4e89-b4ec-222356847f1f",
+    "answer": "No"
+  },
+  {
+    "question_id": "c9fa0dcd-de50-4b46-8f4c-88400a41fa8f",
+    "answer": "rectangular"
   },
   {
     "question_id": "ca7b3e07-1300-4c31-befe-d3e39c70e77a",
@@ -948,72 +5188,456 @@
     "answer": "No"
   },
   {
+    "question_id": "caa77055-4305-4e7e-939d-a00b52a943df",
+    "answer": "The trash bin is likely in the kitchen."
+  },
+  {
+    "question_id": "cad73b24-cc60-4a62-beff-0b8afe224309",
+    "answer": "closed"
+  },
+  {
+    "question_id": "cb07597c-0331-4434-9f5a-c93d5c9f6629",
+    "answer": "On the dining table"
+  },
+  {
+    "question_id": "cb31bc51-b9b2-451f-8ce7-05032d84d48c",
+    "answer": "Some common objects that might be found on a table include plates, cups, utensils, a centerpiece, books, or a laptop."
+  },
+  {
+    "question_id": "cb38e809-d5b7-471d-b412-5bc13bd20413",
+    "answer": "cotton"
+  },
+  {
     "question_id": "cbb81160-b858-49d6-a234-a94edb4d0b1d",
     "answer": "a refrigerator"
+  },
+  {
+    "question_id": "cbec1143-0256-47d0-afe7-e0bb0227eba6",
+    "answer": "In the bathroom."
+  },
+  {
+    "question_id": "cbf4d400-c7e9-488b-9c20-b74ac175e15b",
+    "answer": "closed"
+  },
+  {
+    "question_id": "cbfbe85b-eb4d-43aa-966b-bcfda2fae507",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "cbffc0cd-04aa-4686-97bf-887c0dc840bd",
+    "answer": "A landscape scene"
+  },
+  {
+    "question_id": "ccbae04a-858c-483d-b87a-f0d66a80a395",
+    "answer": "It is likely clean."
+  },
+  {
+    "question_id": "ccef790e-e972-4d90-a7ae-1e1d5c8c5cb7",
+    "answer": "On the coffee table"
+  },
+  {
+    "question_id": "ccf7e23b-7abe-47d0-8fee-131e9065e22a",
+    "answer": "a table"
   },
   {
     "question_id": "cd4f9d78-25fd-4dac-a2f0-86f7af957f6d",
     "answer": "It is tidy."
   },
   {
+    "question_id": "cd5a15ff-d222-4745-8238-eee9afb27b79",
+    "answer": "A countertop"
+  },
+  {
+    "question_id": "cd8dd632-4431-44b9-9cbb-6eec2317344c",
+    "answer": "The ceiling"
+  },
+  {
+    "question_id": "cdb2760c-33d0-4e19-8ddc-494f9874dfb3",
+    "answer": "In the living room."
+  },
+  {
     "question_id": "ce189a94-cd18-4868-a98b-9576e5db9128",
     "answer": "white"
+  },
+  {
+    "question_id": "ce2f5613-88a1-4401-86dc-cbb968f56179",
+    "answer": "red"
+  },
+  {
+    "question_id": "ce8acdaa-800e-4c8a-a3a2-42297c2b9526",
+    "answer": "blue"
+  },
+  {
+    "question_id": "ce8cb396-1fc8-4ff2-9c17-5a15fa4ffe4e",
+    "answer": "closed"
+  },
+  {
+    "question_id": "cea31de3-d3dd-4f73-a88f-3f94c11dc6b2",
+    "answer": "closed"
+  },
+  {
+    "question_id": "ceaa311c-5689-4cc4-81bd-3a92e7d7bb57",
+    "answer": "black"
   },
   {
     "question_id": "cec83622-f735-435a-b054-1e201a48652c",
     "answer": "The kitchen countertop is clean."
   },
   {
+    "question_id": "ced848d4-9022-4811-9fca-8343d5824bfb",
+    "answer": "closed"
+  },
+  {
+    "question_id": "cefb9ac6-48c6-4990-916a-ea5f064295ee",
+    "answer": "Yes"
+  },
+  {
     "question_id": "cf028c5f-9f99-49fd-9dbb-8d1b8fb0786a",
     "answer": "a rug"
+  },
+  {
+    "question_id": "cf0e325d-cbd9-4206-94e6-db3ca30d2b03",
+    "answer": "In the closet."
   },
   {
     "question_id": "cf153ba8-dd50-4ad4-8c3a-c1e322bacfb8",
     "answer": "blue"
   },
   {
+    "question_id": "cf2e76d8-f2e3-4d12-8ad5-53ddf6e68dfb",
+    "answer": "On the bookshelf."
+  },
+  {
+    "question_id": "cf338176-0f53-499c-a134-50a4a832ea79",
+    "answer": "The table near the sofa is clean."
+  },
+  {
+    "question_id": "cf59aff3-3a6d-43df-9e56-bee517336d05",
+    "answer": "12 cups"
+  },
+  {
+    "question_id": "cf5eb398-f811-4345-9f0f-77c72bdcfbf9",
+    "answer": "On a towel rack or hook installed near the shower."
+  },
+  {
+    "question_id": "cf72f8cf-18be-4813-bb90-60477209299c",
+    "answer": "On the wall"
+  },
+  {
+    "question_id": "cf78a884-0e67-472c-ad53-1b18384ed5de",
+    "answer": "Yes, you can boil water, fry an egg, and separately saut\u00e9 vegetables, beans, and a protein at the same time in this kitchen if it is equipped with a stove that has at least four burners. This setup would allow you to use one burner for boiling water, one for frying an egg, and the remaining two for saut\u00e9ing the vegetables, beans, and protein."
+  },
+  {
+    "question_id": "cf7a6ff1-4a97-4b6c-b78e-a70f40cdd80f",
+    "answer": "On the bed."
+  },
+  {
+    "question_id": "cfc1c54b-cff3-4ce6-b5ec-d75405103682",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "cfc605af-6ea0-4b95-92c2-df0812f38722",
+    "answer": "A table lamp"
+  },
+  {
+    "question_id": "cff4127b-c5cb-4c4a-b3b5-52373e573f65",
+    "answer": "wood"
+  },
+  {
     "question_id": "d0165de2-29aa-44d1-8689-ff13cd573c79",
     "answer": "On the floor"
+  },
+  {
+    "question_id": "d0186859-7e18-4fbb-b651-bc38b64b324d",
+    "answer": "on the kitchen counter"
+  },
+  {
+    "question_id": "d0198e47-78e4-49f1-af83-ba10dbd2c526",
+    "answer": "A fan or an air conditioner."
+  },
+  {
+    "question_id": "d07e539d-22b5-43e2-9d13-d8394daf3706",
+    "answer": "On the kitchen counter."
   },
   {
     "question_id": "d08b3e22-3b0f-4d9a-915b-81d9556cf548",
     "answer": "A toaster"
   },
   {
+    "question_id": "d08fc4f5-8629-4ff8-9b71-6ee3f2847935",
+    "answer": "It's possible."
+  },
+  {
+    "question_id": "d09b5f50-ade2-477f-93bb-9f2f27f4fa71",
+    "answer": "On the couch."
+  },
+  {
+    "question_id": "d0b5f592-5e6f-462a-a19e-45d116eb1d67",
+    "answer": "a table"
+  },
+  {
+    "question_id": "d0c4c586-b8b8-4eee-8abc-9bccbaa03134",
+    "answer": "blue"
+  },
+  {
+    "question_id": "d120fc5f-76af-4892-80c7-56637cb3bc74",
+    "answer": "white"
+  },
+  {
     "question_id": "d1375469-87f7-476f-9aaf-a19422657943",
     "answer": "In the bathroom."
+  },
+  {
+    "question_id": "d16b6600-beb5-4bf4-8045-d018b75eefb1",
+    "answer": "closed"
+  },
+  {
+    "question_id": "d16c927b-8d75-4743-8018-97320c76b351",
+    "answer": "In the bathroom."
+  },
+  {
+    "question_id": "d1d0700c-225f-4b65-a787-8881fde764b7",
+    "answer": "Room 101"
+  },
+  {
+    "question_id": "d25e0e56-6873-46d6-9a62-c7bcfc405e24",
+    "answer": "No"
+  },
+  {
+    "question_id": "d270704a-a706-41cc-a510-7d99d62e1215",
+    "answer": "No"
+  },
+  {
+    "question_id": "d2dac362-782f-4f04-a154-530c81735357",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "d2f68af9-ef54-48cd-8dc2-f2cfff48489b",
+    "answer": "No"
+  },
+  {
+    "question_id": "d2fff880-9f23-487e-acc9-2c112c5015dd",
+    "answer": "A pull-up bar"
+  },
+  {
+    "question_id": "d36c5ac4-65b9-4979-881c-56c7d0870a50",
+    "answer": "A dog"
+  },
+  {
+    "question_id": "d3742804-8363-4346-a622-5bcaeffb25e9",
+    "answer": "On the wall above the dresser."
+  },
+  {
+    "question_id": "d3792585-2b71-41c7-9148-c6bd6b2d4754",
+    "answer": "Yes, there is likely a pair of scissors or a paper cutter. These items are commonly found in a home office, a desk drawer, or a kitchen drawer."
+  },
+  {
+    "question_id": "d3dbe292-7a21-459e-a470-a7f96beab6d3",
+    "answer": "a television"
+  },
+  {
+    "question_id": "d3e612ec-fe15-41f9-b08e-d3bbcd43845a",
+    "answer": "white"
+  },
+  {
+    "question_id": "d3ff036a-23d9-48c3-a6d4-8cdc6082e0c3",
+    "answer": "In the closet"
+  },
+  {
+    "question_id": "d40eec6b-6d09-4bc6-9648-65f8e899965d",
+    "answer": "an orange book"
   },
   {
     "question_id": "d4a9a244-2d9a-4ee3-a29d-202154838f15",
     "answer": "It is likely clean."
   },
   {
+    "question_id": "d4c10718-fd57-4db0-93c1-b54deb4b1b25",
+    "answer": "You can clean your hands by washing them with soap and water at a sink, typically found in a bathroom or kitchen. Alternatively, you can use hand sanitizer if soap and water are not available."
+  },
+  {
     "question_id": "d4caa082-a63e-46e3-9caf-e029c8c70979",
     "answer": "Yes"
+  },
+  {
+    "question_id": "d58639eb-be6f-4c0f-a186-bd5cabca70e7",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "d5b18be3-2d0c-4653-9706-7c33159de7a9",
+    "answer": "A landscape"
+  },
+  {
+    "question_id": "d5c19ea7-5931-4501-a3cf-bed0eb161a9f",
+    "answer": "closed"
+  },
+  {
+    "question_id": "d5e25c69-9bf1-4c49-a273-e7d8dd394b3d",
+    "answer": "A calculator"
+  },
+  {
+    "question_id": "d5ee5c7d-f02b-4a62-884d-92f83db9a541",
+    "answer": "Food"
+  },
+  {
+    "question_id": "d5f844fc-81cd-465e-aa90-e8ff8658c861",
+    "answer": "It depends on the size of the shelf and the existing cookie jar(s). If the shelf has enough space left after accommodating the current cookie jar(s), then another cookie jar can fit. However, without specific information about the shelf's dimensions and the size of the existing cookie jar(s), it's not possible to provide a definitive answer."
   },
   {
     "question_id": "d6142b7c-27e3-4aef-bca7-2cfddca328f4",
     "answer": "Yes"
   },
   {
+    "question_id": "d6423493-2f38-481e-856e-933f0746a84e",
+    "answer": "No"
+  },
+  {
+    "question_id": "d66336d8-2c8d-4717-9c89-870f85f04473",
+    "answer": "off"
+  },
+  {
+    "question_id": "d669ce4b-f6d6-4f5f-9f67-74d12cb0ef68",
+    "answer": "Two"
+  },
+  {
+    "question_id": "d6d2c525-e841-49a7-9e5d-b1cb75f17751",
+    "answer": "blue"
+  },
+  {
+    "question_id": "d6d33031-738b-462d-ac53-2c2df150083e",
+    "answer": "In the living room."
+  },
+  {
+    "question_id": "d7019200-5300-459e-a2c1-b54d5ec0a80b",
+    "answer": "blue"
+  },
+  {
+    "question_id": "d7160347-b3a1-4511-90ab-26a20da5bbf2",
+    "answer": "You can play with your friend by engaging in various activities such as playing board games, video games, or engaging in a sport or hobby you both enjoy. If you're indoors, you might consider activities like building a puzzle, having a movie night, or doing a craft project together."
+  },
+  {
+    "question_id": "d75dd87e-5b59-4418-9646-6e5d2a84b13a",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "d76e6beb-7a4e-40eb-bb33-7c7185a070dd",
+    "answer": "A vase with flowers"
+  },
+  {
+    "question_id": "d7aaf35f-60fd-471f-8fee-40cd27e40baf",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "d7cb9f77-ab44-43e8-952e-1df8254ae13b",
+    "answer": "a plant"
+  },
+  {
     "question_id": "d7f763d9-5c61-40c1-ac80-47c79bfb3e6d",
     "answer": "a wooden stick"
+  },
+  {
+    "question_id": "d8183087-f3dd-47c1-b985-733923edc4a0",
+    "answer": "off"
   },
   {
     "question_id": "d83a933e-10fc-478e-8d73-8f7ae266c55f",
     "answer": "One chair is pushed in, and the other is pulled out."
   },
   {
+    "question_id": "d843b020-4415-4efd-95e7-903f96d4eb26",
+    "answer": "In the living room or dining room."
+  },
+  {
+    "question_id": "d8e924b2-17c7-467b-b192-320925e7039a",
+    "answer": "a couch"
+  },
+  {
+    "question_id": "d8eabd13-48d9-4214-8148-f06ffae283ee",
+    "answer": "closed"
+  },
+  {
     "question_id": "d91c7393-560f-4fa0-83a9-b66045621b17",
     "answer": "off"
+  },
+  {
+    "question_id": "d9737f88-11c2-454d-aa40-a2e1f3111505",
+    "answer": "On the wall near the entrance"
+  },
+  {
+    "question_id": "d9be5488-237b-41e0-bfac-3ba299d64203",
+    "answer": "Through a hatch or pull-down ladder, usually located in a hallway or closet."
+  },
+  {
+    "question_id": "da17ae0d-58f0-4099-8bd6-4537e67d93f9",
+    "answer": "The living room"
   },
   {
     "question_id": "da1d2adf-7888-4c94-80d7-b84f09a25682",
     "answer": "The garbage disposal switch is typically located on the wall near the kitchen sink."
   },
   {
+    "question_id": "da31a414-1a7e-408f-85a1-68d45f7b6997",
+    "answer": "A wooden cabinet"
+  },
+  {
+    "question_id": "da56e4ab-8354-434d-b894-9b6aa2611ea8",
+    "answer": "It is difficult to determine the condition of the ping-pong table without more information. However, if we are to make a guess, I would say it is new."
+  },
+  {
+    "question_id": "da762ec1-2ca2-4ca0-bfb0-20a71fc22b24",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "da85d7b4-f3d3-44a4-ac2d-de022e39ff45",
+    "answer": "On the wall"
+  },
+  {
+    "question_id": "daa15648-f82f-4ed7-bf87-43306dd0c5af",
+    "answer": "It's unclear from the information provided."
+  },
+  {
+    "question_id": "daad7b7b-c23c-463b-8786-6ba3492b748d",
+    "answer": "wood"
+  },
+  {
+    "question_id": "dab99429-63f9-4533-9696-f74127d6181a",
+    "answer": "white"
+  },
+  {
+    "question_id": "db2a420c-151b-4e64-959a-9a91a377aafe",
+    "answer": "A wall"
+  },
+  {
+    "question_id": "dba4a507-03d9-47a1-aebf-78eba47dd2c3",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "dba97e50-5486-4b7d-a69a-a2295fca49d1",
+    "answer": "white"
+  },
+  {
+    "question_id": "dc35f127-0fcc-4d8f-bf68-f6b9d412ad63",
+    "answer": "white"
+  },
+  {
+    "question_id": "dc4dc9eb-8311-4cd0-ad16-303441445164",
+    "answer": "blue"
+  },
+  {
     "question_id": "dd22723c-6e9a-40f9-a791-68406abea53f",
     "answer": "closed"
+  },
+  {
+    "question_id": "dd41d385-6228-46ab-a7c0-e0d2f25e299a",
+    "answer": "paintings or photographs"
+  },
+  {
+    "question_id": "dd5293d5-8795-4c03-bee7-72f4f337a47c",
+    "answer": "a computer or a laptop"
+  },
+  {
+    "question_id": "dd7bce27-21e6-4e6e-bd11-406eac7f7093",
+    "answer": "brown"
   },
   {
     "question_id": "ddb0b209-9e25-4f8a-b033-9e4f3dce276b",
@@ -1024,8 +5648,28 @@
     "answer": "circles and squares"
   },
   {
+    "question_id": "de02cdce-36b4-4aa7-a3e3-5c8bc4e78ed6",
+    "answer": "blue"
+  },
+  {
     "question_id": "de038605-c441-4a30-968b-7815bad3a3c9",
     "answer": "blue"
+  },
+  {
+    "question_id": "de7ac44b-1c0a-4629-b3f1-a5ea88cf9e41",
+    "answer": "In the medicine cabinet or a bathroom drawer."
+  },
+  {
+    "question_id": "de97a986-30c3-4e0b-92dc-77ba1900cf8d",
+    "answer": "On the desk."
+  },
+  {
+    "question_id": "de9bd341-0754-4c6c-9558-c973832c3942",
+    "answer": "The living room"
+  },
+  {
+    "question_id": "deb29a55-6b43-48b6-b974-0c1cb8061cc9",
+    "answer": "off"
   },
   {
     "question_id": "decee266-85d8-46d6-940a-d8eb2af15bbe",
@@ -1040,12 +5684,72 @@
     "answer": "a lamp"
   },
   {
+    "question_id": "df1efdd6-00f5-4f17-936f-c6d600f48fc0",
+    "answer": "On the floor near the entrance."
+  },
+  {
+    "question_id": "df42c730-83e0-4f81-b6a8-7023356efea4",
+    "answer": "One"
+  },
+  {
+    "question_id": "df48ef29-6497-4d5c-b673-0ccdeef26622",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "df5a6203-24a0-40d7-b178-31fb02db71ef",
+    "answer": "a hallway"
+  },
+  {
+    "question_id": "df6cc3a9-195b-4a84-92dc-4d4f53c5b6ca",
+    "answer": "You could use a desk lamp or a portable light source to illuminate your workspace without disturbing your roommate. Alternatively, you could move to another room or a common area where the lighting is more suitable for studying."
+  },
+  {
+    "question_id": "df714f0e-e908-4a6c-adcd-8eaf53e91e6d",
+    "answer": "on the kitchen counter"
+  },
+  {
+    "question_id": "dfdc3b36-d98f-42a7-b2ea-dceb4af1794a",
+    "answer": "In the center of the ceiling."
+  },
+  {
     "question_id": "dff9dc3a-4d00-4bd6-95b3-18a36e549eff",
     "answer": "gray"
   },
   {
+    "question_id": "e008feb4-b533-439a-bae4-5407e7f79ae7",
+    "answer": "On the desk."
+  },
+  {
+    "question_id": "e014a9be-7436-4253-99fa-6ff6dcda4444",
+    "answer": "You can turn on a fan or air conditioner, open a window, or drink some cold water."
+  },
+  {
+    "question_id": "e01e51db-73d9-47f3-8756-128b5d8d89af",
+    "answer": "Yes, there are likely condiments in the kitchen."
+  },
+  {
+    "question_id": "e054db36-4034-4740-aea3-95988b44c5fd",
+    "answer": "a window"
+  },
+  {
     "question_id": "e087f46f-1fd5-4054-8db0-16b04fd8ab09",
     "answer": "blue"
+  },
+  {
+    "question_id": "e08b042f-b7c4-4578-b5af-3450566fc595",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "e09cba21-13bb-4856-8fc1-386de7c0a83a",
+    "answer": "A chandelier or light fixture"
+  },
+  {
+    "question_id": "e0b667f8-4df0-4823-9f6f-c4bb8b7d7575",
+    "answer": "blue"
+  },
+  {
+    "question_id": "e0c78ad1-3c42-4973-ac92-cc88466d22f0",
+    "answer": "A lamp"
   },
   {
     "question_id": "e0d20472-8fa6-4e8d-880d-22d4eed3fbb8",
@@ -1060,8 +5764,28 @@
     "answer": "a mirror"
   },
   {
+    "question_id": "e1b47f95-7ae0-417f-8f3e-d096feae96f6",
+    "answer": "closed"
+  },
+  {
     "question_id": "e1bc960b-6160-400f-9bdb-4a42bc286cc8",
     "answer": "The refrigerator"
+  },
+  {
+    "question_id": "e1e1f5c5-b45e-409b-9f0e-fd7d0bd41f41",
+    "answer": "Yes, there is likely a room to work. It is probably a home office or a study."
+  },
+  {
+    "question_id": "e1f9b6b4-cf8f-417f-aa85-e32d6db75a77",
+    "answer": "a bookshelf"
+  },
+  {
+    "question_id": "e204ce82-2602-4c28-bcf8-c8cfb2bf693f",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "e22162c7-9c4d-46f0-8dd5-560a9c4f0dad",
+    "answer": "Yes"
   },
   {
     "question_id": "e25996f5-9a95-4b55-a357-a71d65acede3",
@@ -1072,28 +5796,272 @@
     "answer": "Yes"
   },
   {
+    "question_id": "e2a3b992-3f1e-454f-81a4-0406276224d5",
+    "answer": "a treadmill"
+  },
+  {
+    "question_id": "e2a55cb0-a883-4dd6-9b2f-239d92ebd8bc",
+    "answer": "A painting or a mirror"
+  },
+  {
+    "question_id": "e2ccf6f4-22a9-47d1-ab8d-a05a13435b82",
+    "answer": "brown"
+  },
+  {
+    "question_id": "e2d967de-7120-406a-be59-770e836ba07f",
+    "answer": "A rug"
+  },
+  {
+    "question_id": "e2e83cc4-1f41-4de2-80d5-7e8a0a0a74d7",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "e35875b7-5844-4f4b-9354-1ac985495869",
+    "answer": "white"
+  },
+  {
+    "question_id": "e36087a0-f638-4769-8055-dc357e706c71",
+    "answer": "There might be something on top of the cardboard box."
+  },
+  {
+    "question_id": "e3725196-ef52-49ac-bed1-f77db87bb0fb",
+    "answer": "a mop"
+  },
+  {
     "question_id": "e3990bd6-5e91-4a1c-91d2-dc6c5c0e0813",
     "answer": "A television"
+  },
+  {
+    "question_id": "e3a1393f-c49e-4666-b904-8ffc1ca8d0bb",
+    "answer": "On your desk."
+  },
+  {
+    "question_id": "e3b376ec-db5d-4c4c-ba74-e7f6d4b6209f",
+    "answer": "No"
+  },
+  {
+    "question_id": "e3e35efd-965b-43ef-b6f9-3e65907e9581",
+    "answer": "On the kitchen counter"
+  },
+  {
+    "question_id": "e3e3de6d-326c-4978-b008-3b9dbb50f6f7",
+    "answer": "blue and green"
   },
   {
     "question_id": "e3f6ebae-2b21-4356-856b-52a54fc45b60",
     "answer": "Wood"
   },
   {
+    "question_id": "e4245364-bc3d-4ed8-84e4-492df400c345",
+    "answer": "on"
+  },
+  {
+    "question_id": "e45cb43e-25a2-46cd-818a-5267984ceafa",
+    "answer": "A picture frame"
+  },
+  {
+    "question_id": "e46e1b38-b285-4382-a3a7-696077f772d3",
+    "answer": "a thermostat"
+  },
+  {
+    "question_id": "e48cb9e2-a686-4833-ae3d-846a0be01921",
+    "answer": "A picture frame"
+  },
+  {
+    "question_id": "e4ac7c05-a94b-4929-994a-7c0623bd4367",
+    "answer": "In a bookshelf."
+  },
+  {
+    "question_id": "e4b5ea66-9102-4879-8462-024d1628ffc7",
+    "answer": "closed"
+  },
+  {
+    "question_id": "e4f7ffc5-29ba-4c84-ae61-bb6c0625165e",
+    "answer": "wood"
+  },
+  {
+    "question_id": "e5498ed0-430e-40d4-9d6c-20d61473379e",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "e5692e2d-d135-4917-83e6-1a8712b3ddd0",
+    "answer": "blue"
+  },
+  {
+    "question_id": "e59e9409-776f-4c14-945e-11772fd5ff50",
+    "answer": "In the refrigerator."
+  },
+  {
+    "question_id": "e5c3d2bd-ef67-46a5-badc-f6c9f1421be2",
+    "answer": "To the circuit breaker or fuse box."
+  },
+  {
+    "question_id": "e5f8a674-532d-4dd9-a101-1f7626837582",
+    "answer": "gray"
+  },
+  {
+    "question_id": "e621e982-d424-431a-acb8-4afa7a032d24",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "e624827e-fc89-475f-88f6-ccd4aaaac866",
+    "answer": "You can use a pitcher or a glass to pour yourself some water. These items are typically located in the kitchen, often in a cabinet or on a countertop."
+  },
+  {
+    "question_id": "e6499416-f118-4c1b-aa99-a0b980b89e47",
+    "answer": "No"
+  },
+  {
+    "question_id": "e66d55ce-24a5-46c9-8ad3-f9ebf9f7447d",
+    "answer": "To clean up smoke from the kitchen, you can follow these steps:"
+  },
+  {
+    "question_id": "e67ab82a-e427-4b29-8fc2-1f7f290d4d18",
+    "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "e6bb724b-0597-425c-a302-e9aea5e0031b",
+    "answer": "No"
+  },
+  {
+    "question_id": "e6f70056-2a9c-429c-9570-f136d2eb4120",
+    "answer": "Christmas"
+  },
+  {
+    "question_id": "e6fb0c2e-5f92-4835-ba38-6af958b7a1d3",
+    "answer": "A bookshelf"
+  },
+  {
+    "question_id": "e73e8300-86d0-47b8-82bc-e4aeddf7203b",
+    "answer": "half-full"
+  },
+  {
+    "question_id": "e74a9d1c-e75b-49bc-ad66-f4b1e485b755",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "e74c1a31-b36d-40bc-aaad-0a92c730e0c8",
+    "answer": "A note or a set of keys"
+  },
+  {
     "question_id": "e76c10c6-79a0-464c-9a1b-2b67cf58a142",
     "answer": "You could possibly find food items inside the refrigerator (ref box) next to the microwave. Common items might include:"
+  },
+  {
+    "question_id": "e783e004-3bbc-44d9-a264-3f6e3becd0b7",
+    "answer": "Books"
+  },
+  {
+    "question_id": "e7c6095c-72d3-416f-9f3b-43f59f1aca3a",
+    "answer": "Near the floor"
+  },
+  {
+    "question_id": "e7f5a4e1-eeb3-4bd8-96ad-8eb421d75f72",
+    "answer": "Yes, there might be a marker or a pen over the table that you can use to write on the whiteboard."
+  },
+  {
+    "question_id": "e80d81d5-d174-4dc9-821a-ba95df69bb71",
+    "answer": "There might be notebooks or textbooks lying around."
   },
   {
     "question_id": "e80efdc3-a589-419f-a59a-9afd824867a2",
     "answer": "white"
   },
   {
+    "question_id": "e816a1f9-af6c-4901-8d54-4ddaa2a60dc3",
+    "answer": "Round"
+  },
+  {
+    "question_id": "e81b4b48-2a76-455d-9c29-188c9bc38b66",
+    "answer": "a blanket"
+  },
+  {
     "question_id": "e845f82a-d55c-42f8-88e3-8e9fcaf5bd02",
     "answer": "a rug"
   },
   {
+    "question_id": "e8671320-81fc-4dab-bb22-2ef6e7289764",
+    "answer": "In the laundry room."
+  },
+  {
+    "question_id": "e87b90d9-77d5-4f99-b44a-ad1d11480334",
+    "answer": "brown"
+  },
+  {
+    "question_id": "e891f05d-120d-4322-b0e7-8928fce1dae9",
+    "answer": "Since the question does not specify which room is being referred to, I will make an educated guess based on common types of rooms in a house."
+  },
+  {
+    "question_id": "e8a806b3-bf39-4854-84bd-72c25493d8cd",
+    "answer": "rectangular"
+  },
+  {
+    "question_id": "e8fb6560-0d0a-4ede-aabc-76cec239f14e",
+    "answer": "You can turn on a fan or air conditioner, open a window, or adjust the thermostat to a cooler temperature."
+  },
+  {
+    "question_id": "e9040703-f2c7-4ac0-a6f7-261f44be393b",
+    "answer": "A nightstand"
+  },
+  {
     "question_id": "e905cd18-c01f-423a-a853-2b52b10ff6ff",
     "answer": "mostly full"
+  },
+  {
+    "question_id": "e918454e-fb58-4dc5-8355-654367edc7f7",
+    "answer": "open"
+  },
+  {
+    "question_id": "e9348da6-12c6-43f0-82cb-65fee05c36ca",
+    "answer": "On the nightstand."
+  },
+  {
+    "question_id": "e9654e06-a447-4999-b7a0-e2fbb08c7ba6",
+    "answer": "a computer chair"
+  },
+  {
+    "question_id": "e994eafc-0185-4783-a924-71c3f14f03df",
+    "answer": "blue"
+  },
+  {
+    "question_id": "e9b4568f-f311-4780-84c3-6f27b5564dfb",
+    "answer": "off"
+  },
+  {
+    "question_id": "e9d1e760-bf58-4883-af35-b4b64ac6ae76",
+    "answer": "No"
+  },
+  {
+    "question_id": "ea0acb0b-ef4d-49b4-b0b2-c1b67fb6cc76",
+    "answer": "A ceiling fan"
+  },
+  {
+    "question_id": "ea0ad67c-1f8f-4779-8928-5f11c6980dc1",
+    "answer": "On the wall."
+  },
+  {
+    "question_id": "ea47a6d6-7eac-4f00-875b-5526a80c4c24",
+    "answer": "A plant"
+  },
+  {
+    "question_id": "ea4cf5a5-87e8-4f0e-8315-6ca5e8eebb43",
+    "answer": "You can use a fan or an air conditioner."
+  },
+  {
+    "question_id": "eaa52c2e-0737-4a50-b439-4a6df3e30ebd",
+    "answer": "At the kitchen sink."
+  },
+  {
+    "question_id": "eabae5f2-1193-4ac2-8862-8821156cb347",
+    "answer": "white"
+  },
+  {
+    "question_id": "eac83b7b-61e9-4b23-8449-f4ee6221a72d",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "eae7a9b5-d49a-4bc4-bafa-2ef77fda806d",
+    "answer": "In the closet"
   },
   {
     "question_id": "eb4ef411-56bf-406f-92ef-9004dd7775f6",
@@ -1112,16 +6080,116 @@
     "answer": "In the closet."
   },
   {
+    "question_id": "ec1538a5-f35a-4e2d-a454-88cd9d3746b1",
+    "answer": "The left armchair"
+  },
+  {
+    "question_id": "ec2171d3-6232-4a28-907e-f2baa0dde9e9",
+    "answer": "Recyclable items"
+  },
+  {
+    "question_id": "ecad68d2-a16f-4a3e-b8a1-a70ec1c5cf00",
+    "answer": "open"
+  },
+  {
+    "question_id": "ecf1c2a2-f480-45f2-866c-8b73dff5347f",
+    "answer": "At a desk"
+  },
+  {
+    "question_id": "ecf3c464-7d62-4daa-8ce1-37032d585f96",
+    "answer": "In the kitchen."
+  },
+  {
+    "question_id": "ed46a30d-f749-4eba-a9aa-d908a6515a60",
+    "answer": "In the trash can."
+  },
+  {
+    "question_id": "ed4930f6-d661-4769-96e5-1fe22ea03cfb",
+    "answer": "L-shaped"
+  },
+  {
+    "question_id": "ed73c96a-8ef3-427a-ae19-2d4d2da3636a",
+    "answer": "a television"
+  },
+  {
+    "question_id": "edf52424-2116-42b1-bd1b-f029ade2ec9f",
+    "answer": "a backpack"
+  },
+  {
+    "question_id": "ee015c5c-6248-4457-9394-d1289b6c998f",
+    "answer": "On the nightstand."
+  },
+  {
+    "question_id": "ee7ded98-c926-47e7-bca4-5398cb394e4a",
+    "answer": "blue"
+  },
+  {
+    "question_id": "ee9b89be-08e4-40f5-ac0c-7bb760bc1559",
+    "answer": "a light fixture"
+  },
+  {
+    "question_id": "eea0c67f-eeb6-4895-843b-753d7d62c44a",
+    "answer": "round"
+  },
+  {
+    "question_id": "eede4405-ab07-40df-9e60-0ce4460da2a4",
+    "answer": "white"
+  },
+  {
+    "question_id": "eef418be-0d01-439c-a9e3-e282c5dd137a",
+    "answer": "No"
+  },
+  {
+    "question_id": "eef57ae1-f959-4d38-bbd2-e182dcd64a7b",
+    "answer": "blue"
+  },
+  {
+    "question_id": "ef4e055b-7a80-4f9b-a86a-3163026ab5e2",
+    "answer": "a whiteboard"
+  },
+  {
     "question_id": "ef569a31-9c3b-4361-aed3-be7e9467e5c8",
     "answer": "chalk"
+  },
+  {
+    "question_id": "ef5d0018-218d-4085-bbeb-5c858c5b627e",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "f00170c7-2bf6-4fac-881a-7505a04a999e",
+    "answer": "a cushion"
+  },
+  {
+    "question_id": "f01f4122-72ce-45d5-a3f7-869d8c24bd6f",
+    "answer": "You would likely see the restroom door or possibly the shower or bathtub."
+  },
+  {
+    "question_id": "f04cdbb4-cf33-4639-80c0-94cc98c149af",
+    "answer": "You can further brighten up the area around the table by adding a table lamp or a floor lamp nearby, using higher wattage light bulbs in existing fixtures, or opening any nearby curtains or blinds to let in natural light. Additionally, you could use lighter-colored tablecloths or placemats to reflect more light."
   },
   {
     "question_id": "f060bdfd-266d-448a-adf1-133ec140ca52",
     "answer": "On a desk or table."
   },
   {
+    "question_id": "f06b5a48-e918-4b7f-a907-2d26243c1f1a",
+    "answer": "In the closet."
+  },
+  {
     "question_id": "f098b8bd-8c99-432c-8de2-9163e2442e08",
     "answer": "You can check the news using various digital platforms. Some common options include:"
+  },
+  {
+    "question_id": "f0b13382-3545-4008-973a-bdaf47159381",
+    "answer": "A plate with a salad"
+  },
+  {
+    "question_id": "f0c66afc-5899-4b99-a25a-756f8e4d3796",
+    "answer": "A ceiling fan or a light fixture"
+  },
+  {
+    "question_id": "f0cbcb80-5363-429d-ac17-a873fc3d1e6d",
+    "answer": "A shelf"
   },
   {
     "question_id": "f1013788-d7f3-4b3a-9c8f-ae037d6387f6",
@@ -1132,20 +6200,168 @@
     "answer": "In the kitchen."
   },
   {
+    "question_id": "f144699a-0af1-4830-9b28-a2b82777a92e",
+    "answer": "a table"
+  },
+  {
+    "question_id": "f17869a2-2a4d-4ce4-b262-cb69618e3394",
+    "answer": "closed"
+  },
+  {
+    "question_id": "f1859dd5-0351-4bee-b9b0-5ae890984565",
+    "answer": "In the closet."
+  },
+  {
+    "question_id": "f19079e2-578a-40ea-8c58-67a06ccb5cae",
+    "answer": "The living room"
+  },
+  {
+    "question_id": "f1a9ecf0-89c1-429c-bce2-8b5f862b6e3d",
+    "answer": "blue"
+  },
+  {
+    "question_id": "f1ef6db1-d183-4f77-bef7-cf2aaea60a89",
+    "answer": "a side table"
+  },
+  {
+    "question_id": "f201ab5b-d86b-4472-9fb1-570c4de7f8d7",
+    "answer": "white"
+  },
+  {
+    "question_id": "f2063c53-72d8-4cd8-b2cb-78ceee86449d",
+    "answer": "Various items could be kept on a tray in the kitchen counter, such as spices, condiments, cooking utensils, or even a fruit bowl."
+  },
+  {
+    "question_id": "f26d0764-cfaa-4d85-8adf-8be0a3c1864d",
+    "answer": "You can put your jacket on a coat rack or hang it in a closet."
+  },
+  {
     "question_id": "f2a5ac3b-be8e-4ed3-be0d-cceb9bc8c797",
     "answer": "You can cool down the bedroom by using an air conditioner, a fan, or by opening a window to allow for better air circulation. Additionally, you can close the blinds or curtains to block out sunlight and reduce heat."
+  },
+  {
+    "question_id": "f2e2e5ba-f88d-4675-931d-eeb84d9d122b",
+    "answer": "You can likely find more paper in a nearby office supply cabinet or drawer, or perhaps in a storage closet. If you're in an office setting, there might be a designated area for office supplies."
+  },
+  {
+    "question_id": "f2e82760-5c3c-41b1-88b6-85921b9e7b32",
+    "answer": "a clock"
+  },
+  {
+    "question_id": "f3401156-5369-4ccb-be68-524a67a8290f",
+    "answer": "Dell and MacBook"
+  },
+  {
+    "question_id": "f3888439-d03b-4401-a883-b2b9485fa322",
+    "answer": "keyboard and mouse"
+  },
+  {
+    "question_id": "f389f406-95a4-4cf3-9167-8b81e18d0d5c",
+    "answer": "rectangular"
   },
   {
     "question_id": "f38db842-3d5b-409f-9046-c4ac556a527c",
     "answer": "a speaker"
   },
   {
+    "question_id": "f3d503d5-6906-464f-b434-22fd02447f44",
+    "answer": "On the desk"
+  },
+  {
+    "question_id": "f3ea4884-2d8f-40fa-b4cb-89d08bd4a7e8",
+    "answer": "On the nightstand"
+  },
+  {
+    "question_id": "f405628f-e87e-4bb9-9ea3-0b23efdcfbad",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "f40aaf6f-44ed-4d9e-b99b-c5c4d6fc2309",
+    "answer": "On the wall."
+  },
+  {
+    "question_id": "f43777f1-6e4d-4ba2-9516-60982d2e0c16",
+    "answer": "You should get a drink of water."
+  },
+  {
+    "question_id": "f454e7a5-b49b-43be-83d9-7b204ce6314a",
+    "answer": "a bookshelf"
+  },
+  {
+    "question_id": "f4564aea-aafb-40d6-8407-65ce04349d0f",
+    "answer": "open"
+  },
+  {
+    "question_id": "f4642668-774b-4fdf-9881-d91129c0b491",
+    "answer": "closed"
+  },
+  {
     "question_id": "f471c513-1b72-473f-9462-082cb0cab80a",
     "answer": "The computers are switched off."
   },
   {
+    "question_id": "f48a99c3-ec77-450b-97d9-5b48bc662cb6",
+    "answer": "On the couch"
+  },
+  {
+    "question_id": "f50c591a-0bfd-4215-afeb-92d56e7f56e2",
+    "answer": "a cushion"
+  },
+  {
+    "question_id": "f52da6f8-061c-4cdb-a99d-6b3b91469838",
+    "answer": "A nightstand"
+  },
+  {
+    "question_id": "f57420a6-fcf6-4cea-9cea-1e9083ee8570",
+    "answer": "Yes"
+  },
+  {
     "question_id": "f5898a9b-1a89-4bc9-8283-43677cca290f",
     "answer": "On the kitchen counter."
+  },
+  {
+    "question_id": "f58e2705-dc78-4a04-ba4b-f89ba7cbc15f",
+    "answer": "closed"
+  },
+  {
+    "question_id": "f5a17a09-ce4b-4123-bf40-d2239cf38cb8",
+    "answer": "A coat rack"
+  },
+  {
+    "question_id": "f5dd281b-fe55-4441-a57d-cc209213cad0",
+    "answer": "There might be sufficient space to add a queen size bed to this room."
+  },
+  {
+    "question_id": "f635297a-67d9-4a72-acbe-ff32dbe9fa43",
+    "answer": "a couch"
+  },
+  {
+    "question_id": "f6388aa2-0b85-4d16-be44-4dbeca9c5374",
+    "answer": "On the bed."
+  },
+  {
+    "question_id": "f6451097-63c6-4229-818a-f734043d6ece",
+    "answer": "off"
+  },
+  {
+    "question_id": "f682883e-b749-4c06-8859-c001c533d3b4",
+    "answer": "a TV stand or entertainment center"
+  },
+  {
+    "question_id": "f6ba1915-3f0d-4d2f-95e6-ce18f19093ed",
+    "answer": "off"
+  },
+  {
+    "question_id": "f6c0acac-13c6-4c64-ae0f-553346c73126",
+    "answer": "In the laundry room."
+  },
+  {
+    "question_id": "f7186ea1-ebd6-450f-b27d-d9419e80ec2b",
+    "answer": "A notebook and a pen."
+  },
+  {
+    "question_id": "f739f880-79fc-4066-9ca1-b04943433974",
+    "answer": "In the gym."
   },
   {
     "question_id": "f748d6a3-286f-4fc0-9a9e-1649a83e662e",
@@ -1156,43 +6372,175 @@
     "answer": "On the living room wall."
   },
   {
+    "question_id": "f7a58540-c121-4ac3-b95c-395cc26be3e4",
+    "answer": "The top shelf"
+  },
+  {
+    "question_id": "f7b4bb17-549b-4e62-9586-ce3844198554",
+    "answer": "knobs"
+  },
+  {
+    "question_id": "f7b686fc-aa6c-4c41-b4b7-a355f558c640",
+    "answer": "No, the brown dresser in the bedroom is not empty."
+  },
+  {
     "question_id": "f8240877-8fd6-4f7e-85b7-9f47cc1bc2ae",
     "answer": "A cushion"
+  },
+  {
+    "question_id": "f829e253-ca9a-4456-b2d3-70e1a7a2eecd",
+    "answer": "white"
+  },
+  {
+    "question_id": "f86e8cc7-d1b1-432f-b8e0-de5760e575c5",
+    "answer": "full of things"
   },
   {
     "question_id": "f8845772-d45a-48b0-84f9-659f34072c3c",
     "answer": "On the nightstand."
   },
   {
+    "question_id": "f8c33bd6-8250-47dc-bd48-ed2490528356",
+    "answer": "The kitchen or the bathroom."
+  },
+  {
+    "question_id": "f938ed69-466e-46b0-91e7-aee308d409db",
+    "answer": "No, the fan is off."
+  },
+  {
     "question_id": "f9ac7781-f427-4c21-879e-d41894e7c0a1",
     "answer": "Yes"
+  },
+  {
+    "question_id": "f9dd1702-e468-47c7-8e39-c562b1515c26",
+    "answer": "A centerpiece"
   },
   {
     "question_id": "f9ded8fa-a66c-4a5d-a4fc-5128a25e0257",
     "answer": "A gaming chair"
   },
   {
+    "question_id": "fa04915a-aee0-4ec7-8b10-3728448d2efa",
+    "answer": "silver"
+  },
+  {
+    "question_id": "fa127e93-b1ea-47a0-bd74-100da0b93a65",
+    "answer": "A glass"
+  },
+  {
     "question_id": "fa2fea22-4715-474d-8999-eb68b73df661",
     "answer": "In the living room or a designated reading nook."
+  },
+  {
+    "question_id": "fa4fdac0-a749-4744-a739-3eff882a2862",
+    "answer": "There is not enough information to determine the state of all the bedroom doors upstairs. However, based on the previous guess, we can say that they are open."
+  },
+  {
+    "question_id": "fa7906e8-12fb-4511-9b6d-9b514a3e63f9",
+    "answer": "closed"
+  },
+  {
+    "question_id": "fb01a002-672b-4000-925d-78e3dac8ef29",
+    "answer": "Since the specific layout of the room is not provided, I will make an educated guess. Given that the big trash can and green furniture are mentioned, this could be a kitchen or living room. A common object that might be on your right in such a setting could be a table or a chair."
+  },
+  {
+    "question_id": "fb374d1b-36e4-4a88-90f5-709e5186ee31",
+    "answer": "off"
+  },
+  {
+    "question_id": "fb8c685f-3628-4689-a001-c4451aaabf03",
+    "answer": "A kitchen cabinet"
   },
   {
     "question_id": "fb924bca-7575-46a9-8f5c-b4b0e6caa4ab",
     "answer": "On the desk."
   },
   {
+    "question_id": "fbdabf2c-fa19-4cc5-9f6e-2593555d2797",
+    "answer": "unmade"
+  },
+  {
     "question_id": "fbfb5704-7db7-4404-af47-bba6a24e1434",
     "answer": "A backpack or a laptop bag."
+  },
+  {
+    "question_id": "fc104110-2148-4d9e-a8d8-d03c790a35fb",
+    "answer": "a pillow"
+  },
+  {
+    "question_id": "fc373700-6586-486d-9993-1acfa775a84a",
+    "answer": "closed"
   },
   {
     "question_id": "fc9d2a18-6197-4c8b-abd8-be0c493e5450",
     "answer": "You can check your outfit for a dinner party by looking in a mirror."
   },
   {
+    "question_id": "fd26fc7f-bbcc-446d-a1a8-4bc7354af16c",
+    "answer": "a paper towel"
+  },
+  {
+    "question_id": "fd29e918-e7df-414e-a48c-7fcf8a201bce",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "fd35c69e-83a1-4750-b922-0505c86fb77b",
+    "answer": "The living room"
+  },
+  {
+    "question_id": "fd4dad2f-19fc-4a3f-87ac-d210657d1add",
+    "answer": "closed"
+  },
+  {
+    "question_id": "fd5f875a-c63c-4042-af45-32aa5a5bc450",
+    "answer": "Yes"
+  },
+  {
+    "question_id": "fdb4bea3-6ae5-4358-a324-532029d7271a",
+    "answer": "a table"
+  },
+  {
+    "question_id": "fdf4e7e5-c31b-4546-a884-c9619d4e8ff2",
+    "answer": "blue"
+  },
+  {
+    "question_id": "fe05b434-7317-4502-96c1-0a02c8a56ea2",
+    "answer": "\"Watch Your Step\""
+  },
+  {
+    "question_id": "fe0b868e-92e3-484f-aa8b-550e732519a8",
+    "answer": "white"
+  },
+  {
+    "question_id": "fe62db2e-6cd5-4a5f-9cda-304dfae8659c",
+    "answer": "On the bed near a nightstand."
+  },
+  {
+    "question_id": "ff931bad-a1a8-4da6-92b3-3712eb015689",
+    "answer": "Yes"
+  },
+  {
     "question_id": "ff98f8af-e2a6-41e8-94e7-bdeb7badc3b9",
     "answer": "Yes"
   },
   {
+    "question_id": "ffa331f6-ac1a-4f57-b31b-737165b012f4",
+    "answer": "blue"
+  },
+  {
+    "question_id": "ffa34918-7ff9-401b-8114-c489e9fcdb62",
+    "answer": "A television"
+  },
+  {
+    "question_id": "ffa767eb-1545-49e5-a0c4-fd733769715c",
+    "answer": "In the closet"
+  },
+  {
     "question_id": "ffad74a4-20fa-4980-850f-83a1d996ba0b",
     "answer": "on the wall"
+  },
+  {
+    "question_id": "fff41696-739e-43a5-af42-0d6cb9b90b17",
+    "answer": "Four"
   }
 ]

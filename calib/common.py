@@ -20,8 +20,9 @@ PRICES = {
     "gpt-4o-2024-08-06": (2.5, 10.0),
 }
 
-# Hard stop well under the brief's $75 ask-first line, counted across all runs.
-BUDGET_USD = 70.0
+# Hard stop across all runs. Raised from $70 with approval (2026-10-22): the account holds
+# $100, and judging the external sets in full projects to ~$90.
+BUDGET_USD = 95.0
 
 
 def load_env():
