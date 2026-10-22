@@ -1,0 +1,2602 @@
+[
+ {
+  "set": "B",
+  "question_id": "f8c33bd6-8250-47dc-bd48-ed2490528356",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The kitchen",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L001"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "73d71e2b-e29b-4b26-ab38-a8f05cb71ca5",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "Go for the **orange bottle with the pink lid** on the desk, next to the bed with the paisley comforter. It looks the fullest. If you'd rather not drink from someone's reusable bottle, there's also a clear plastic water bottle just to its left on the same desk.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L002"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "baa59d32-91d7-48e1-aa38-4c34bdb7296b",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "You can check your appearance in the mirror.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L003"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "2f7ae8d8-efb7-4382-9eea-f9beee1d6a72",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The electronic item kept next to the fan is a power strip.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L004"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "c474bd96-ca4f-4e61-bc9c-bf0f776e7e25",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "Not fully. The chairs are positioned around the table but most are pulled back somewhat from it rather than tucked underneath\u2014several are angled away or sitting a bit apart from the table edge, with only a few partially pushed in close to it.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L005"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "7c56866d-e112-49e0-85a5-b120848f22c6",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "There appear to be two backpacks in this space. A blue and gray backpack is sitting on the end of the large wooden table near the bookshelves, next to a gray chair (with a water bottle in its side pocket). A second dark navy backpack is on the wooden table near the large windows, by the computer desks.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L006"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "30dc765d-80c3-4901-9c69-65e6b48e254a",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "The front door is **reddish-brown stained wood** (a warm cherry or mahogany tone), with two decorative leaded-glass panels in its upper half.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L007"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "a403b6f1-5e99-4644-aad6-772a0c9d8f90",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 4
+  },
+  "prediction": "The paper towels are most likely in the **wall-mounted dispenser** at the far end of the sink counter, on the wall above the gray trash can, near the doorway. There is also a **small white roll on top of the microwave**, on the counter to the left of the stove. It could be paper towel or toilet paper.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L008"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "9e900d39-f553-4ffe-937a-f81944c78634",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The blue object on the floor is a **blue plastic bag**, likely a trash or recycling bag. It sits on the floor under the wooden shelf, beside the whiteboard easel and a white bucket, and holds discarded items such as paper plates and cans.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L009"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "81739eb9-ef32-42e3-b1cf-fa8e826813ef",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "The breakfast table is in the **dining/living area just outside the kitchen**, near the front of the house. It's a round table with an orange-and-black patterned tablecloth, a glass bowl on top, and carved wooden chairs around it. It sits in front of the street-facing windows, near the front entrance door. The red sofa and the staircase are across the room from it.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L010"
+ },
+ {
+  "set": "A",
+  "question_id": "03145768-b1ba-4cf2-a537-9c334bfe5ce1",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "You should immediately evacuate the building and call the fire department.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L011"
+ },
+ {
+  "set": "A",
+  "question_id": "78c4191a-91b8-4673-bab6-f058eb8a632e",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "The color of the poof in the living room is unknown as the information is not provided. However, it could be a neutral color like beige or gray to match many living room color schemes.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L012"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "a08d95f2-94e9-4b7a-9797-9e06f9d99920",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The latches on the **gray circuit breaker panels are red**.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L013"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "6bff2ba3-5b68-4d77-a302-1640cc06dd15",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The kitchen cabinets are a glossy light gray (greige/taupe-gray) color, with the island base made of dark wood.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L014"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "54429657-7b83-487c-8aa0-8d1af39a89b4",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "A red cleaning brush (dish brush) is resting on top of the faucet, along with some rags/cloths draped over it.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L015"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "3687c774-b8bf-4416-a77f-90fcec5b4302",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "You could keep a small container of chalks in the children's room with the chalkboard wall. The best spot is right next to the chalkboard: either on the small white play table that sits in front of the chalkboard, or on top of the white radiator beside it. Alternatively, you could store it in one of the drawers/bins of the wooden storage units (the tiered toy storage shelves) against the wall near the window, or on the small metal rolling cart next to them.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L016"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "f2a5ac3b-be8e-4ed3-be0d-cceb9bc8c797",
+  "marks": {
+   "J0p": 2,
+   "J1r": 3,
+   "J2": 4
+  },
+  "prediction": "To cool down a bedroom, you can consider the following strategies:\n\n\n1. **Open Windows and Doors:** If it's a warm day, open windows and doors to let in fresh air and let the cooler air circulate through the room.\n\n2. **Use Fans:** If you have a fan, place it in the room to help circulate the air and create a cool breeze.\n3. **Close Curtains:** Close curtains or blinds to block direct sunlight and retain heat, which can help keep the room cooler.\n4. **Air Conditioning:** If you have an air conditioning unit, use it to maintain a comfortable temperature.\n5. **Adjust Thermostat:** If you have a thermostat, set it to a cooler temperature to maintain a comfortable temperature.\n6. **Insulation:** If it's a hot season, consider adding insulation to the windows and doors to reduce heat loss.\n7. **Lighting:** Use cooler lighting, such as blue or white lights, which can create a cooler atmosphere.\n8. **Decorative Items:** Remove or reposition items that are too warm in color or pattern to create a cooler look.\n9. **Coverings:** Use light-colored bedding and curtains to reflect sunlight and keep the room cooler.\n10. **Plants:** Keep plants that help with air purification and can also add a cooling effect to the room.\n\n\nRemember to adjust these strategies based on the specific needs of your room and the climate you're in.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L017"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "e918454e-fb58-4dc5-8355-654367edc7f7",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "Yes, the bathroom door is open. It is the wooden panel door near the entrance, beside the double glass front doors, and it stands ajar, giving a view into the tiled bathroom with its radiator, shelf, toilet, corner jacuzzi tub, and shower.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L018"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "70c25cdc-3f4f-4cb6-a0af-7cf4120527ee",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The sweatshirt is hanging on a wooden coat rack mounted on the wall in the downstairs hallway, near the base of the staircase.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L019"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "20e5d3b2-989f-43dc-b5cc-ff0a844234f5",
+  "marks": {
+   "J0p": 2,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The white printer sits on a small wooden stand next to the white column at the edge of the living room. That spot is right of the dining table and beside the teal sofa, just before the kitchen and entry hallway.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L020"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "cd4f9d78-25fd-4dac-a2f0-86f7af957f6d",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 4
+  },
+  "prediction": "**Somewhat.** The room is mostly tidy, but one corner is cluttered.\n\n**Tidy areas:**\n- The desk is clean, with only a phone and a roll of paper towels on it.\n- The chair, the folded white sandwich-board signs leaning against the wall, and the open floor near the door are neat.\n\n**Messy area:**\n- Under and beside the desk, items are piled up: paper shopping bags, a coffee maker, a juice bottle in a box, a foil tray, a plastic rack, and a bin.\n- Stacked white storage bins sit in front of this pile.\n- An empty cardboard box stands by the door.\n\nSo the room isn't messy overall, but that storage corner looks disorganized.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L021"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "cf5eb398-f811-4345-9f0f-77c72bdcfbf9",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "In the bathroom, there's a towel ring/hook mounted on the wall to the right of the shower (next to the glass shower door, beside the vanity), where a towel is already hanging. There's also a towel bar on the left wall across from the vanity. Hang your towel on the ring right beside the shower door so you can reach it from inside the shower.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L022"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "8d7f1dd7-9764-4603-918b-58eefcb0b10e",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "To increase the speed of the ceiling fan, you can try the following steps:\n\n1. **Check the Fan Speed Settings**: Make sure the fan is set to the highest speed setting. If it's already on the highest setting, you may need to adjust the fan speed control.\n\n2.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L023"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "a8cc7ee8-36ea-4726-bb0e-2642ffc2c2d0",
+  "marks": {
+   "J0p": 2,
+   "J1r": 3,
+   "J2": 1
+  },
+  "prediction": "There is a doorway that leads from the kitchen to the open closet area. The doorway is currently open, allowing a clear view into the closet beyond.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L024"
+ },
+ {
+  "set": "A",
+  "question_id": "28f6a1cb-2ad9-43cd-874a-d62faed8a39b",
+  "marks": {
+   "J0p": 1,
+   "J1r": 3,
+   "J2": 3
+  },
+  "prediction": "On the wall.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L025"
+ },
+ {
+  "set": "F",
+  "question_id": "329be55d-4f68-42ef-839d-e2d11cfe2fe1",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Use the large paper cutter on the table next to the printer to trim off the white margins.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L026"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "eb6335ed-c49e-408e-abcd-cce9636ec2b8",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The white sofa is located in the living room area, positioned against the wall on the left side of the image.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L027"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "d6423493-2f38-481e-856e-933f0746a84e",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "No, the trash bin is full of trash.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L028"
+ },
+ {
+  "set": "C",
+  "question_id": "1b36e675-74ff-46ad-8caa-c33da46a5a67",
+  "marks": {
+   "J0p": 4,
+   "J1r": 3,
+   "J2": 5
+  },
+  "prediction": "For a summer evening dinner party, you could set the table on the outdoor patio area visible through the large glass doors. This space seems ideal for enjoying the evening ambiance.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L029"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "884e2405-85f6-446f-a0ab-a03e537e5184",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The room with the stairs is mostly **open terracotta-tiled floor** in the center. The main piece of furniture is a **red sofa**, which sits against the back wall under the staircase. The dining table with carved wooden chairs is in the foreground near the kitchen.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L030"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "a8c02803-de6a-4dd8-97b1-98301dbda075",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "The bed with the blue sheet has **flat pieces of cardboard** lying across its foot end, along with what looks like a **folded or rolled-up blanket or rug** underneath them.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L031"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "3add68e4-194b-4d28-9b41-d1980fb2c4ae",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "Your hat is a light beige/tan color \u2014 it's hanging on the white stand near the clothes rack and white storage boxes in the corner of the room.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L032"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "7c4456e4-0209-4638-bea2-11387a050cad",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The painting on the wall (a floral picture hanging above the stacked plastic storage bins) is rectangular, with a slightly taller-than-wide, roughly square-ish portrait orientation in a thin gold frame.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L033"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "0cbe9fd8-0b2c-40ce-9e9e-bd883fb7bff5",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "In the room across the bedroom, there appears to be a white object partially visible, which could be a piece of furniture or a decorative item. It's not entirely clear from the image, but it could be a bed, a dresser, a side table, or a piece of artwork. The room is well-lit, and the white object stands out against the lighter background, suggesting it's a significant part of the room's decor.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L034"
+ },
+ {
+  "set": "B",
+  "question_id": "c8f1f36b-1b75-42f5-a959-bcb88b70e2bd",
+  "marks": {
+   "J0p": 3,
+   "J1r": 3,
+   "J2": 3
+  },
+  "prediction": "In a drawer",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L035"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "ecf1c2a2-f480-45f2-866c-8b73dff5347f",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "You can take notes at the wooden table near the window.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L036"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "847274ec-56d4-453c-9790-8fd745076921",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "The image does not provide any information about the color of the whiteboard marker.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L037"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "296cbc1f-8f63-46de-a603-ff169a29e1ff",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Use the large **whiteboard** on the wall. It's just past the two wooden office doors (the one on the right has a red flyer), across from the desk area beyond the white shelving unit.\n\nIt's already used for office-wide messages, such as a \"Vote for the Messiest Desk\" poll with desk photos pinned up. There's open space on the lower and right side to write your message, and a yellow eraser on the board if you need to clear some room. Grab a marker and leave your note where everyone walking through will see it.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L038"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "20e9fe5c-dd12-4bab-aed8-194dae180adc",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "For a quick errand, grab the **navy-and-white tote bag sitting on the desk** next to the laptop and water tray. It's light, open-topped, and easy to carry.\n\nIf you need something hands-free or more secure, there's also a **black backpack on the floor** between the chair and the bed, near the wardrobe.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L039"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "df48ef29-6497-4d5c-b673-0ccdeef26622",
+  "marks": {
+   "J0p": 5,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The fire extinguisher is located on the wall near the window, to the right of the window.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L040"
+ },
+ {
+  "set": "A",
+  "question_id": "853d340b-c69d-4371-894c-5e1151844b14",
+  "marks": {
+   "J0p": 3,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "It's half full.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L041"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "bdfdd853-dc78-49a4-b946-460447530303",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 4
+  },
+  "prediction": "Looking at the shower images, the shower appears to be mostly dry, though there are a few small damp spots or water residue visible near the drain and along the edges of the shower pan. It doesn't look freshly used or wet overall\u2014just slightly damp in places.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L042"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "b80f70ac-8df9-4015-ac47-7696271f4b12",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "The video does not provide information about whether the drawers by the window are open or closed.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L043"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "a72012b4-5cc2-49a2-a947-2792da0d8b0d",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "The painting above the bed depicts a floral scene with red and yellow flowers.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L044"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "343fce64-b48f-43de-98db-412ac640770b",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The shower curtain is **beige/tan** (a light khaki-gold color) with thin dark brown stripes.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L045"
+ },
+ {
+  "set": "F",
+  "question_id": "e008feb4-b533-439a-bae4-5407e7f79ae7",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Your marker is on the tray beneath the whiteboard at the front of the room.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L046"
+ },
+ {
+  "set": "D",
+  "question_id": "1eb05aa7-89a0-4e9f-a06d-e05a2e4e8e63",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 1
+  },
+  "prediction": "Based on the images provided, specifically image 11 which shows a view down a hallway to what appears to be a lower level or a different section of the house, there is a potted plant on a white cabinet.\n\nThe flowers on this plant are **red**.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L047"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "bd986065-2260-46f7-9d14-cf97cd2d166c",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "On the upper floor (the bedroom), the dark chest of drawers has a lamp with a yellow shade, a dark decorative sculpture/figurine (looks like a bird or carved ornament), and a small round pot/bowl sitting on top of it.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L048"
+ },
+ {
+  "set": "A",
+  "question_id": "740ae41e-9ca0-471a-82e5-546db7842ac4",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The TV cables",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L049"
+ },
+ {
+  "set": "F",
+  "question_id": "a7798fc4-becd-4816-918b-3be114fdea69",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "The outlet is on the wall to the right of the mirror, between the mirror and the soap dispenser, above the sink counter.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L050"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "6a86529c-d582-4c97-a05b-e205abcf041d",
+  "marks": {
+   "J0p": 2,
+   "J1r": 3,
+   "J2": 2
+  },
+  "prediction": "The water bottle is placed on the table, which appears to be a desk or a long table in a room with bookshelves and chairs.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L051"
+ },
+ {
+  "set": "B",
+  "question_id": "07401190-3ebe-4cf0-a234-cfda55795868",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "trash",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L052"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "beb00aa9-f908-4633-9f63-b8bcc37d4c8a",
+  "marks": {
+   "J0p": 5,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The black object on the floor next to the bed is a **black bag**, likely a backpack or laptop bag. It sits on the carpet near the white charging cables plugged into the wall outlet.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L053"
+ },
+ {
+  "set": "B",
+  "question_id": "e8a806b3-bf39-4854-84bd-72c25493d8cd",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "rectangular",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L054"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "86b5b84c-c6ba-421b-814c-769fe53cb1c5",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "A bulletin board ",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L055"
+ },
+ {
+  "set": "F",
+  "question_id": "6e2b0a40-3b3d-4102-865d-2fa25bb72c96",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The dish soap is orange.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L056"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "f938ed69-466e-46b0-91e7-aee308d409db",
+  "marks": {
+   "J0p": 1,
+   "J1r": 3,
+   "J2": 4
+  },
+  "prediction": "If the fan turned on, it would likely create a breeze in the room and potentially move some of the objects on the desk, such as the bottle and the remote control. However, the video does not show the fan being turned on, so it is unclear what would happen if it were.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L057"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "b2f4ba91-22af-4797-9690-2ed0ef51ba6c",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "This is an office copy/print room (a workroom or mailroom-style utility space). It contains multiple printers and large Canon copiers, a paper shredder, a recycling bin, a utility cart, cabinets with countertops, a bulletin board with notices, a water cooler with stacked water jugs, and a small table with paper and boxes.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L058"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "310af73b-9806-4e93-8916-c67b3bce5700",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The square photo frame on the shelf is teal/turquoise.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L059"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "754b7814-3d22-4686-bb60-ee945d091f85",
+  "marks": {
+   "J0p": 1,
+   "J1r": 3,
+   "J2": 2
+  },
+  "prediction": "It is not possible to determine from the video whether the towel on the toilet is used or not.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L060"
+ },
+ {
+  "set": "A",
+  "question_id": "ac9011e4-0040-4f0d-9828-fde9e1c7c029",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "The color of the cabinets on the brown desk is not specified, but a common color could be brown to match the desk.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L061"
+ },
+ {
+  "set": "A",
+  "question_id": "d9be5488-237b-41e0-bfac-3ba299d64203",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "Through a hatch or door, often located in the ceiling of a top-floor hallway or closet.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L062"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "7473836e-84ba-4d9c-a86e-4da760d670f4",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "The blinds in the workroom appear to be closed or drawn, which suggests they are not currently in use for letting in light or providing privacy.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L063"
+ },
+ {
+  "set": "F",
+  "question_id": "de9bd341-0754-4c6c-9558-c973832c3942",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The stationary bike is in the basement recreation room.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L064"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "53792cd2-9d0c-4350-a28b-aef96bd435d2",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The red object on the chair is a backpack.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L065"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "ce2f5613-88a1-4401-86dc-cbb968f56179",
+  "marks": {
+   "J0p": 5,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "The soda can in the image is red.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L066"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "3ecbe224-e2a8-4712-ba42-bca265cfc12e",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 5
+  },
+  "prediction": "There are two papers on the wall beside the medicine cabinet, near the door:\n\n1. **A small sign** reading **\"LEAVE WINDOW OPEN DURING SHOWER.\"**\n2. **A larger sheet below it** titled **\"BATHROOM RULES.\"** It has a numbered list of rules, but the text is too small to read in the images.\n\nThere is also a small note on the wall under the window above the toilet, but its text isn't legible.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L067"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "f3401156-5369-4ccb-be68-524a67a8290f",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "There are **two laptops** on the gray metal desk, both open:\n\n1. **Left laptop:** A silver laptop with a black keyboard. It's powered on and showing a blue screen. A white charging cable runs from it, and a smartphone sits on its palm rest.\n2. **Right laptop:** A thinner silver laptop with a black screen bezel. Its screen is off and dark, and a black wireless mouse sits beside it.\n\nThe brands or models aren't legible in the images. Both look like standard Windows-style notebooks rather than MacBooks.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L068"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "77c6644e-6018-4ef3-a683-276d3d2af67f",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "The bin with the yellow lid is a brown wheeled trash/garbage bin (a municipal-style waste cart) with a number printed on it. It's standing in the back area of the garage next to another brown bin, which has a white garbage bag inside it.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L069"
+ },
+ {
+  "set": "A",
+  "question_id": "f471c513-1b72-473f-9462-082cb0cab80a",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "Unknown",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L070"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "f635297a-67d9-4a72-acbe-ff32dbe9fa43",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "In front of the wall-mounted television are **two office chairs**, one red and one black, with the **light-colored conference table** just beyond them.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L071"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "47ce1cef-9602-4837-b422-e278993610c9",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "The work desk is **light gray**, an off-white/beige-gray laminate, with a dark gray strip along the joint where the desk sections meet.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L072"
+ },
+ {
+  "set": "B",
+  "question_id": "ccef790e-e972-4d90-a7ae-1e1d5c8c5cb7",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "on the coffee table",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L073"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "199fc658-9cb8-431b-a087-211d797b8838",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "**A black paper recycling bin.** It sits right next to the large white copier, between it and the nearby door.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L074"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "cfc1c54b-cff3-4ce6-b5ec-d75405103682",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "**Yes, but you'll probably want to clear some space first.** The wooden desk by the window has a black rolling chair, so it's set up for studying. However, three recycling/trash bins (blue, gray, and green) are lined up across much of the desktop, and a wooden shelf hutch takes up the left end. A strip of open surface along the front edge might fit a laptop, but it would be cramped.\n\nTo make it comfortable:\n- **Move the bins** to the floor, under the desk, or beside the dresser near the door.\n- **Plug in nearby.** There's a wall outlet just right of the desk, below the window, and another outlet panel on the wall at the left end of the desk.\n- **Use the hutch** to hold books or supplies off the work surface.\n\nThe window beside the desk gives good natural light for daytime studying, though you may get some glare on your screen.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L075"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "7baa5f0f-642c-4cf0-84f7-2f3cff16f251",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 4
+  },
+  "prediction": "In the image you provided, there are several items that could be used to disinfect your hands, such as the bottles of hand sanitizer or hand wipes that are visible on the countertops. These are commonly used to clean and sanitize hands to prevent the spread of germs and bacteria. It's important to use a hand sanitizer or wipes that are at least 60% alcohol-based to be effective. Always follow the instructions on the product for proper usage and ensure you have washed your hands with soap and water before applying the sanitizer or wipes for maximum effectiveness.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L076"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "f389f406-95a4-4cf3-9167-8b81e18d0d5c",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 1
+  },
+  "prediction": "The table next to the sofa (the corner booth) is **rectangular**, with a flat top on a single metal pedestal base.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L077"
+ },
+ {
+  "set": "B",
+  "question_id": "0ef0ebd1-db05-4f87-adc7-d01a640c1eed",
+  "marks": {
+   "J0p": 1,
+   "J1r": 3,
+   "J2": 2
+  },
+  "prediction": "on the wall",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L078"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "016fb5d2-3c6f-4aa3-8493-7768aa3762a9",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "Mostly, yes. The countertops appear generally clean, but they aren't completely clear\u2014the section near the stove holds a microwave, a paper towel roll, a cereal/food box and a small coffee maker, while the counter by the sink has a dish rack with a large metal bowl and utensils, a soap dispenser, a Cheerios box, dish soap, a blender, and a cutting board. There's no visible dirt or mess, just several items sitting on the surfaces.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L079"
+ },
+ {
+  "set": "A",
+  "question_id": "b866979f-7056-41cd-ba13-6fa6ec1e519c",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "Near the front door",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L080"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "565fab38-557a-4e64-80c0-e21aaefb144b",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "There are **two pairs of shoes** on the floor between the entry door and the short bench: a pair of brown/gray shoes closest to the door and a pair of dark blue/purple sandals or sneakers beside them, near the bench's front leg.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L081"
+ },
+ {
+  "set": "A",
+  "question_id": "a36ab369-6f78-4311-a943-b6862cd28b55",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "A painting or a picture frame.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L082"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "c7c8c496-b3d2-4370-b321-d4274ffda701",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "Between the wall-mounted lamp and the side table (nightstand) in the bedroom there is an electrical outlet/socket on the wall.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L083"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "1c4ca9b3-bbc4-4515-9254-cbff8c6c166d",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The bathroom counter (visible through the bedroom doorway) has a tall vase with dried flowers/branches on it, along with a dark soap dispenser bottle next to the sink. A small framed picture hangs on the wall nearby as well.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L084"
+ },
+ {
+  "set": "A",
+  "question_id": "ad1d1e19-42bc-4817-a87a-4e9826354724",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "You should mop it up or use a towel to absorb the water.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L085"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "45ee4f2b-a432-4b53-8494-371102c34bb8",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 1
+  },
+  "prediction": "There appear to be **4 coat hooks**, mounted under the wooden shelf above the corner entry bench. The count is based on the hooks visible in the image, so one could be hidden from view.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L086"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "28ea4932-55bf-44b3-9a48-73fde896b8ce",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "The garage door opener is mounted on the ceiling near the front of the garage, just above and in front of the parked car (visible in the first images as the white unit with a light hanging from the ceiling, connected to the door track).",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L087"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "27256d20-448b-4607-b504-c486af19ddd5",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "Mostly, but not entirely. The long wooden conference table in the center of the room is largely clear of clutter, but it has a few small items on it (a remote control near one end and what looks like a small marker/paper), and its glossy surface shows visible smudges, streaks, and some dust/wear marks, especially where the light from the windows hits it.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L088"
+ },
+ {
+  "set": "F",
+  "question_id": "4446bd7d-25fa-4996-9b23-9337b8512f07",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The electric lamps near the staircase are on.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L089"
+ },
+ {
+  "set": "F",
+  "question_id": "67cd7145-4b1f-4b2a-a698-8e4738cb7c41",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "You can keep them in the fruit bowl on the kitchen counter, to the left of the stove.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L090"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "6c9a4608-82f6-464f-94e3-adcc241ead99",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "The white door next to the ping-pong table, beside the large dandelion painting, is **closed**.\n\nThe doorway across the room that leads to the yellow-green hallway with the EXIT sign is open.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L091"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "d08fc4f5-8629-4ff8-9b71-6ee3f2847935",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "**Partly, it appears.** The main living and dining area is heated by **electric baseboard heaters**, which are visible along the walls under the sunflower painting. That is not forced air.\n\nThere are also signs of some ducted air:\n- a floor register at the base of the closet in the upstairs bedroom\n- a small vent high on the living room wall\n\nThese could serve a forced-air system or central air conditioning in parts of the house. But the main living space clearly relies on baseboard heat, so I can't confirm from the photos that the whole house has forced-air heating.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L092"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "0479de12-7feb-4c56-bb87-33849036a032",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "You can use the green paper cutter (guillotine-style trimmer with the orange-handled blade arm) sitting on the dark speckled countertop near the printer/copier. Just lay your printed document on its board and bring the blade arm down to trim the edges.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L093"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "037d2811-3b0b-4ab8-8c91-19a5cded9eac",
+  "marks": {
+   "J0p": 3,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "Looking at the images of the dining area, the round table is covered with a striped grey/silver tablecloth and is set with cutlery (forks and knives) laid out at place settings, along with a small folded menu/card standing on it. In the background, another table has glasses on it.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L094"
+ },
+ {
+  "set": "B",
+  "question_id": "46a04f3a-56a5-4547-9cd9-c683919c0eb1",
+  "marks": {
+   "J0p": 3,
+   "J1r": 3,
+   "J2": 4
+  },
+  "prediction": "on the bed",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L095"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "2c5c6a8d-7836-4060-96ea-1db469211c57",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "Yes, the kitchen appears to be on the same floor as the bedroom, as they are both part of an open floor plan layout.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L096"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "f0cbcb80-5363-429d-ac17-a873fc3d1e6d",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "Above the desk with the two monitors (the wooden desk with the ASUS monitor and the second black monitor near the window), there are two watercolor-style art prints pinned to the gray cubicle partition wall, along with a small hook/clip beneath them.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L097"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "fb8c685f-3628-4689-a001-c4451aaabf03",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Looking at the images showing the stove area, on the wall to the right of the stove there is an electrical outlet (a white wall socket/power outlet) mounted on the beige backsplash, just above the countertop and the set of drawers next to the stove.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L098"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "c5be3792-7d9b-4b93-8a4d-fe943c696307",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The image shows a room with various items scattered around, including a bed, a desk, a chair, and a backpack. There is also a tapestry hanging on the wall with a design that appears to be a geometric or mandala pattern. The tapestry adds a decorative element to the room.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L099"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "13d097e7-12c7-48e0-92c4-9667fc7f9c60",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "You can get a drink of water in the kitchen \u2014 it's the room with the dark brown cabinets and light stone countertops, located past the hallway near the laundry room. The sink with a faucet is along the back wall of the kitchen, beneath the window with the white blinds, next to the stainless steel dishwasher.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L100"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "9a6a84f5-2871-4703-8f00-85c1c31492ed",
+  "marks": {
+   "J0p": 5,
+   "J1r": 2,
+   "J2": 4
+  },
+  "prediction": "Turning left in front of the TV and going through the white door next to it leads into the home office/study \u2014 the small room with the teal accent wall, desk with computer monitors, shelving, and a wall covered in photos.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L101"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "87e01245-6f75-4ac3-9844-7f331d7df193",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 5
+  },
+  "prediction": "The most prominent doors are **ornate carved wooden double doors with a diamond lattice pattern**. They are set in an **arched wooden doorway** between the living room and the entry hall. The upper sections have a crisscross diamond grid filled with mirrored or glass inserts, and the lower panels carry a matching carved diamond motif. The same style appears at the arched opening toward the kitchen and dining area.\n\nThe home also has:\n- **Traditional raised-panel solid wood doors** in warm oak tones along the hallway and to the bathroom.\n- An **arched dark wood front entry door** with narrow glass sidelights.\n- **Wooden French doors with small square glass grid panes**, opening to the outside from the living room and the bedroom. These match the gridded wooden windows.\n\nOverall, the home's look is defined by rich, rustic or traditional woodwork, especially the lattice-patterned double doors.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L102"
+ },
+ {
+  "set": "C",
+  "question_id": "122417bb-6bcd-4d2f-87dc-96be6ba6c262",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "Yes, you can use a mop to clean the stairs. However, since the stairs are carpeted, it would be more effective to use a vacuum cleaner or a carpet cleaner for a thorough clean. If you still want to use a mop, make sure it's only slightly damp to avoid soaking the carpet.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L103"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "9fb8aca7-a295-4224-8631-b6466b212dae",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Green. Most chairs in the room are blue/gray patterned upholstered chairs (plus a few wooden ones), but there is one chair with a distinctive green color near the back corner.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L104"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "58b620a5-2ac0-484f-a6b9-d44123bcca13",
+  "marks": {
+   "J0p": 4,
+   "J1r": 3,
+   "J2": 4
+  },
+  "prediction": "Above the sewing machine, there are three pendant lights hanging from the ceiling.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L105"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "0bdec62e-12aa-4f28-9a22-6606c38a6691",
+  "marks": {
+   "J0p": 2,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The art above the bed is a large **fabric tapestry** with a **compass rose / mandala design**. It's drawn in intricate dark linework on a cream background, with pink, red, purple, and blue watercolor-style coloring.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L106"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "5939fce0-cabc-4249-9748-8d700baa4e3f",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "The model houses (LEGO-style buildings) are displayed in **lit recessed niches built into the tan wall in the basement**, right next to the bottom of the carpeted staircase and beside the arched doorway. The row of buildings sits on a long illuminated shelf, with smaller niches below holding more models, such as a Statue of Liberty. A model ship sits in a niche above.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L107"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "72553b2f-45e5-44f6-99ba-80e104c6de28",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "Not entirely. The countertop with the United States Postal Service bin on it has several items on it: the USPS bin itself, a black three-hole punch, a black tray/mat, a stapler, a calculator-type device, a fax machine, and some loose paper clips/small items scattered near the bin. It isn't dirty, but it is somewhat cluttered rather than clean and clear.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L108"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "c527196b-f103-4e34-8899-ec8e5afa6bf5",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "Below the red and black marker on the shelf, there is a blue trash bag on the ground.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L109"
+ },
+ {
+  "set": "B",
+  "question_id": "dc4dc9eb-8311-4cd0-ad16-303441445164",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "red",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L110"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "16ed2144-9409-45c3-a4e1-9bdcf506eab5",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "To connect your MacBook to the monitor, you will need an appropriate cable or adapter. Here are the steps:\n\n1. **Identify the Ports**: Determine the type of ports available on both your MacBook and the monitor. Common ports include HDMI, DisplayPort, VGA, and Thunderbolt.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L111"
+ },
+ {
+  "set": "B",
+  "question_id": "aaa3ce91-bcab-4c1a-90b4-ae0c33d8a268",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "red",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L112"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "e177ec9a-7855-471d-9f81-3b42d5a91911",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "To the right of the bathroom light switch is a **white hand towel hanging on a towel ring** mounted on the wall, next to the mirror above the sink.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L113"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "8e66c38d-8eb3-4b68-babf-78eb561ea94f",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 4
+  },
+  "prediction": "You can hang your scarf on the hooks in the mudroom (the blue built-in bench area with hooks visible through the kitchen doorway). There are already hats and a bag hanging there, so there's room for a scarf alongside them.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L114"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "2d0b6748-bc9d-405a-ad38-6d6711162211",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "To clean up a spill on a bathroom counter, you can use a clean, damp cloth or a sponge with a mild cleaning solution. Avoid using harsh chemicals or abrasive cleaners on the countertops, as they can damage the surface. If the spill is particularly stubborn, you can add a small amount of the cleaning solution to the cloth or sponge and gently scrub the area to loosen the stain or spill. After cleaning, dry the counter with a clean, dry cloth to prevent any water damage or mold growth. If the spill is on a specific surface like a TV or other electronic device, you may need to use a cleaner designed for that material to avoid damaging the device. Always test a small area first to ensure the cleaning solution won't harm the surface.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L115"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "0175891c-e182-478d-be8b-de1a10ff8540",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "You can see yourself in the mirror.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L116"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "ba5f1c9b-9a41-4a84-829b-f9b8ccd19b69",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "You can find the laundry detergent on the shelf.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L117"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "caa77055-4305-4e7e-939d-a00b52a943df",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The trash bin is a small beige/cream wastebasket sitting on the carpeted floor in the corner by the door, tucked between the open door and the wall near the wall outlets\u2014on the opposite side of the room from the bed, close to the desk area.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L118"
+ },
+ {
+  "set": "B",
+  "question_id": "f060bdfd-266d-448a-adf1-133ec140ca52",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "At a desk",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L119"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "00c2be2a-1377-4fae-a889-30936b7890c3",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "A dish towel, which looks teal or green, is hanging from the wall oven's handle.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L120"
+ },
+ {
+  "set": "D",
+  "question_id": "3e900181-4cf3-41f9-bdb8-0e3e6f1b53e3",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "Based on the images provided, it is difficult to definitively confirm the presence of natural light. Here's a breakdown of the observations:\n\n- **Windows:** The room features several large, multi-paned windows, which are typical sources of natural light.\n- **Lighting Conditions:** However, in all the images, the view through these windows is dark. This suggests that the photos were taken at night or in a very dark environment outside.\n- **Artificial Lighting:** The room is clearly illuminated by artificial light sources, such as the prominent chandelier and other lamps.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L121"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "70cfab22-1dc1-4b9a-a751-8014c1900ee3",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "Mostly not \u2014 the space is predominantly artificially lit, but there are hints of natural light in a couple of places.\n\n- The hallway, cloakroom/coat-rack area, and the stone spiral staircase are dark and lit by recessed ceiling spotlights; no windows are visible there.\n- The kitchen at the end of the corridor is bright, but that appears to be strong overhead (fluorescent-style) lighting.\n- The one place that looks like it may receive daylight is the dining room with the red-and-black cushioned bench: the cream wall and the reflective panel beside it show bright, streaky light patterns that look like sun coming through a window or blinds. The top of the stone staircase also opens onto a very bright area, suggesting a window or skylight on the upper level.\n\nSo there is probably some natural light in the front dining area and upstairs, while the interior corridor, cloakroom and stairwell rely on artificial lighting.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L122"
+ },
+ {
+  "set": "F",
+  "question_id": "0e2c244c-5fad-428b-9941-3eaec0d499d6",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "Use the black eraser on the tray beneath the whiteboard to wipe it clean.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L123"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "340c57fb-54b5-4a5e-b53f-77a9db08dfb3",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Looking at the images, the bed is positioned directly against the white desk. In several views, the lofted bed frame's end post butts up against the desk edge, with the desk top running right alongside the bed \u2014 there is no visible gap between them. So no, you cannot stand between your bed and your white desk; they are flush against each other.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L124"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "19015e68-6ff5-485b-a427-517b0074b264",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "If you're sneezing or have a bloody nose, you'd want tissues. There's a box of tissues (Kleenex) sitting on the shelf above the counter near the window, next to the medicine/first-aid supplies (like the Advil) and the pink \"First Aid Kit\" sign. You could also grab paper towels from the dispenser area by the sink on the counter below.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L125"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "eabae5f2-1193-4ac2-8862-8821156cb347",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The smoke detector in the image is white.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L126"
+ },
+ {
+  "set": "C",
+  "question_id": "aa639733-fd12-43f4-b186-d72316568450",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "Across from the stairs, there is a wooden door with glass panels.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L127"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "1ee35fbe-3328-413e-9471-1776b91e2980",
+  "marks": {
+   "J0p": 5,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "I can't confirm that, because **no microwave is visible** in any of these images. The kitchen views show a stainless steel refrigerator, a stove/oven, a dishwasher, white cabinets, and a sink under the window, but no microwave. If there is one, it's out of frame, so I can't tell whether its door is open.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L128"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "8471794d-32cd-4989-8cec-91118eb43b67",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "I don't see a dedicated mirror in these images. The best option is the **glass French doors** to the right of the built-in refrigerator, under the blue wall clock. Their glass panes are already showing reflections of the room.\n\nThe **high-gloss lacquered kitchen cabinets and refrigerator panels** also reflect a bit, but too faintly for more than a rough look.\n\nFor a proper mirror, try the room through the open doorway at the end of the hallway past the kitchen, which may be a bathroom or bedroom.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L129"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "a64782de-d282-4472-9b80-1b596d55276e",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "The mirror is a tall, narrow one hanging on the **left wall, just above the brown wooden desk** (the one with the green picture frame and tape dispenser on it). It sits near the far end of the desk, close to the patterned armchair, near the room's entrance.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L130"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "8bada0a3-28af-490c-9862-ade4968e86b9",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Yes, the blue recycling bins appear empty. The one next to the black mini fridge near the desk has only a blue bag liner inside, and the other blue bin by the second fridge (next to the beige trash can) also looks empty apart from its plastic liner.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L131"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "35073455-9eae-423a-bba4-a58ce111af37",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 4
+  },
+  "prediction": "You can change the baby's diaper on the white changing table located along the left wall of the nursery, next to the low white storage unit with bins. It has a padded changing pad on top and open shelves underneath holding baskets and supplies, and a hanging mobile above it.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L132"
+ },
+ {
+  "set": "A",
+  "question_id": "f4642668-774b-4fdf-9881-d91129c0b491",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Closed",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L133"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "27fd907f-7c89-4e0a-9c6c-73ba570b0df6",
+  "marks": {
+   "J0p": 5,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The three-blade fan appears to be the ceiling fan on the high ceiling above the stairwell and upstairs landing, just outside the bedroom door. It's visible through the bedroom doorway and overlooks the two-story living room. I can't be fully certain of the blade count from these images. There is also a second fan with light fixtures on the living room ceiling, above the sectional sofa near the sliding glass door. If that's the one you mean, check it, since its blade count is hard to make out.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L134"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "7ad70423-200c-42a8-8e6a-c471f171782e",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 4
+  },
+  "prediction": "To make the living room appear darker, you can try the following:\n\n\n1. **Curtains and Blinds:** Close the curtains or blinds on the windows to block out natural light. If you have sheer curtains, you can also layer them with heavier ones to block more light.\n2. **Lighting:** Dim the room's lighting. You can use table lamps with warmer light bulbs or dimmable lights to create a more subdued atmosphere.\n3. **Color Adjustments:** Use darker colors for walls, furniture, and decor to absorb more light.\n4. **Reflective Surfaces:** Use mirrors to reflect light and make the room feel larger and brighter.\n5. **Window Treatments:** Consider adding heavier window treatments like drapes or shades that can block more light.\n6. **Lighting Fixtures:** Use lamps with warmer light bulbs or dimmer switches to control the brightness.\n7. **Furniture Placement:** Arrange furniture to block light from entering the room or use furniture with darker upholstery to absorb light.\n8. **Decor:** Use darker colors and patterns for rugs, curtains, and wall art to create a more subdued look.\n9. **Lighting Appliances:** Use dimmer switches on lights and consider using warmer light bulbs.\n\n10. **Natural Light Reduction:** If possible, close the curtains or blinds during the day to reduce natural light entering the room.\n\n\nRemember, the key to creating a darker atmosphere is to use a combination of these techniques to reduce the amount of light entering the room and to use lighter colors and reflective surfaces to create a cozier ambiance.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L135"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "f06b5a48-e918-4b7f-a907-2d26243c1f1a",
+  "marks": {
+   "J0p": 2,
+   "J1r": 2,
+   "J2": 4
+  },
+  "prediction": "You can hang your shirt on the wooden hanger on the row of black wall hooks near the mirror/wardrobe, or on the hooks by the shower curtain where the white towels and robe are hanging.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L136"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "3d38c9f1-64a5-4e19-9715-5c4f4b7a818e",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Yes. Next to the kitchen sink there is a bottle of dish soap (an orange/yellow bottle near the faucet, alongside a sponge and dish brush), and there's a dishwasher built into the counter to the right of the sink.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L137"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "1529242c-eff2-40a9-bf02-016f3291aa88",
+  "marks": {
+   "J0p": 3,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The black chair is in the **home office** at the end of the upstairs hallway, visible through the open doorway. It's a black office chair pushed up to a white desk with a computer monitor, next to a window with blinds and sitting on a small rug.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L138"
+ },
+ {
+  "set": "F",
+  "question_id": "3a85f448-1665-4631-9bde-0571d6042934",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The desk chair is available to sit on, but the armchair is cluttered with clothes and a laptop.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L139"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "c38b2190-e647-47e8-aa8f-5ea617198e30",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "Looking at the room, there's a tall floor lamp with a metallic/chrome stand and a large cream-colored shade positioned right next to the round work table (visible behind the table near the decorative wooden screen). You can turn on that lamp to better light your workspace. Additionally, the room has large floor-to-ceiling windows with sheer curtains along one side\u2014you could open the curtains further to let in more natural daylight onto the desk area.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L140"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "72e09d1f-68ec-49ac-bfe0-5850647a7893",
+  "marks": {
+   "J0p": 1,
+   "J1r": 3,
+   "J2": 4
+  },
+  "prediction": "The airplane drawing is in the **upstairs hallway with the green walls**. It hangs on the wall beside the **wooden staircase**, just to the right of the **light switch and the doorway** that leads toward the room with the red door. It belongs to a **group of colorful, comic-style framed pictures**. It is the one at the **top-left of the cluster**: a light blue sky with a plane above the sea, in a wooden frame. The other drawings are arranged below and to the right of it, running down the sloped wall toward the window with white blinds.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L141"
+ },
+ {
+  "set": "F",
+  "question_id": "d0c4c586-b8b8-4eee-8abc-9bccbaa03134",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "The armchair is light beige.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L142"
+ },
+ {
+  "set": "B",
+  "question_id": "48df3807-7f19-4bd6-aa77-9ba8f66483fd",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "in the closet",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L143"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "d58639eb-be6f-4c0f-a186-bd5cabca70e7",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "**No, not fully.** The heavy green-and-blue striped curtains are pulled back to either side of the window. Only the white sheer curtain is closed across the glass, so daylight still comes into the room.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L144"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "b899b89c-8dbf-45c7-a73e-40f4e6bbd436",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Your **blue backpack** is on a **wooden chair at the conference table**. It's on the side of the table nearest the wall with the wood-framed interior windows, close to the end of the table facing the plain whiteboard. Your **teal water bottle** is on the table right next to it.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L145"
+ },
+ {
+  "set": "A",
+  "question_id": "f9dd1702-e468-47c7-8e39-c562b1515c26",
+  "marks": {
+   "J0p": 2,
+   "J1r": 3,
+   "J2": 3
+  },
+  "prediction": "A centerpiece or a dining set",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L146"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "0b9f9893-66ce-42ef-b3a3-8ab4089b5394",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The hanging lights are white (off-white/cream) dome-shaped pendant fixtures, glowing with a warm yellowish light when lit.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L147"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "1a8ee437-7b23-4457-9d70-649ac771c83c",
+  "marks": {
+   "J0p": 1,
+   "J1r": 3,
+   "J2": 3
+  },
+  "prediction": "The toaster is on the countertop to the right of the stove.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L148"
+ },
+ {
+  "set": "B",
+  "question_id": "bc4465ed-dd94-4eec-9a9f-54b5c906b1fb",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "a glass",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L149"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "41939df6-c376-4034-bfb3-0ef1735ddf89",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The tape dispensers are a light tan/beige (wooden-looking) one sitting on the gray filing cabinet, and a black one on top of the brown wooden shelf.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L150"
+ },
+ {
+  "set": "C",
+  "question_id": "f2063c53-72d8-4cd8-b2cb-78ceee86449d",
+  "marks": {
+   "J0p": 3,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The tray on the kitchen counter holds various items, including a bowl of fruit and a decorative object.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L151"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "85d55555-7954-4cc4-8fd2-0b22a0585b0a",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The video does not provide information on whether the table lamp is switched on or not.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L152"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "5f175d5b-90f5-4457-889e-91d06e227fb7",
+  "marks": {
+   "J0p": 1,
+   "J1r": 3,
+   "J2": 1
+  },
+  "prediction": "Running down the center of the brown wooden desk is a **metal (silver) rail or divider**, held up by vertical posts. It may be an overhead light bar. Along that centerline there are also **small built-in power outlets/charging ports** set into the tabletop.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L153"
+ },
+ {
+  "set": "F",
+  "question_id": "37f74dbf-05d9-44c0-a5d0-6d996d16ccc5",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "The floor lamp is behind the striped chair, next to the closet. Reach under its lampshade and turn the switch to turn it off.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L154"
+ },
+ {
+  "set": "X_scw_llava_next",
+  "question_id": "6f6b797e-3418-42b8-9e59-c8f6581a8d7f",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "Based on the image provided, the bed appears to be a twin or single-sized bed, which is typically designed for one person. It might be a bit snug for two adults to comfortably fit, especially if they are of average height and build. However, it would depend on the individuals' size and how they are positioned. If they are both small or if the bed is made up with additional cushions, it might be possible for two adults to fit, but it would likely be quite tight and not very comfortable.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L155"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "c5553811-fe5c-485a-8f02-ae545fbdb69e",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The eraser is on the **ledge (marker tray) along the bottom of the whiteboard** on the wall to the right of the gray window shade, next to the dry-erase markers.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L156"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "99e98610-d1b5-4b76-a47d-443523a64a16",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 3
+  },
+  "prediction": "The black backpack is on the **brown leather couch**, sitting on the left seat cushion and leaning against the left armrest and backrest. The couch is against the wall beneath a fire extinguisher, next to a gray coffee table.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L157"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "ffa34918-7ff9-401b-8114-c489e9fcdb62",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "Directly across from the couch is the desk cluster with grey privacy dividers. Facing the couch is a desk with a sorting shelf of blue and black document trays underneath. On top of it are a Red Bull can, a white bowl and some papers. Beyond the desks, on the far wall, is a low white open bookshelf with a water bottle and cables on it.\n\nThis is inferred from how the photos connect around the room, so the layout may not be exact.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L158"
+ },
+ {
+  "set": "A",
+  "question_id": "abc4646a-9ce6-4b97-ab29-95b8f96d65e6",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "On the desk.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L159"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "d3742804-8363-4346-a622-5bcaeffb25e9",
+  "marks": {
+   "J0p": 5,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "There are two round mirrors in this home:\n\n1. **Standing round mirror** \u2013 In the dining area, a round mirror on a tall decorative pedestal stands against the wall right next to the sliding glass patio doors (beside the curtain), just to the right of the doorway that leads into the hallway with the tall vases.\n\n2. **Round sunburst mirror** \u2013 In the bedroom, a round mirror with a woven/rattan-style frame hangs on the wall directly above the bed's headboard, between the bedposts.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L160"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "d3792585-2b71-41c7-9148-c6bd6b2d4754",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "Yes. There is a paper cutter (guillotine-style trimmer with a wooden base) sitting on top of the wooden filing cabinet/credenza in front of the window, next to the large black recycling bin.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L161"
+ },
+ {
+  "set": "A",
+  "question_id": "5141dd1c-5c1d-4e8c-8953-d3842dc55f66",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "A jacket",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L162"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "e7c6095c-72d3-416f-9f3b-43f59f1aca3a",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 3
+  },
+  "prediction": "The charging outlet is located on the right side of the room, on the white wall near the floor.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L163"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "1fbc24a6-7ae9-4143-829d-1ba21650958f",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "You'll find **wine bottles** in the rustic room with the stone walls. Look for the dark wooden cabinet with stacks of books and a small framed picture on top. Just to the right of that cabinet, below the wall covered in newspaper clippings, is a **wine rack filled with bottles**. It's next to the stone hearth with the black cooking pot, just inside the glass-paned wooden door that leads out to the hallway and staircase.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L164"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "9bf13104-dc4a-4a50-adef-27f190382d5f",
+  "marks": {
+   "J0p": 5,
+   "J1r": 2,
+   "J2": 5
+  },
+  "prediction": "Mostly yes. The toiletries on the wooden table are small jars (they look like travel\u2011sized cream/cosmetic pots, well under the 3.4 oz / 100 ml limit), plus a round container and a small green tube that are already packed inside a clear resealable zip bag \u2014 exactly how TSA's 3\u20111\u20111 rule requires liquids, gels and creams to be presented. The hairbrush is not a liquid and is fine in a carry\u2011on.\n\nTwo caveats:\n- The plastic water bottle on the table is a full ~16.9 oz bottle, so it cannot go through security unless you empty it first (you can refill it after the checkpoint).\n- Double\u2011check the round white container in the zip bag \u2014 if it's larger than 3.4 oz / 100 ml it would need to go in checked luggage, even though it's in the bag.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L165"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "657d19dc-fbd3-41c5-9300-6a4057facccc",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The kitchen has a vinyl/linoleum tile floor with a beige, patterned (stone-look) design.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L166"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "911693d9-2d28-4ff2-83a9-c67b83753831",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "Through the window in the living room, a view of the mountains can be seen.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L167"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "1a7b8523-e257-486c-951b-37c8c31c8b6c",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "The chairs at the front of the room (by the window near the blackboard/projector screen) are two upholstered armchairs in a grayish\u2011blue (slate blue) fabric with light wood frames. The other chairs around the U\u2011shaped tables are black (mesh/upholstered office chairs), and there are a couple of light wooden chairs along the side.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L168"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "e66d55ce-24a5-46c9-8ad3-f9ebf9f7447d",
+  "marks": {
+   "J0p": 5,
+   "J1r": 1,
+   "J2": 5
+  },
+  "prediction": "Turn on the **stainless steel range hood** mounted above the cooktop on the kitchen peninsula, the counter facing the bar stools and front entry. It pulls smoke away from the cooking area.\n\nFor extra ventilation:\n- Open the **plantation-shuttered windows** in the kitchen and breakfast nook, next to the refrigerator and small bistro table.\n- Open the **front door** near the kitchen to create a cross-breeze.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L169"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "55f022a0-2bd2-410b-9323-e077908a55d2",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "The patio chairs are white.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L170"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "82162992-04d4-4178-8ead-6782761f3b7c",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 1
+  },
+  "prediction": "The green and yellow object on the desk is a cleaning sponge (a kitchen-style scouring sponge with a green scrub side and a yellow foam side). It sits on the side desk near the stacks of printed papers and the pile of coins.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L171"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "63e92254-c74e-4120-b928-4a13d4af1d21",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The video does not provide information on whether the TV is turned on or not.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L172"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "96d03658-7a65-4bb4-aff5-01c9a7108ee6",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "It appears to be a **wooden spoon** hanging on the wall just below the small picture frame, beside the kitchen doorway.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L173"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "aee1ab06-4fc0-4238-a50b-bb8ed35ac956",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "Between the two blue armchairs is a **teal/green leather sofa**, with a **rectangular wooden coffee table** in front of it. Small round wooden side tables sit at each end of the sofa, beside the armchairs. One of them holds a vase of flowers.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L174"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "982536c8-1bb0-444c-ac9a-14f63317f4b7",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "To copy your passport, use the **large floor-standing copier** in the corner of the room, next to the gray door and the green bucket.\n\n1. **Open the lid.** Lift the cream-colored document feeder cover on top of the copier to reach the glass.\n2. **Place the passport on the glass.** Open it to the page you want, such as the photo page, and lay it face down. Line it up with the corner guide. Don't put a passport through the automatic feeder, since it only handles loose sheets.\n3. **Close the lid gently** and press down lightly so the booklet lies flat.\n4. **Use the touchscreen.** The small blue-gray screen is mounted on an arm above the machine. Choose copy, set the number of copies, and adjust settings like size or color if you need to. Then press start.\n5. **Collect your copy** from the gray output trays on the left side of the machine.\n6. **Take back your passport** from the glass before you leave.\n\nThe smaller beige machine on the white counter looks like an older fax/copier and could be a backup if the big copier isn't working. If either machine asks for a login or code, check the posted notes on the wall or ask office staff.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L175"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "6ee3c4cd-2aa9-4a45-b08b-f5c27264c672",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "Between the sofa and the kitchen counter, there is a black trash can.",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L176"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "af4b62be-5f12-4180-8a3a-665152a7dfd9",
+  "marks": {
+   "J0p": 1,
+   "J1r": 4,
+   "J2": 1
+  },
+  "prediction": "The downstairs room (the dining area with the French doors) has a large, ornate carved wooden cabinet/armoire standing in the right corner, with a blue decorative ceramic urn/vase beside it and small framed portraits hung on the wall above.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L177"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "2e2b709a-e16c-4cb9-b8c3-8a4e68aa8283",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "Yes. A **round analog wall clock** hangs high on the cream-colored wall between the two windows at the far end of the room. It's clearly visible near the top of the first few images.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L178"
+ },
+ {
+  "set": "A",
+  "question_id": "5da047fb-bf0b-4ad6-bc8b-a715f05bdd78",
+  "marks": {
+   "J0p": 3,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "Without specific details, it's hard to say. However, common red objects could include a rug, a chair, or curtains.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L179"
+ },
+ {
+  "set": "B",
+  "question_id": "babe466a-4ee8-4afd-a8f9-964793a5d425",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "on the ceiling",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L180"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "4132f403-879b-457b-961c-f95df12748a0",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The wall behind the bookshelves is **dark red (maroon)**.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L181"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "1dfedfc5-04e6-4e73-99e5-3725b3d5c58b",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The kitchen sink tap is **closed**. No water is running from the faucet in any of the images, and the sink basin looks empty and dry.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L182"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "98d630c9-6689-4a26-892f-4290c150f984",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 5
+  },
+  "prediction": "Yes. There appears to be a box of tissues sitting on the window sill above the wooden credenza/filing cabinet, right behind the black mesh desk organizer and next to the paper cutter (near the large gray recycling bin).",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L183"
+ },
+ {
+  "set": "F",
+  "question_id": "a47a35f1-8bcb-4d26-ad38-a67d9afeaa04",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 1
+  },
+  "prediction": "The house appears to be undergoing renovation, with empty rooms, worn cabinets, and damaged walls and blinds.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L184"
+ },
+ {
+  "set": "C",
+  "question_id": "e2ccf6f4-22a9-47d1-ab8d-a05a13435b82",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The staircase railing is dark brown.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L185"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "f43777f1-6e4d-4ba2-9516-60982d2e0c16",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "I don't see any water or drinks in this conference room. There is an **empty clear drinking glass on the table**, near the cables, the remote and the printed sheet at the end closest to the wall-mounted TVs.\n\n1. **Take the glass.** Someone else may have used it, so rinse it first or grab a clean cup.\n2. **Leave through the glass door** on the right side of the room, next to the green chair.\n3. **Find water.** Look for a kitchen, break room or water fountain nearby and fill up.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L186"
+ },
+ {
+  "set": "X_scw_rag_vlm_0726",
+  "question_id": "7540a030-2aec-451d-8579-855fdae1cc62",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The English alphabet decoratively displayed in blue color near the work desk is \"m\".",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L187"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "06745779-f1b8-458b-8daa-ccc18d8958c8",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "At the center of the breakfast table there's a **clear cut-glass (crystal) bowl**. It sits on the orange tablecloth with the black floral pattern.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L188"
+ },
+ {
+  "set": "A",
+  "question_id": "7e4d6420-013b-422d-a47f-7a1a8015e0f2",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "A desk",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L189"
+ },
+ {
+  "set": "X_scw_videollama2",
+  "question_id": "9a09d135-1e8b-4f55-811a-d2bac6af03b0",
+  "marks": {
+   "J0p": 4,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The pillow has a black and white color pattern.",
+  "tier": "mid",
+  "agreement": "strong",
+  "item": "L190"
+ },
+ {
+  "set": "F",
+  "question_id": "d7cb9f77-ab44-43e8-952e-1df8254ae13b",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The green object on the desk is a highlighter.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L191"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "7e08669f-bbb4-46cd-a61b-2f58119567a9",
+  "marks": {
+   "J0p": 5,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The yellow thing on the couch is a **throw pillow (cushion)**. It's a square, lime-yellow pillow on the black couch, next to an orange pillow.",
+  "tier": "frontier",
+  "agreement": "agree",
+  "item": "L192"
+ },
+ {
+  "set": "B",
+  "question_id": "b736fcaa-15e5-48b3-a672-319f94af8055",
+  "marks": {
+   "J0p": 1,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "a pillow",
+  "tier": "mid",
+  "agreement": "agree",
+  "item": "L193"
+ },
+ {
+  "set": "I_fable51_f50",
+  "question_id": "14774f3f-d14b-4e18-b5de-6e827a4d9e94",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The trashcan (a tall gray/beige plastic bin with a domed lid) is on the floor at the far end of the sink counter, standing against the wall near the doorway, to the right of the lower cabinets. There is also a small blue bin tucked under the sink counter in the open knee space.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L194"
+ },
+ {
+  "set": "I_fable51",
+  "question_id": "025258b4-51f0-4c83-b789-c4c186964c4d",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 3
+  },
+  "prediction": "I can see what appears to be a printer sitting on the desk in the upstairs office area (the room with the sloped ceiling and black office chair), but from these views the power cord and wall outlet are not clearly visible, so I can't definitively confirm whether it's plugged in. It appears to be set up for use on the desk, but no cord connection to an outlet is visible in the images.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L195"
+ },
+ {
+  "set": "F",
+  "question_id": "917d4feb-7e7a-4f9f-a1b0-17451a9fd5bb",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 4
+  },
+  "prediction": "The sofas are teal.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L196"
+ },
+ {
+  "set": "H_opus55",
+  "question_id": "37c9a32b-ec45-4bba-aec5-d0abafd4b0d8",
+  "marks": {
+   "J0p": 2,
+   "J1r": 4,
+   "J2": 2
+  },
+  "prediction": "The black wire is on the floor **behind and to the left of the large-format printer**. It runs along the floor near the wall, next to a small piece of white paper, and appears to be the printer's power or data cable.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L197"
+ },
+ {
+  "set": "F",
+  "question_id": "0c81b6f8-2d46-4e07-a9d3-a019729d5570",
+  "marks": {
+   "J0p": 4,
+   "J1r": 1,
+   "J2": 2
+  },
+  "prediction": "You can use a tissue from the tissue box on the bathroom counter.",
+  "tier": "frontier",
+  "agreement": "strong",
+  "item": "L198"
+ },
+ {
+  "set": "D",
+  "question_id": "c1b2ccf5-b56d-4ced-9cec-eaf62fedc675",
+  "marks": {
+   "J0p": 2,
+   "J1r": 1,
+   "J2": 1
+  },
+  "prediction": "Based on the images provided, specifically the fourth image which shows a close-up of a wall clock in a hallway, we can determine the color of the numbers.\n\nThe clock has a dark, possibly bronze or black, frame and face. The numbers on the clock are a light, metallic color.\n\nThe numbers on the wall clock are **gold**.",
+  "tier": "mid",
+  "agreement": "mild",
+  "item": "L199"
+ },
+ {
+  "set": "H_opus55_f50",
+  "question_id": "ac7b12cc-0c32-4de3-8059-7bdf0f2793bd",
+  "marks": {
+   "J0p": 4,
+   "J1r": 5,
+   "J2": 5
+  },
+  "prediction": "The object on the side table is a **glass vase filled with flowers**: red, yellow and orange blooms with tall dried grasses or reeds. (A second side table, by the folding table, holds a boxed puzzle.",
+  "tier": "frontier",
+  "agreement": "mild",
+  "item": "L200"
+ }
+]

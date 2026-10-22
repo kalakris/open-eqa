@@ -1,0 +1,311 @@
+<title>OpenEQA Mark Bench</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a single working column. Header strip with progress, then the item, then the mark bar, then a jump grid. */
+:root {
+  --bg: #f6f7f5;
+  --panel: #ffffff;
+  --ink: #1d2320;
+  --muted: #5e6862;
+  --line: #d9ddd8;
+  --accent: #2f6f62;
+  --accent-ink: #ffffff;
+  --ref-bg: #eef4f1;
+  --m1: #b4442f; --m2: #c97a32; --m3: #a89a2e; --m4: #5d9450; --m5: #2f7a5e;
+  --cell: #e3e7e2;
+  --font-ui: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-read: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141816; --panel: #1c211f; --ink: #e6ebe7; --muted: #9aa59f; --line: #2e3532;
+    --accent: #6cbfa9; --accent-ink: #0f1311; --ref-bg: #1f2a26;
+    --m1: #e0745c; --m2: #e3a05a; --m3: #cfc15a; --m4: #8cc47c; --m5: #5fc29a;
+    --cell: #2a312e; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #141816; --panel: #1c211f; --ink: #e6ebe7; --muted: #9aa59f; --line: #2e3532;
+  --accent: #6cbfa9; --accent-ink: #0f1311; --ref-bg: #1f2a26;
+  --m1: #e0745c; --m2: #e3a05a; --m3: #cfc15a; --m4: #8cc47c; --m5: #5fc29a;
+  --cell: #2a312e; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--font-ui); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 48px;
+}
+.wrap { max-width: 860px; margin: 0 auto; display: flex; flex-direction: column; gap: 18px; }
+header { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 16px; }
+h1 { font-size: 20px; font-weight: 700; margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+.meta { color: var(--muted); font-size: 13px; display: flex; gap: 14px; flex-wrap: wrap; font-variant-numeric: tabular-nums; }
+.status { font-family: var(--font-mono); font-size: 12px; }
+.status.warn { color: var(--m1); }
+.bar { height: 6px; background: var(--cell); border-radius: 3px; overflow: hidden; }
+.bar > i { display: block; height: 100%; background: var(--accent); width: 0; transition: width .3s; }
+details.guide { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; font-size: 14px; }
+details.guide summary { cursor: pointer; font-weight: 600; }
+details.guide p, details.guide ul { margin: 8px 0; max-width: 68ch; }
+details.guide li { margin: 2px 0; }
+
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 20px 22px; display: flex; flex-direction: column; gap: 16px; min-width: 0; }
+.eyebrow { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.eyebrow b { color: var(--ink); font-family: var(--font-mono); font-weight: 500; letter-spacing: 0; }
+.question { font-family: var(--font-read); font-size: 22px; line-height: 1.3; margin: 0; text-wrap: balance; }
+.ref { background: var(--ref-bg); border-radius: 8px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; }
+.label { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
+.ref .ans { font-family: var(--font-read); font-size: 18px; font-weight: 600; }
+.ref ul { margin: 0; padding-left: 18px; font-family: var(--font-read); font-size: 15px; }
+.resp { font-family: var(--font-read); font-size: 17px; line-height: 1.55; max-width: 68ch; overflow-wrap: anywhere; }
+
+.marks { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; }
+.mark {
+  font: inherit; border: 2px solid var(--line); background: var(--panel); color: var(--ink);
+  border-radius: 8px; padding: 10px 6px; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 0;
+}
+.mark .n { font-family: var(--font-mono); font-size: 22px; font-weight: 500; }
+.mark .t { font-size: 11px; color: var(--muted); text-align: center; line-height: 1.25; }
+.mark:hover { border-color: var(--accent); }
+.mark:focus-visible, button:focus-visible, textarea:focus-visible, .cell:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.mark[aria-pressed="true"] { color: var(--accent-ink); border-color: transparent; }
+.mark[aria-pressed="true"] .t { color: inherit; opacity: .9; }
+.mark[data-m="1"][aria-pressed="true"] { background: var(--m1); }
+.mark[data-m="2"][aria-pressed="true"] { background: var(--m2); }
+.mark[data-m="3"][aria-pressed="true"] { background: var(--m3); }
+.mark[data-m="4"][aria-pressed="true"] { background: var(--m4); }
+.mark[data-m="5"][aria-pressed="true"] { background: var(--m5); }
+
+.row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: space-between; }
+.nav { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { font: inherit; font-size: 14px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 6px; padding: 7px 12px; cursor: pointer; }
+.btn:hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+.chk { display: flex; align-items: center; gap: 6px; font-size: 14px; cursor: pointer; }
+textarea { width: 100%; min-height: 56px; resize: vertical; font: inherit; font-size: 14px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; }
+.keys { font-size: 12px; color: var(--muted); }
+kbd { font-family: var(--font-mono); font-size: 11px; border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 4px; padding: 0 4px; background: var(--panel); }
+
+.gridwrap { display: flex; flex-direction: column; gap: 8px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(26px, 1fr)); gap: 3px; }
+.cell { border: none; height: 22px; border-radius: 3px; background: var(--cell); cursor: pointer; font-family: var(--font-mono); font-size: 10px; color: var(--muted); padding: 0; }
+.cell[data-m] { color: var(--accent-ink); }
+.cell[data-m="1"] { background: var(--m1); } .cell[data-m="2"] { background: var(--m2); } .cell[data-m="3"] { background: var(--m3); }
+.cell[data-m="4"] { background: var(--m4); } .cell[data-m="5"] { background: var(--m5); }
+.cell.cur { outline: 2px solid var(--ink); outline-offset: 1px; }
+.cell.unsure::after { content: "?"; }
+.legend { display: flex; gap: 12px; flex-wrap: wrap; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.legend span { display: inline-flex; align-items: center; gap: 5px; }
+.legend i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+@media (max-width: 520px) {
+  .question { font-size: 19px; }
+  .mark .t { display: none; }
+  .card { padding: 16px; }
+}
+@media (prefers-reduced-motion: reduce) { .bar > i { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>OpenEQA Mark Bench</h1>
+    <div class="meta"><span id="count">0 of 200 marked</span><span class="status" id="status">Connecting…</span></div>
+  </header>
+  <div class="bar" aria-hidden="true"><i id="progress"></i></div>
+
+  <details class="guide" id="guide">
+    <summary>How to mark</summary>
+    <p>Each item is one model's answer to an OpenEQA question about a home. You see the human reference answer, plus any extra answers also accepted. Mark how well the response matches them, using the same 1–5 scale the LLM-Match judges use. Judge correctness against the references, not writing style or length.</p>
+    <ul>
+      <li><b>5</b>: matches the answer, or any accepted answer.</li>
+      <li><b>4</b>: correct, with a small extra detail that is off or unverifiable.</li>
+      <li><b>3</b>: partly right, e.g. the right object in the wrong place, or the right place with a wrong detail.</li>
+      <li><b>2</b>: mostly wrong, with a small overlap.</li>
+      <li><b>1</b>: completely different from every reference.</li>
+    </ul>
+    <p>Model names and judge marks are hidden. Use <i>Unsure</i> when the references leave it genuinely ambiguous. Everything saves as you go.</p>
+  </details>
+
+  <section class="card" aria-live="polite">
+    <div class="eyebrow"><span id="cat">category</span><span>Item <b id="itemid">L000</b></span></div>
+    <h2 class="question" id="question">Loading items…</h2>
+    <div class="ref">
+      <span class="label">Reference answer</span>
+      <div class="ans" id="answer"></div>
+      <div id="extrawrap" hidden>
+        <span class="label">Also accepted</span>
+        <ul id="extra"></ul>
+      </div>
+    </div>
+    <div>
+      <span class="label">Response</span>
+      <div class="resp" id="resp"></div>
+    </div>
+    <div class="marks" role="group" aria-label="Mark">
+      <button class="mark" data-m="1" id="m1" aria-pressed="false"><span class="n">1</span><span class="t">completely different</span></button>
+      <button class="mark" data-m="2" id="m2" aria-pressed="false"><span class="n">2</span><span class="t">mostly wrong</span></button>
+      <button class="mark" data-m="3" id="m3" aria-pressed="false"><span class="n">3</span><span class="t">partly right</span></button>
+      <button class="mark" data-m="4" id="m4" aria-pressed="false"><span class="n">4</span><span class="t">right, minor slip</span></button>
+      <button class="mark" data-m="5" id="m5" aria-pressed="false"><span class="n">5</span><span class="t">matches</span></button>
+    </div>
+    <div class="row">
+      <label class="chk"><input type="checkbox" id="unsure"> Unsure</label>
+      <div class="nav">
+        <button class="btn" id="prev">Previous</button>
+        <button class="btn" id="next">Next</button>
+        <button class="btn primary" id="nextopen">Next unmarked</button>
+      </div>
+    </div>
+    <textarea id="note" placeholder="Note (optional): why this mark, or what makes it ambiguous"></textarea>
+    <div class="keys"><kbd>1</kbd>–<kbd>5</kbd> mark and advance · <kbd>←</kbd> <kbd>→</kbd> move · <kbd>U</kbd> unsure · <kbd>N</kbd> note</div>
+  </section>
+
+  <section class="gridwrap">
+    <div class="legend" id="legend"></div>
+    <div class="grid" id="grid" aria-label="All items"></div>
+  </section>
+</div>
+
+<script type="application/json" id="items">__ITEMS__</script>
+<script>
+(function () {
+  const ITEMS = JSON.parse(document.getElementById("items").textContent);
+  const N = ITEMS.length;
+  const $ = (id) => document.getElementById(id);
+  let marks = {};          // id -> {mark, unsure, note, t}
+  let cur = 0;
+  let ref = null;          // db doc ref, when available
+  let writing = false, dirty = false, local = false;
+
+  function esc(s) { return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+  function rich(s) { return esc(s).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>").replace(/\n/g, "<br>"); }
+  function setStatus(text, warn) { const el = $("status"); el.textContent = text; el.classList.toggle("warn", !!warn); }
+
+  // grid
+  const grid = $("grid");
+  ITEMS.forEach((it, i) => {
+    const b = document.createElement("button");
+    b.className = "cell"; b.id = "cell-" + it.id; b.title = it.id + " · " + it.category;
+    b.setAttribute("aria-label", it.id);
+    b.addEventListener("click", () => go(i));
+    grid.appendChild(b);
+  });
+
+  function render() {
+    const it = ITEMS[cur], m = marks[it.id] || {};
+    $("itemid").textContent = it.id;
+    $("cat").textContent = it.category;
+    $("question").textContent = it.question;
+    $("answer").textContent = it.answer;
+    const ex = $("extra"); ex.innerHTML = "";
+    it.extra.forEach((a) => { const li = document.createElement("li"); li.textContent = a; ex.appendChild(li); });
+    $("extrawrap").hidden = it.extra.length === 0;
+    $("resp").innerHTML = rich(it.prediction);
+    for (let k = 1; k <= 5; k++) $("m" + k).setAttribute("aria-pressed", String(m.mark === k));
+    $("unsure").checked = !!m.unsure;
+    if (document.activeElement !== $("note")) $("note").value = m.note || "";
+    renderProgress();
+  }
+
+  function renderProgress() {
+    let done = 0; const hist = [0, 0, 0, 0, 0, 0]; let uns = 0;
+    ITEMS.forEach((it, i) => {
+      const m = marks[it.id], c = $("cell-" + it.id);
+      if (m && m.mark) { done++; hist[m.mark]++; c.dataset.m = m.mark; } else delete c.dataset.m;
+      if (m && m.unsure) uns++;
+      c.classList.toggle("unsure", !!(m && m.unsure));
+      c.classList.toggle("cur", i === cur);
+    });
+    $("count").textContent = done + " of " + N + " marked";
+    $("progress").style.width = (100 * done / N) + "%";
+    $("legend").innerHTML = [1, 2, 3, 4, 5].map((k) => `<span><i style="background:var(--m${k})"></i>${k}: ${hist[k]}</span>`).join("") +
+      `<span>unsure: ${uns}</span><span>open: ${N - done}</span>`;
+  }
+
+  function go(i) { cur = (i + N) % N; render(); }
+  function nextOpen() {
+    for (let s = 1; s <= N; s++) { const i = (cur + s) % N; if (!(marks[ITEMS[i].id] || {}).mark) return go(i); }
+    go(cur + 1);
+  }
+
+  function edit(patch) {
+    const id = ITEMS[cur].id;
+    marks = { ...marks, [id]: { ...(marks[id] || {}), ...patch, t: new Date().toISOString() } };
+    renderProgress();
+    save();
+  }
+
+  async function save() {
+    if (local) {
+      try { localStorage.setItem("openeqa-marks", JSON.stringify(marks)); setStatus("Saved in this browser only", true); } catch (e) { setStatus("Not saved", true); }
+      return;
+    }
+    if (!ref) { dirty = true; return; }
+    if (writing) { dirty = true; return; }
+    writing = true; dirty = false; setStatus("Saving…");
+    try {
+      await ref.set({ marks, updated: new Date().toISOString() });
+      setStatus("Saved");
+    } catch (e) {
+      setStatus(e && e.code === "invalid_argument" ? "You can view but not save marks here" : "Save failed; will retry on next mark", true);
+    } finally {
+      writing = false;
+      if (dirty) save();
+    }
+  }
+
+  // controls
+  for (let k = 1; k <= 5; k++) $("m" + k).addEventListener("click", () => { edit({ mark: k }); render(); setTimeout(nextOpen, 220); });
+  $("unsure").addEventListener("change", (e) => edit({ unsure: e.target.checked }));
+  let noteTimer = null;
+  $("note").addEventListener("input", (e) => { clearTimeout(noteTimer); const v = e.target.value; noteTimer = setTimeout(() => edit({ note: v }), 700); });
+  $("prev").addEventListener("click", () => go(cur - 1));
+  $("next").addEventListener("click", () => go(cur + 1));
+  $("nextopen").addEventListener("click", nextOpen);
+  document.addEventListener("keydown", (e) => {
+    if (e.target.tagName === "TEXTAREA" || e.metaKey || e.ctrlKey || e.altKey) {
+      if (e.key === "Escape") e.target.blur();
+      return;
+    }
+    if (/^[1-5]$/.test(e.key)) { $("m" + e.key).click(); e.preventDefault(); }
+    else if (e.key === "ArrowRight") go(cur + 1);
+    else if (e.key === "ArrowLeft") go(cur - 1);
+    else if (e.key === "u" || e.key === "U") { $("unsure").click(); }
+    else if (e.key === "n" || e.key === "N") { $("note").focus(); e.preventDefault(); }
+  });
+
+  render();
+
+  // storage: the shared labels doc for this viewer, or this browser as a fallback
+  (async () => {
+    const db = window.claude ? await window.claude.use("db") : null;
+    const user = window.claude ? await window.claude.use("user") : null;
+    const uid = user ? await user.id() : null;
+    if (!db || !uid) {
+      local = true;
+      try { marks = JSON.parse(localStorage.getItem("openeqa-marks") || "{}"); } catch (e) { marks = {}; }
+      setStatus("Not signed in: marks stay in this browser", true);
+      render();
+      return;
+    }
+    ref = db.doc("labels/" + uid);
+    let first = true;
+    ref.onSnapshot((snap) => {
+      if (snap.metadata.hasPendingWrites || writing) return;
+      const data = snap.exists ? snap.data() : null;
+      if (data && data.marks) marks = { ...data.marks };
+      if (first) {
+        first = false;
+        setStatus(snap.exists ? "Saved" : "Ready");
+        const firstOpen = ITEMS.findIndex((it) => !(marks[it.id] || {}).mark);
+        cur = firstOpen < 0 ? 0 : firstOpen;
+      }
+      render();
+      if (dirty) save();
+    }, () => setStatus("Lost connection to saved marks; reload the page", true));
+  })();
+})();
+</script>
