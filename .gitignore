@@ -21,3 +21,9 @@ assets/demo_frames/*
 data/frames/
 data/_dl/
 logs/
+# third-party data; graph-pad and agentic-3d-task state no license, so keep their text local
+data/external/
+predictions/X_graphpad_*
+predictions/X_agentic_*
+scores/X_graphpad_*
+scores/X_agentic_*

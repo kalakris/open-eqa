@@ -47,3 +47,27 @@ Blind GPT-4 on EM-EQA, LLM-Match (bootstrap SE):
 | Set A, J0p | 32.9±1.2 | 36.8±1.7 | 34.3±1.0 |
 
 Every column agrees within 1 SE. This is aggregate agreement only, not per-item agreement.
+
+## External sets (X_*)
+
+These are published third-party prediction runs. The files and provenance are in `data/external/<source>/SOURCES.md`,
+imported by `calib/import_external.py`. Every set is restricted to one shared sample of 299 questions,
+proportional by category (seed 20261022, `external-sample-question-ids.txt`). ScanNet-only runs
+use the 201 ScanNet questions in that sample. All were judged with J0p on 2026-10-22.
+
+| Set | Source | Model | J0p |
+|---|---|---|---|
+| X_graphpad_full | saeejithnair/graph-robotics | Graph-Pad (Gemini 2.0 Flash scene-graph agent) | 56.6 |
+| X_graphpad_roomfix | same | Graph-Pad, room fix | 56.4 |
+| X_graphpad_baseline | same | Gemini 2.0 Flash with frames | 50.7 |
+| X_scw_llava_next | SamuelCahyawijaya/open-eqa fork | LLaVA-NeXT-Video | 45.5 |
+| X_scw_videollama2 | same | VideoLLaMA2 | 45.1 |
+| X_scw_rag_vlm | same | retrieval + InternVL | 53.8 |
+| X_scw_rag_vlm_0725 | same | retrieval + InternVL (07-25) | 52.3 |
+| X_scw_rag_vlm_0726 | same | retrieval + InternVL (07-26) | 56.9 |
+| X_scw_blind_gpt4o | same | blind GPT-4o | 32.4 |
+| X_agentic_v3_tools | yruns agentic-3d-task | gpt-5.4 agent, frames + tools (ScanNet) | 72.8 |
+| X_agentic_v4_noframes | same | gpt-5.4 agent, tools only (ScanNet) | 60.7 |
+
+graph-pad and agentic-3d-task state no license, so their prediction and score files stay out of
+this public repo (see `.gitignore`). Only the MIT-licensed `scw` sets are committed.
