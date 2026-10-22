@@ -16,3 +16,8 @@ data/*
 !data/scannet/*
 
 assets/demo_frames/*
+.env
+.venv/
+data/frames/
+data/_dl/
+logs/
