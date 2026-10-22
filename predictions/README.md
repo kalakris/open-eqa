@@ -79,17 +79,28 @@ ScanNet-only agentic runs. The 299-question stratified sample judged first (seed
 graph-pad and agentic-3d-task state no license, so their prediction and score files stay out of
 this public repo (see `.gitignore`). Only the MIT-licensed `scw` sets are committed.
 
-## Frontier models under J0p (LLM-Match, bootstrap SE)
+## Frontier models (LLM-Match on all 1,636 questions)
 
-| Set | ScanNet | HM3D | ALL |
-|---|---|---|---|
-| H_opus55_f50 (Opus 5.5, 50 frames) | 86.0±0.8 | 79.2±1.4 | 83.7±0.7 |
-| I_fable51_f50 (Fable 5.1, 50 frames) | 84.9±0.9 | 77.2±1.5 | 82.3±0.8 |
-| H_opus55 (Opus 5.5, 15 frames) | 83.8±0.9 | 74.9±1.6 | 80.8±0.8 |
-| I_fable51 (Fable 5.1, 15 frames) | 83.2±0.9 | 71.4±1.7 | 79.2±0.9 |
-| F (GPT-6 astra, 15 frames) | 80.9±1.0 | 72.4±1.7 | 78.0±0.8 |
-| Paper GPT-4V (J0, 50 frames) | 57.4±1.3 | 51.3±1.8 | 55.3±1.1 |
-| Paper human | 87.7±0.7 | 85.1±1.1 | 86.8±0.6 |
+J0p with ScanNet/HM3D/ALL and bootstrap SE; J1r and J2 are ALL only.
 
-ScanNet frames for C/D/F/H/I came from the HF mirrors (`AIGeeksGroup/OpenEQA`, cross-checked by CRC32
+| Set | Frames | J0p ScanNet | J0p HM3D | J0p ALL | J1r | J2 |
+|---|---|---|---|---|---|---|
+| H_opus55_f50 (Claude Opus 5.5) | 50 | 86.0±0.8 | 79.2±1.4 | 83.7±0.7 | 86.9 | 89.5 |
+| I_fable51_f50 (Claude Fable 5.1) | 50 | 84.9±0.9 | 77.2±1.5 | 82.3±0.8 | 85.2 | 86.5 |
+| F_f50 (GPT-6 astra) | 50 | 83.1±0.9 | 78.1±1.4 | 81.4±0.8 | 85.4 | 87.5 |
+| H_opus55 | 15 | 83.8±0.9 | 74.9±1.6 | 80.8±0.8 | 84.1 | 86.1 |
+| K_sonnet55_f50 (Claude Sonnet 5.5) | 50 | 82.0±1.0 | 74.2±1.5 | 79.3±0.8 | 82.3 | 84.6 |
+| I_fable51 | 15 | 83.2±0.9 | 71.4±1.6 | 79.2±0.9 | 82.1 | 83.6 |
+| F | 15 | 80.9±1.0 | 72.4±1.6 | 78.0±0.9 | 82.0 | 83.8 |
+| K_sonnet55 | 15 | 80.3±1.0 | 67.6±1.7 | 76.0±0.9 | 78.8 | 81.4 |
+| L_haiku55_f50 (Claude Haiku 5.5) | 50 | 73.0±1.1 | 67.3±1.6 | 71.1±0.9 | 74.5 | 76.6 |
+| L_haiku55 | 15 | 71.7±1.1 | 61.4±1.7 | 68.2±1.0 | 70.1 | 72.9 |
+| Paper GPT-4V (J0) | 50 | 57.4±1.3 | 51.3±1.8 | 55.3±1.1 | | |
+| Paper human | | 87.7±0.7 | 85.1±1.1 | 86.8±0.6 | | |
+
+All models ran at their API defaults (astra: reasoning effort medium, standard mode; Opus/Haiku
+effort medium, Sonnet/Fable high). `probe_astra_*` holds a 20-question reasoning-effort probe
+(high/xhigh/max/pro) on HM3D.
+
+ScanNet frames for C/D/F/H/I/K/L came from the HF mirrors (`AIGeeksGroup/OpenEQA`, cross-checked by CRC32
 against `the-Lin/openeqa`). See `data/frames/scannet-v0-manifest.json`.
