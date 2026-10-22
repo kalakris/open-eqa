@@ -26,6 +26,10 @@ Code is in `calib/`, run via `calib/run.sh calib.<module> ...`.
 | C | vision | 200 (HM3D subset) | `gpt-4o-2024-08-06`, 15 frames evenly spaced, 512 px, seed 1234, T 0.2, max_tokens 128; raw output is the answer, as in `gpt4v.py` | `gpt4v.txt` | 2026-10-22 |
 | D | vision | 200 (HM3D subset) | Qwen3.8-27B-NVFP4 on omen (alias `qwen3.6-27b-fast`, thinking off), same frames and settings as C except T 0; images enabled on omen 2026-10-22 | `gpt4v.txt` | 2026-10-22 |
 | F | vision | 557 (all HM3D) | `gpt-6-astra` via Responses API, 15 frames evenly spaced, 512 px, max_output_tokens 4000 (temperature/seed not accepted); explicit prompt-cache breakpoint after the last frame, so an episode's questions share the cached frames (89% of input tokens cached, $4.37) | `gpt4v.txt` | 2026-10-22 |
+| H_opus55 | vision | 1,636 | `claude-opus-5-5`, 15 frames (same sampling/resizing as C), adaptive thinking at default effort `medium`, no temperature (rejected by the API), cache breakpoint after the last frame, no refusal fallback (0 refusals) | `gpt4v.txt` | 2026-10-22 |
+| I_fable51 | vision | 1,636 | `claude-fable-5-1`, as H but default effort `high` | `gpt4v.txt` | 2026-10-22 |
+| H_opus55_f50 | vision | 1,636 | as H with 50 frames, the paper's GPT-4V protocol (`gpt4v.py` default). The ScanNet 50-frame sets are in `data/frames-50/` | `gpt4v.txt` | 2026-10-22 |
+| I_fable51_f50 | vision | 1,636 | as I with 50 frames | `gpt4v.txt` | 2026-10-22 |
 | E1 | control | 1,636 | each question's own reference `answer` | n/a | 2026-10-22 |
 | E2 | control | 1,636 | a reference answer from another question in the same category with a different answer string (`E2_donors.json`, seed 20261022) | n/a | 2026-10-22 |
 
@@ -74,3 +78,18 @@ ScanNet-only agentic runs. The 299-question stratified sample judged first (seed
 
 graph-pad and agentic-3d-task state no license, so their prediction and score files stay out of
 this public repo (see `.gitignore`). Only the MIT-licensed `scw` sets are committed.
+
+## Frontier models under J0p (LLM-Match, bootstrap SE)
+
+| Set | ScanNet | HM3D | ALL |
+|---|---|---|---|
+| H_opus55_f50 (Opus 5.5, 50 frames) | 86.0±0.8 | 79.2±1.4 | 83.7±0.7 |
+| I_fable51_f50 (Fable 5.1, 50 frames) | 84.9±0.9 | 77.2±1.5 | 82.3±0.8 |
+| H_opus55 (Opus 5.5, 15 frames) | 83.8±0.9 | 74.9±1.6 | 80.8±0.8 |
+| I_fable51 (Fable 5.1, 15 frames) | 83.2±0.9 | 71.4±1.7 | 79.2±0.9 |
+| F (GPT-6 astra, 15 frames) | 80.9±1.0 | 72.4±1.7 | 78.0±0.8 |
+| Paper GPT-4V (J0, 50 frames) | 57.4±1.3 | 51.3±1.8 | 55.3±1.1 |
+| Paper human | 87.7±0.7 | 85.1±1.1 | 86.8±0.6 |
+
+ScanNet frames for C/D/F/H/I came from the HF mirrors (`AIGeeksGroup/OpenEQA`, cross-checked by CRC32
+against `the-Lin/openeqa`). See `data/frames/scannet-v0-manifest.json`.
