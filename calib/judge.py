@@ -112,7 +112,7 @@ def main():
             out.write(row)
             spent += row["cost_usd"]
             bar.set_postfix(spent=f"${spent:.2f}")
-            if spent > BUDGET_USD:
+            if spent > BUDGET_USD and args.endpoint != "qwen":  # Qwen on omen is free
                 tqdm.write(f"budget ${BUDGET_USD} reached, stopping")
                 for g in futs:
                     g.cancel()

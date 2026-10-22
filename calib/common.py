@@ -21,8 +21,9 @@ PRICES = {
 }
 
 # Hard stop across all runs. Raised with approval on 2026-10-22: $70 -> $95 when the account
-# held $100, then -> $140 after a $50 top-up.
-BUDGET_USD = 140.0
+# held $100, then -> $140 after a $50 top-up, then -> $145 to finish the last J0p rows before
+# gpt-4-turbo shut down (account balance $150).
+BUDGET_USD = 145.0
 
 
 def load_env():
