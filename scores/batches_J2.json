@@ -281,7 +281,11 @@
     "requests": 1636,
     "model": "gpt-5.6-sol",
     "max_completion_tokens": 2000,
-    "submitted": "2026-10-22T16:04:53+00:00"
+    "submitted": "2026-10-22T16:04:53+00:00",
+    "collected": "2026-10-22T16:25:26+00:00",
+    "rows": 1636,
+    "cost_usd": 0.9242759999999994,
+    "parse_errors": 0
   },
   "K_sonnet55": {
     "batch_id": "batch_6ada3426aae08190956c7a9b17e30a65",
@@ -289,7 +293,11 @@
     "requests": 1636,
     "model": "gpt-5.6-sol",
     "max_completion_tokens": 2000,
-    "submitted": "2026-10-22T16:04:54+00:00"
+    "submitted": "2026-10-22T16:04:54+00:00",
+    "collected": "2026-10-22T16:25:27+00:00",
+    "rows": 1636,
+    "cost_usd": 1.2831380000000017,
+    "parse_errors": 0
   },
   "L_haiku55": {
     "batch_id": "batch_6ada342875e48190bfce24a992fa67eb",
@@ -297,7 +305,11 @@
     "requests": 1636,
     "model": "gpt-5.6-sol",
     "max_completion_tokens": 2000,
-    "submitted": "2026-10-22T16:04:56+00:00"
+    "submitted": "2026-10-22T16:04:56+00:00",
+    "collected": "2026-10-22T16:25:28+00:00",
+    "rows": 1636,
+    "cost_usd": 1.252344000000001,
+    "parse_errors": 0
   },
   "K_sonnet55_f50": {
     "batch_id": "batch_6ada34296fbc8190aa1354dbabe768fe",
@@ -305,7 +317,11 @@
     "requests": 1636,
     "model": "gpt-5.6-sol",
     "max_completion_tokens": 2000,
-    "submitted": "2026-10-22T16:04:57+00:00"
+    "submitted": "2026-10-22T16:04:57+00:00",
+    "collected": "2026-10-22T16:25:29+00:00",
+    "rows": 1636,
+    "cost_usd": 1.2667179999999996,
+    "parse_errors": 0
   },
   "L_haiku55_f50": {
     "batch_id": "batch_6ada342aa5548190a727c02f3aa26574",
@@ -313,6 +329,10 @@
     "requests": 1636,
     "model": "gpt-5.6-sol",
     "max_completion_tokens": 2000,
-    "submitted": "2026-10-22T16:04:58+00:00"
+    "submitted": "2026-10-22T16:04:58+00:00",
+    "collected": "2026-10-22T16:25:30+00:00",
+    "rows": 1636,
+    "cost_usd": 1.2187380000000014,
+    "parse_errors": 0
   }
 }
