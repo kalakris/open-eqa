@@ -24,8 +24,9 @@ PRICES = {
 # held $100, then -> $140 after a $50 top-up, then -> $145 to finish the last J0p rows before
 # gpt-4-turbo shut down (account balance $150), then -> $160 after another $50 top-up
 # (balance $200), for J0p on the Sonnet/Haiku sets, then -> $212 after $20 more (balance $220)
-# for astra at 50 frames, then -> $219.50 for J0p on the full Qwen vision set.
-BUDGET_USD = 219.5
+# for astra at 50 frames, then -> $219.50 for J0p on the full Qwen vision set,
+# then -> $228 after $10 more (balance $230) to finish J0p/J2 on the Qwen sets.
+BUDGET_USD = 228.0
 
 
 def load_env():

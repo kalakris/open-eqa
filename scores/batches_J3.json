@@ -1,0 +1,50 @@
+{
+  "J3off": {
+    "batch_id": "msgbatch_01CgdHm6z5gKt8iwfUS5A8BJ",
+    "requests": 43458,
+    "model": "claude-haiku-5-5",
+    "config": {
+      "thinking": {
+        "type": "disabled"
+      },
+      "output_config": {
+        "effort": "low"
+      },
+      "max_tokens": 16
+    },
+    "submitted": "2026-10-22T21:29:40+00:00",
+    "collected": "2026-10-22T22:25:00+00:00",
+    "cost_usd": 0.7740017499999998,
+    "sets": 29
+  },
+  "J3low": {
+    "batch_id": "msgbatch_012K41jTUQctssq9e45cvV21",
+    "requests": 43458,
+    "model": "claude-haiku-5-5",
+    "config": {
+      "output_config": {
+        "effort": "low"
+      },
+      "max_tokens": 4000
+    },
+    "submitted": "2026-10-22T21:29:48+00:00",
+    "collected": "2026-10-22T22:14:40+00:00",
+    "cost_usd": 1.68488155,
+    "sets": 29
+  },
+  "J3med": {
+    "batch_id": "msgbatch_01RFmNtwncRAahNZxaaGXhEp",
+    "requests": 43458,
+    "model": "claude-haiku-5-5",
+    "config": {
+      "output_config": {
+        "effort": "medium"
+      },
+      "max_tokens": 4000
+    },
+    "submitted": "2026-10-22T21:29:57+00:00",
+    "collected": "2026-10-22T22:13:35+00:00",
+    "cost_usd": 2.0515522999999987,
+    "sets": 29
+  }
+}

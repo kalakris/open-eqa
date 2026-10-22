@@ -23,17 +23,25 @@ from openeqa.utils.prompt_utils import load_prompt
 MARK = re.compile(r"(?:mark|score|rating)\W{0,3}(?:is|of)?\W{0,3}([1-5])\b", re.IGNORECASE)
 
 
+FIRST_LINE = re.compile(r"^[\s*#_`]*(?:your mark\W*)?([1-5])(?:\s*/\s*5)?[\s*_`.]*$", re.IGNORECASE)
+
+
 def parse_lenient(raw):
     raw = (raw or "").strip()
     try:
         return parse_score(raw)
     except ValueError:
         pass
+    # a mark alone on the first line, possibly bold: "**4**", "4/5", "Your mark: 4"
+    first = FIRST_LINE.match(raw.splitlines()[0]) if raw else None
+    if first:
+        return int(first.group(1))
     hits = MARK.findall(raw)
     if hits:
         return int(hits[-1])
-    tail = re.findall(r"\b([1-5])\b", raw[-40:])
-    return int(tail[-1]) if tail else None
+    # a mark alone on the last line; a stray number inside prose ("2 speakers") is not a mark
+    last = FIRST_LINE.match(raw.splitlines()[-1]) if raw else None
+    return int(last.group(1)) if last else None
 
 
 def main():

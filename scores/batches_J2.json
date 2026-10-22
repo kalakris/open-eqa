@@ -334,5 +334,29 @@
     "rows": 1636,
     "cost_usd": 1.2187380000000014,
     "parse_errors": 0
+  },
+  "M_qwen38": {
+    "batch_id": "batch_6ada8002ec84819087e6ae9ed0a49426",
+    "file_id": "file-HhTtmysyaLqRk3FtBwAFco",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T21:28:35+00:00",
+    "collected": "2026-10-22T21:33:11+00:00",
+    "rows": 1636,
+    "cost_usd": 1.3592120000000014,
+    "parse_errors": 0
+  },
+  "M_qwen38_f50": {
+    "batch_id": "batch_6ada80041788819091473e2ee8b0ce62",
+    "file_id": "file-EaZAnKump5XxvxUGYcjF5B",
+    "requests": 1636,
+    "model": "gpt-5.6-sol",
+    "max_completion_tokens": 2000,
+    "submitted": "2026-10-22T21:28:36+00:00",
+    "collected": "2026-10-22T21:32:08+00:00",
+    "rows": 1636,
+    "cost_usd": 1.290658000000001,
+    "parse_errors": 0
   }
 }
